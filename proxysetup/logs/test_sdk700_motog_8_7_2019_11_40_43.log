@@ -1,0 +1,407 @@
+Loading script: /Users/rmqa/Desktop/git/automation/proxysetup/mitm_script.py
+Proxy server listening at http://0.0.0.0:8080
+10.14.122.172:45914: clientconnect
+config.inmobi.com:http://config.inmobi.com/config-server/v1/config/secure.cfg
+10.14.122.172:45914: POST http://config.inmobi.com/config-server/v1/config/secure.cfg
+                  << 200 OK 1k
+config.inmobi.com:http://config.inmobi.com/config-server/v1/config/secure.cfg
+10.14.122.172:45914: POST http://config.inmobi.com/config-server/v1/config/secure.cfg
+                  << 200 OK 1k
+10.14.122.172:45933: clientconnect
+10.14.122.172:45934: clientconnect
+10.14.122.172:45935: clientconnect
+i.w.inmobi.com:http://i.w.inmobi.com/showad.asm
+10.14.122.172:45934: POST http://i.w.inmobi.com/showad.asm
+                  << 504 Gateway Time-out 0b
+10.14.122.172:45936: clientconnect
+10.14.122.172:45937: clientconnect
+sdktm.w.inmobi.com:https://sdktm.w.inmobi.com/sdkpubreq?event-name=TrueValidAdRequestReceived&d-orientation=1&tz=19800000&request-id=7244d12a-899f-4536-a961-3ceb5e8491d5&d-device-screen-size=360X668&im-plid=101&event-id=73faf4e1-63dd-4c52-af3c-b63896a4eed6&d-nettype-raw=1&User-Agent=Mozilla%2F5.0+%28Linux%3B+Android+7.0%3B+LG-H870DS+Build%2FNRD90U%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Version%2F4.0+Chrome%2F75.0.3770.101+Mobile+Safari%2F537.36&mk-version=pr-SAND-HTATC-20171211&ts=1562566256207&u-id-map=%7B%22GPID%22%3A%2291b7f4c3-ed00-4265-a5ce-05a836d055ec%22%7D&d-device-screen-density=4.0&adtype=int&im-accid=12345678901234567890123456789012&d-media-volume=100&d-density-dependent-screen-size=1440x2672&u-id-adt=0&d-localization=en_GB&d-textsize=56.0
+sdktm.w.inmobi.com:https://sdktm.w.inmobi.com/sdkpubreq?event-name=TrueAdRequestReceived&d-orientation=1&tz=19800000&d-device-screen-size=360X668&im-plid=101&event-id=f9346c6f-6cb7-485e-8627-97927b2ae176&d-nettype-raw=1&User-Agent=Mozilla%2F5.0+%28Linux%3B+Android+7.0%3B+LG-H870DS+Build%2FNRD90U%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Version%2F4.0+Chrome%2F75.0.3770.101+Mobile+Safari%2F537.36&mk-version=pr-SAND-HTATC-20171211&ts=1562566256150&u-id-map=%7B%22GPID%22%3A%2291b7f4c3-ed00-4265-a5ce-05a836d055ec%22%7D&d-device-screen-density=4.0&adtype=int&im-accid=12345678901234567890123456789012&d-media-volume=100&d-density-dependent-screen-size=1440x2672&u-id-adt=0&d-localization=en_GB&d-textsize=56.0
+10.14.122.172:45933: GET https://sdktm.w.inmobi.com/sdkpubreq?event-name=TrueAdRequestReceived&d-orientation=1&tz=19800000&d-device-screen-size=360X668&im-plid=101&event-id=f9346c6f-6cb7-485e-8627-97927b2ae176&d-nettype-raw=1&User-Agent=Mozilla%2F5.0+%28Linux%3B+Android+7.0%3B+LG-H870DS+Build%2FNRD90U%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Version%2F4.0+Chrome%2F75.0.3770.101+Mobile+Safari%2F537.36&mk-version=pr-SAND-HTATC-20171211&ts=1562566256150&u-id-map=%7B%22GPID%22%3A%2291b7f4c3-ed00-4265-a5ce-05a836d055ec%22%7D&d-device-screen-density=4.0&adtype=int&im-accid=12345678901234567890123456789012&d-media-volume=100&d-density-dependent-screen-size=1440x2672&u-id-adt=0&d-localization=en_GB&d-textsize=56.0
+                  << 200 OK 0b
+10.14.122.172:45935: GET https://sdktm.w.inmobi.com/sdkpubreq?event-name=TrueValidAdRequestReceived&d-orientation=1&tz=19800000&request-id=7244d12a-899f-4536-a961-3ceb5e8491d5&d-device-screen-size=360X668&im-plid=101&event-id=73faf4e1-63dd-4c52-af3c-b63896a4eed6&d-nettype-raw=1&User-Agent=Mozilla%2F5.0+%28Linux%3B+Android+7.0%3B+LG-H870DS+Build%2FNRD90U%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Version%2F4.0+Chrome%2F75.0.3770.101+Mobile+Safari%2F537.36&mk-version=pr-SAND-HTATC-20171211&ts=1562566256207&u-id-map=%7B%22GPID%22%3A%2291b7f4c3-ed00-4265-a5ce-05a836d055ec%22%7D&d-device-screen-density=4.0&adtype=int&im-accid=12345678901234567890123456789012&d-media-volume=100&d-density-dependent-screen-size=1440x2672&u-id-adt=0&d-localization=en_GB&d-textsize=56.0
+                  << 200 OK 0b
+sdktm.w.inmobi.com:https://sdktm.w.inmobi.com/sdkpubreq?event-name=TrueAdFailed&d-orientation=1&tz=19800000&request-id=7244d12a-899f-4536-a961-3ceb5e8491d5&d-device-screen-size=360X668&im-plid=101&event-id=5a0fbdfb-8323-464a-bd56-e6e7d9c9e24e&d-nettype-raw=1&User-Agent=Mozilla%2F5.0+%28Linux%3B+Android+7.0%3B+LG-H870DS+Build%2FNRD90U%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Version%2F4.0+Chrome%2F75.0.3770.101+Mobile+Safari%2F537.36&mk-version=pr-SAND-HTATC-20171211&ts=1562566256903&u-id-map=%7B%22GPID%22%3A%2291b7f4c3-ed00-4265-a5ce-05a836d055ec%22%7D&d-device-screen-density=4.0&adtype=int&im-accid=12345678901234567890123456789012&d-media-volume=100&d-density-dependent-screen-size=1440x2672&u-id-adt=0&d-localization=en_GB&d-textsize=56.0
+sdktm.w.inmobi.com:https://sdktm.w.inmobi.com/sdkpubreq?event-name=AdRequestNotFilled&d-orientation=1&tz=19800000&request-id=7244d12a-899f-4536-a961-3ceb5e8491d5&d-device-screen-size=360X668&im-plid=101&event-id=ad368740-2cd6-4360-bb74-93ca52b7caf3&d-nettype-raw=1&User-Agent=Mozilla%2F5.0+%28Linux%3B+Android+7.0%3B+LG-H870DS+Build%2FNRD90U%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Version%2F4.0+Chrome%2F75.0.3770.101+Mobile+Safari%2F537.36&mk-version=pr-SAND-HTATC-20171211&ts=1562566256907&u-id-map=%7B%22GPID%22%3A%2291b7f4c3-ed00-4265-a5ce-05a836d055ec%22%7D&d-device-screen-density=4.0&adtype=int&im-accid=12345678901234567890123456789012&d-media-volume=100&d-density-dependent-screen-size=1440x2672&u-id-adt=0&d-localization=en_GB&d-textsize=56.0
+10.14.122.172:45937: GET https://sdktm.w.inmobi.com/sdkpubreq?event-name=AdRequestNotFilled&d-orientation=1&tz=19800000&request-id=7244d12a-899f-4536-a961-3ceb5e8491d5&d-device-screen-size=360X668&im-plid=101&event-id=ad368740-2cd6-4360-bb74-93ca52b7caf3&d-nettype-raw=1&User-Agent=Mozilla%2F5.0+%28Linux%3B+Android+7.0%3B+LG-H870DS+Build%2FNRD90U%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Version%2F4.0+Chrome%2F75.0.3770.101+Mobile+Safari%2F537.36&mk-version=pr-SAND-HTATC-20171211&ts=1562566256907&u-id-map=%7B%22GPID%22%3A%2291b7f4c3-ed00-4265-a5ce-05a836d055ec%22%7D&d-device-screen-density=4.0&adtype=int&im-accid=12345678901234567890123456789012&d-media-volume=100&d-density-dependent-screen-size=1440x2672&u-id-adt=0&d-localization=en_GB&d-textsize=56.0
+                  << 200 OK 0b
+10.14.122.172:45936: GET https://sdktm.w.inmobi.com/sdkpubreq?event-name=TrueAdFailed&d-orientation=1&tz=19800000&request-id=7244d12a-899f-4536-a961-3ceb5e8491d5&d-device-screen-size=360X668&im-plid=101&event-id=5a0fbdfb-8323-464a-bd56-e6e7d9c9e24e&d-nettype-raw=1&User-Agent=Mozilla%2F5.0+%28Linux%3B+Android+7.0%3B+LG-H870DS+Build%2FNRD90U%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Version%2F4.0+Chrome%2F75.0.3770.101+Mobile+Safari%2F537.36&mk-version=pr-SAND-HTATC-20171211&ts=1562566256903&u-id-map=%7B%22GPID%22%3A%2291b7f4c3-ed00-4265-a5ce-05a836d055ec%22%7D&d-device-screen-density=4.0&adtype=int&im-accid=12345678901234567890123456789012&d-media-volume=100&d-density-dependent-screen-size=1440x2672&u-id-adt=0&d-localization=en_GB&d-textsize=56.0
+                  << 200 OK 0b
+10.14.122.172:45914: clientdisconnect
+10.14.122.172:45943: clientconnect
+config.inmobi.com:http://config.inmobi.com/config-server/v1/config/secure.cfg
+10.14.122.172:45943: POST http://config.inmobi.com/config-server/v1/config/secure.cfg
+                  << 200 OK 7k
+10.14.122.172:45934: clientdisconnect
+10.14.122.172:45971: clientconnect
+rc-studio.inmobi.com:http://rc-studio.inmobi.com/automation/studiokeg/showad.asm?c=pso
+10.14.122.172:45971: POST http://rc-studio.inmobi.com/automation/studiokeg/showad.asm?c=pso
+                  << 200 OK 3k
+10.14.122.172:45935: clientdisconnect
+10.14.122.172:45976: clientconnect
+i.l.inmobicdn.net:https://i.l.inmobicdn.net/sdk/sdk/500/android/mraid.js?ts=1562566273225&tz=19800000&d-media-volume=100&u-id-adt=0&d-nettype-raw=1&mk-version=pr-SAND-HTATC-20171211&d-localization=en_GB
+10.14.122.172:45976: GET https://i.l.inmobicdn.net/sdk/sdk/500/android/mraid.js?ts=1562566273225&tz=19800000&d-media-volume=100&u-id-adt=0&d-nettype-raw=1&mk-version=pr-SAND-HTATC-20171211&d-localization=en_GB
+                  << 200 OK 6k
+10.14.122.172:45933: clientdisconnect
+rc-studio.inmobi.com:http://rc-studio.inmobi.com/automation/studiokeg/showad.asm?c=pso
+10.14.122.172:45971: POST http://rc-studio.inmobi.com/automation/studiokeg/showad.asm?c=pso
+                  << 200 OK 3k
+10.14.122.172:45982: clientconnect
+10.14.122.172:45983: clientconnect
+bs.serving-sys.com:https://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=rsb&c=28&pli=28245321&PluID=0&w=300&h=250&ord=361730c4-5eac-439d-840d-e9323acf4bd7&ncu=$$https://s-et-rc-w.inmobi.com/c.asm/c.asm/C/t/dnxubmu1kr/n4p/3/2m/gz/u/0/0/0/x/d0352ee1-016b-1000-00e6-41603e2c00e6/a702/0/-1/1/0/x/-1350224377/NW/2t/0/sdk/7.0.2/dir/eA~~/FoCS9AEWAAA/6/44ae9fe5$$&mb=1&ucm=true
+inmobisdk-a.akamaihd.net:https://inmobisdk-a.akamaihd.net/sdk/500/android/mraid.js
+10.14.122.172:45982: GET https://inmobisdk-a.akamaihd.net/sdk/500/android/mraid.js
+                  << 200 OK 6k
+10.14.122.172:45983: GET https://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=rsb&c=28&pli=28245321&PluID=0&w=300&h=250&ord=361730c4-5eac-439d-840d-e9323acf4bd7&ncu=$$https://s-et-rc-w.inmobi.com/c.asm/c.asm/C/t/dnxubmu1kr/n4p/3/2m/gz/u/0/0/0/x/d0352ee1-016b-1000-00e6-41603e2c00e6/a702/0/-1/1/0/x/-1350224377/NW/2t/0/sdk/7.0.2/dir/eA~~/FoCS9AEWAAA/6/44ae9fe5$$&mb=1&ucm=true
+                  << 200 OK 3k
+10.14.122.172:45984: clientconnect
+secure-ds.serving-sys.com:https://secure-ds.serving-sys.com/BurstingCachedScripts//Ad_2_152_3_0/ebHtml5Banner.js
+10.14.122.172:45984: GET https://secure-ds.serving-sys.com/BurstingCachedScripts//Ad_2_152_3_0/ebHtml5Banner.js HTTP/2.0
+                  << 200  73k
+secure-ds.serving-sys.com:https://secure-ds.serving-sys.com/BurstingCachedScripts/Modules_1_55_0_0/MRAIDUtil.js
+secure-ds.serving-sys.com:https://secure-ds.serving-sys.com/BurstingCachedScripts/Modules_1_55_0_0/DelayedImpression.js
+10.14.122.172:45984: GET https://secure-ds.serving-sys.com/BurstingCachedScripts/Modules_1_55_0_0/MRAIDUtil.js HTTP/2.0
+                  << 200  3k
+secure-ds.serving-sys.com:https://secure-ds.serving-sys.com/BurstingRes/Site-144515/WSFolders/14366271//index.html?v=_2_105_1_0&n=1
+secure-ds.serving-sys.com:https://secure-ds.serving-sys.com/BurstingCachedScripts/Modules_1_55_0_0/IntersectionObserverVisibilityProvider.js
+10.14.122.172:45984: GET https://secure-ds.serving-sys.com/BurstingCachedScripts/Modules_1_55_0_0/DelayedImpression.js HTTP/2.0
+                  << 200  878b
+10.14.122.172:45984: GET https://secure-ds.serving-sys.com/BurstingCachedScripts/Modules_1_55_0_0/IntersectionObserverVisibilityProvider.js HTTP/2.0
+                  << 200  1k
+10.14.122.172:45984: GET https://secure-ds.serving-sys.com/BurstingRes/Site-144515/WSFolders/14366271//index.html?v=_2_105_1_0&n=1 HTTP/2.0
+                  << 200  1k
+secure-ds.serving-sys.com:https://secure-ds.serving-sys.com/BurstingcachedScripts/libraries/createjs/createjs-2015.11.26.min.js
+bs.serving-sys.com:https://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=display&code=10&PluID=0&EyeblasterID=59230418&Page=&WebPageSource=0&ForceDisplay=0&Resolution=0&sessionid=2400386001758961798&Optout=0&usercookie=u2=4e1378da-3407-4325-ada9-fa22fd426557&implog=$$4e1378da-3407-4325-ada9-fa22fd426557%7f%5bMM_LOGTIME%5d%7f0%7f59230418%7f%07DIR%3d8448%07DiOrigin%3d0%07CKDATE%3d4qB%07MB%3d1%07TA%3d-1%07DG%3d11779841%07SDG%3d17929608%07SID%3d2400386001758961798%07DCID%3d64%07Privacy%3d1%07IsNewUser%3d%5bIS_NEW_USER%5d%07IsCrossDevice%3d0%7f0%7f%7c%7clg_h870_ver1_subuads%7c1%7c1%7f13%7f36%7fUserIP%3d999327378%07DBID%3d141599214%07UserAgent%3dMozilla%2f5.0%20(Linux%3b%20Android%207.0%3b%20LG-H870DS%20Build%2fNRD90U%3b%20wv)%20AppleWebKit%2f537.36%20(KHTML%2c%20like%20Gecko)%20Version%2f4.0%20Chrome%2f75.0.3770.101%20Mobile%20Safari%2f537.36%07ShouldAddUserAgent%3d1%07Referrer%3d%07DF%3d1%07MBDVC%3dLG%20H870DS%07SiteID%3d79263%07CampaingID%3d970019%07AdvertiserID%3d184132%07FlightID%3d28245321%07AgencyID%3d131572%07BrandID%3d331274%07MasterAdID%3d59141575%07Country%3d356%07State%3d10011%07City%3d11115%07DMA%3d356004%07ZIP%3d560004%07Latitude%3d12.9454%07Longitude%3d77.5776%7f%7f1$$&dg=11779841&sdg=17929608&ord=0.7517916613248037
+secure-ds.serving-sys.com:https://secure-ds.serving-sys.com/BurstingRes/Site-144515/WSFolders/14366271//index.js?1560311222498
+secure-ds.serving-sys.com:https://secure-ds.serving-sys.com/BurstingCachedScripts/adkit/1_0_41_5/adkit.js
+10.14.122.172:45984: GET https://secure-ds.serving-sys.com/BurstingcachedScripts/libraries/createjs/createjs-2015.11.26.min.js HTTP/2.0
+                  << 200  50k
+10.14.122.172:45983: GET https://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=display&code=10&PluID=0&EyeblasterID=59230418&Page=&WebPageSource=0&ForceDisplay=0&Resolution=0&sessionid=2400386001758961798&Optout=0&usercookie=u2=4e1378da-3407-4325-ada9-fa22fd426557&implog=$$4e1378da-3407-4325-ada9-fa22fd426557%7f%5bMM_LOGTIME%5d%7f0%7f59230418%7f%07DIR%3d8448%07DiOrigin%3d0%07CKDATE%3d4qB%07MB%3d1%07TA%3d-1%07DG%3d11779841%07SDG%3d17929608%07SID%3d2400386001758961798%07DCID%3d64%07Privacy%3d1%07IsNewUser%3d%5bIS_NEW_USER%5d%07IsCrossDevice%3d0%7f0%7f%7c%7clg_h870_ver1_subuads%7c1%7c1%7f13%7f36%7fUserIP%3d999327378%07DBID%3d141599214%07UserAgent%3dMozilla%2f5.0%20(Linux%3b%20Android%207.0%3b%20LG-H870DS%20Build%2fNRD90U%3b%20wv)%20AppleWebKit%2f537.36%20(KHTML%2c%20like%20Gecko)%20Version%2f4.0%20Chrome%2f75.0.3770.101%20Mobile%20Safari%2f537.36%07ShouldAddUserAgent%3d1%07Referrer%3d%07DF%3d1%07MBDVC%3dLG%20H870DS%07SiteID%3d79263%07CampaingID%3d970019%07AdvertiserID%3d184132%07FlightID%3d28245321%07AgencyID%3d131572%07BrandID%3d331274%07MasterAdID%3d59141575%07Country%3d356%07State%3d10011%07City%3d11115%07DMA%3d356004%07ZIP%3d560004%07Latitude%3d12.9454%07Longitude%3d77.5776%7f%7f1$$&dg=11779841&sdg=17929608&ord=0.7517916613248037
+                  << 200 OK 62b
+10.14.122.172:45984: GET https://secure-ds.serving-sys.com/BurstingCachedScripts/adkit/1_0_41_5/adkit.js HTTP/2.0
+                  << 200  23k
+10.14.122.172:45984: GET https://secure-ds.serving-sys.com/BurstingRes/Site-144515/WSFolders/14366271//index.js?1560311222498 HTTP/2.0
+                  << 200  6k
+secure-ds.serving-sys.com:https://secure-ds.serving-sys.com/BurstingRes/Site-144515/WSFolders/14366271/config.js
+10.14.122.172:45984: GET https://secure-ds.serving-sys.com/BurstingRes/Site-144515/WSFolders/14366271/config.js HTTP/2.0
+                  << 200  45b
+10.14.122.172:45986: clientconnect
+au.w.inmobi.com:http://au.w.inmobi.com/?m=120
+secure-ds.serving-sys.com:https://secure-ds.serving-sys.com/BurstingScript/EBLoader.js
+10.14.122.172:45984: GET https://secure-ds.serving-sys.com/BurstingScript/EBLoader.js HTTP/2.0
+                  << 200  2k
+10.14.122.172:45986: GET http://au.w.inmobi.com/?m=120
+                  << 200 OK 11k
+secure-ds.serving-sys.com:https://secure-ds.serving-sys.com/BurstingCachedScripts/HTML5Res_2_105_1_0/EB.js
+10.14.122.172:45984: GET https://secure-ds.serving-sys.com/BurstingCachedScripts/HTML5Res_2_105_1_0/EB.js HTTP/2.0
+                  << 200  24k
+secure-ds.serving-sys.com:https://secure-ds.serving-sys.com/BurstingRes/Site-144515/WSFolders/14366271//images/end.png?1560311222496
+10.14.122.172:45984: GET https://secure-ds.serving-sys.com/BurstingRes/Site-144515/WSFolders/14366271//images/end.png?1560311222496 HTTP/2.0
+                  << 200  4k
+secure-ds.serving-sys.com:https://secure-ds.serving-sys.com/BurstingRes/Site-144515/WSFolders/14366271//images/mainimg.jpg?1560311222496
+10.14.122.172:45984: GET https://secure-ds.serving-sys.com/BurstingRes/Site-144515/WSFolders/14366271//images/mainimg.jpg?1560311222496 HTTP/2.0
+                  << 200  21k
+au.w.inmobi.com:http://au.w.inmobi.com/?m=120
+secure-ds.serving-sys.com:https://secure-ds.serving-sys.com/BurstingRes/Site-144515/WSFolders/14366271//images/text.png?1560311222496
+10.14.122.172:45986: GET http://au.w.inmobi.com/?m=120
+                  << 200 OK 11k
+10.14.122.172:45984: GET https://secure-ds.serving-sys.com/BurstingRes/Site-144515/WSFolders/14366271//images/text.png?1560311222496 HTTP/2.0
+                  << 200  4k
+au.w.inmobi.com:http://au.w.inmobi.com/?m=120
+10.14.122.172:45986: GET http://au.w.inmobi.com/?m=120
+                  << 200 OK 11k
+au.w.inmobi.com:http://au.w.inmobi.com/?m=120
+10.14.122.172:45986: GET http://au.w.inmobi.com/?m=120
+                  << 200 OK 11k
+au.w.inmobi.com:http://au.w.inmobi.com/?m=120
+10.14.122.172:45986: GET http://au.w.inmobi.com/?m=120
+                  << 200 OK 11k
+bs.serving-sys.com:https://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=brd&PluID=0&Pos=7344375553064688&EyeblasterID=59230418&clk=1&sct=1&dg=17929608&dgo=11779841&di=0&pc=&sessionid=2400386001758961798&usercookie=u2=4e1378da-3407-4325-ada9-fa22fd426557&OptOut=0&ebReferrer=about%3Ablank&ncu=https%3A%2F%2Fs-et-rc-w.inmobi.com%2Fc.asm%2Fc.asm%2FC%2Ft%2Fdnxubmu1kr%2Fn4p%2F3%2F2m%2Fgz%2Fu%2F0%2F0%2F0%2Fx%2Fd0352ee1-016b-1000-00e6-41603e2c00e6%2Fa702%2F0%2F-1%2F1%2F0%2Fx%2F-1350224377%2FNW%2F2t%2F0%2Fsdk%2F7.0.2%2Fdir%2FeA~~%2FFoCS9AEWAAA%2F6%2F44ae9fe5
+10.14.122.172:45996: clientconnect
+10.14.122.172:45983: GET https://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=brd&PluID=0&Pos=7344375553064688&EyeblasterID=59230418&clk=1&sct=1&dg=17929608&dgo=11779841&di=0&pc=&sessionid=2400386001758961798&usercookie=u2=4e1378da-3407-4325-ada9-fa22fd426557&OptOut=0&ebReferrer=about%3Ablank&ncu=https%3A%2F%2Fs-et-rc-w.inmobi.com%2Fc.asm%2Fc.asm%2FC%2Ft%2Fdnxubmu1kr%2Fn4p%2F3%2F2m%2Fgz%2Fu%2F0%2F0%2F0%2Fx%2Fd0352ee1-016b-1000-00e6-41603e2c00e6%2Fa702%2F0%2F-1%2F1%2F0%2Fx%2F-1350224377%2FNW%2F2t%2F0%2Fsdk%2F7.0.2%2Fdir%2FeA~~%2FFoCS9AEWAAA%2F6%2F44ae9fe5
+                  << 200 OK 1k
+10.14.122.172:45997: clientconnect
+10.14.122.172:45998: clientconnect
+10.14.122.172:45996: CONNECT api.peer5.com:443
+ << Cannot establish TLS with client (sni: api.peer5.com): TlsException("SSL handshake error: Error([('SSL routines', 'ssl3_read_bytes', 'sslv3 alert certificate unknown')],)",)
+10.14.122.172:45997: CONNECT api.peer5.com:443
+ << Cannot establish TLS with client (sni: api.peer5.com): TlsException("SSL handshake error: Error([('SSL routines', 'ssl3_read_bytes', 'sslv3 alert certificate unknown')],)",)
+10.14.122.172:45997: clientdisconnect
+10.14.122.172:45996: clientdisconnect
+10.14.122.172:45984: clientdisconnect
+10.14.122.172:45999: clientconnect
+s-et-rc-w.inmobi.com:https://s-et-rc-w.inmobi.com/c.asm/c.asm/C/t/dnxubmu1kr/n4p/3/2m/gz/u/0/0/0/x/d0352ee1-016b-1000-00e6-41603e2c00e6/a702/0/-1/1/0/x/-1350224377/NW/2t/0/sdk/7.0.2/dir/eA~~/FoCS9AEWAAA/6/44ae9fe5
+10.14.122.172:45998: GET https://s-et-rc-w.inmobi.com/c.asm/c.asm/C/t/dnxubmu1kr/n4p/3/2m/gz/u/0/0/0/x/d0352ee1-016b-1000-00e6-41603e2c00e6/a702/0/-1/1/0/x/-1350224377/NW/2t/0/sdk/7.0.2/dir/eA~~/FoCS9AEWAAA/6/44ae9fe5
+                  << 302 Found 0b
+www.esc.vic.gov.au:https://www.esc.vic.gov.au/its-your-energy
+10.14.122.172:45999: GET https://www.esc.vic.gov.au/its-your-energy
+                  << 200 OK 33k
+10.14.122.172:46000: clientconnect
+10.14.122.172:46001: clientconnect
+10.14.122.172:46002: clientconnect
+10.14.122.172:46003: clientconnect
+10.14.122.172:46004: clientconnect
+10.14.122.172:46005: clientconnect
+10.14.122.172:46006: clientconnect
+10.14.122.172:46007: clientconnect
+www.esc.vic.gov.au:https://www.esc.vic.gov.au/sites/default/files/css/css_c8uKrkdw3uTl-xXgGz0TtfMpOZq9ps2b3GoXRcXqFfo.css?ptotvt
+10.14.122.172:45999: GET https://www.esc.vic.gov.au/sites/default/files/css/css_c8uKrkdw3uTl-xXgGz0TtfMpOZq9ps2b3GoXRcXqFfo.css?ptotvt
+                  << 200 OK 2k
+www.esc.vic.gov.au:https://www.esc.vic.gov.au/sites/default/files/css/css_nMP-tAW0jUUTBNhVDZSz1cuQsrkWM4_fv2IU_dJmNg0.css?ptotvt
+cdnjs.cloudflare.com:https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.15/css/jquery.dataTables.css
+10.14.122.172:45999: GET https://www.esc.vic.gov.au/sites/default/files/css/css_nMP-tAW0jUUTBNhVDZSz1cuQsrkWM4_fv2IU_dJmNg0.css?ptotvt
+                  << 200 OK 1k
+10.14.122.172:46005: CONNECT fonts.googleapis.com:443
+ << Cannot establish TLS with client (sni: fonts.googleapis.com): TlsException("(-1, 'Unexpected EOF')",)
+10.14.122.172:46005: clientdisconnect
+fonts.googleapis.com:https://fonts.googleapis.com/css?family=Assistant:300,400,600,700,800
+fonts.googleapis.com:https://fonts.googleapis.com/css?family=Bowlby+One+SC
+www.esc.vic.gov.au:https://www.esc.vic.gov.au/sites/default/files/css/css_QZyUmKwjl-JiTE7UXxzamhVxm7QcD0td55JbQ_kAyY0.css?ptotvt
+10.14.122.172:46002: GET https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.15/css/jquery.dataTables.css HTTP/2.0
+                  << 200  2k
+10.14.122.172:45999: GET https://www.esc.vic.gov.au/sites/default/files/css/css_QZyUmKwjl-JiTE7UXxzamhVxm7QcD0td55JbQ_kAyY0.css?ptotvt
+                  << 200 OK 21k
+www.esc.vic.gov.au:https://www.esc.vic.gov.au/sites/default/files/css/css_T0XhiNDvt8BGs2R55iZY4IMO6P7cZ9xPkKfapuuXFN0.css?ptotvt
+www.esc.vic.gov.au:https://www.esc.vic.gov.au/core/assets/vendor/modernizr/modernizr.min.js?v=3.3.1
+10.14.122.172:46003: GET https://www.esc.vic.gov.au/core/assets/vendor/modernizr/modernizr.min.js?v=3.3.1
+                  << 200 OK 4k
+10.14.122.172:46007: GET https://www.esc.vic.gov.au/sites/default/files/css/css_T0XhiNDvt8BGs2R55iZY4IMO6P7cZ9xPkKfapuuXFN0.css?ptotvt
+                  << 200 OK 650b
+www.esc.vic.gov.au:https://www.esc.vic.gov.au/themes/custom/escw/images/esc_logo_white.svg
+www.esc.vic.gov.au:https://www.esc.vic.gov.au/sites/default/files/styles/custom_jumbotron_1920_x_n/public/lighting-background.png?itok=-oxSV5i7
+10.14.122.172:46006: GET https://www.esc.vic.gov.au/themes/custom/escw/images/esc_logo_white.svg
+                  << 200 OK 7k
+10.14.122.172:46001: GET https://www.esc.vic.gov.au/sites/default/files/styles/custom_jumbotron_1920_x_n/public/lighting-background.png?itok=-oxSV5i7
+                  << 200 OK 85k
+www.esc.vic.gov.au:https://www.esc.vic.gov.au/sites/default/files/js/js_Ay8hWp_QxFa9lvEHslEWqh8yaERyL5RXcSvnCdPZsjY.js
+10.14.122.172:46006: GET https://www.esc.vic.gov.au/sites/default/files/js/js_Ay8hWp_QxFa9lvEHslEWqh8yaERyL5RXcSvnCdPZsjY.js
+                  << 200 OK 55k
+10.14.122.172:46004: GET https://fonts.googleapis.com/css?family=Assistant:300,400,600,700,800 HTTP/2.0
+                  << 200  476b
+10.14.122.172:46004: GET https://fonts.googleapis.com/css?family=Bowlby+One+SC HTTP/2.0
+                  << 200  379b
+www.esc.vic.gov.au:https://www.esc.vic.gov.au/sites/default/files/js/js_LpBRMf3o7tw5HlW1xj60ChBZcbpNnbnoXafN80dH_mI.js
+10.14.122.172:46001: GET https://www.esc.vic.gov.au/sites/default/files/js/js_LpBRMf3o7tw5HlW1xj60ChBZcbpNnbnoXafN80dH_mI.js
+                  << 200 OK 7k
+10.14.122.172:46008: clientconnect
+10.14.122.172:46009: clientconnect
+10.14.122.172:46010: clientconnect
+10.14.122.172:46011: clientconnect
+10.14.122.172:46012: clientconnect
+10.14.122.172:46013: clientconnect
+10.14.122.172:46014: clientconnect
+10.14.122.172:46015: clientconnect
+10.14.122.172:46016: clientconnect
+cdnjs.cloudflare.com:https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.15/js/jquery.dataTables.min.js
+10.14.122.172:46017: clientconnect
+10.14.122.172:46002: GET https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.15/js/jquery.dataTables.min.js HTTP/2.0
+                  << 200  27k
+www.esc.vic.gov.au:https://www.esc.vic.gov.au/sites/default/files/js/js_Kh_ij65AD3AzOjsfLSsuOWqCen134ku_8ykBUcmat58.js
+www.esc.vic.gov.au:https://www.esc.vic.gov.au/sites/default/files/js/js_FquSIup7Bh0Ba3k0dG90Fc2UnaCy3hCCaQ5LXL02JRk.js
+www.esc.vic.gov.au:https://www.esc.vic.gov.au/sites/default/files/2019-06/190514_EC_06_1169_v3%20portrait.jpg
+www.esc.vic.gov.au:https://www.esc.vic.gov.au/sites/default/files/2019-06/190514_EC_06_1171_v2%20portrait.jpg
+www.esc.vic.gov.au:https://www.esc.vic.gov.au/sites/default/files/styles/icon_large_60_x_60/public/mini_bolt.png?itok=CuMydBS2
+www.esc.vic.gov.au:https://www.esc.vic.gov.au/themes/custom/escw/images/small-arrow-white.svg
+10.14.122.172:46001: GET https://www.esc.vic.gov.au/sites/default/files/js/js_Kh_ij65AD3AzOjsfLSsuOWqCen134ku_8ykBUcmat58.js
+                  << 200 OK 2k
+10.14.122.172:46000: GET https://www.esc.vic.gov.au/themes/custom/escw/images/small-arrow-white.svg
+                  << 200 OK 1k
+10.14.122.172:46006: GET https://www.esc.vic.gov.au/sites/default/files/js/js_FquSIup7Bh0Ba3k0dG90Fc2UnaCy3hCCaQ5LXL02JRk.js
+                  << 200 OK 9k
+10.14.122.172:46007: GET https://www.esc.vic.gov.au/sites/default/files/styles/icon_large_60_x_60/public/mini_bolt.png?itok=CuMydBS2
+                  << 200 OK 1k
+www.esc.vic.gov.au:https://www.esc.vic.gov.au/themes/custom/escw/fonts/icomoon/fonts/icomoon.woff
+10.14.122.172:46001: GET https://www.esc.vic.gov.au/themes/custom/escw/fonts/icomoon/fonts/icomoon.woff
+                  << 200 OK 1k
+www.esc.vic.gov.au:https://www.esc.vic.gov.au/libraries/uikit/fonts/fontawesome-webfont.woff
+www.esc.vic.gov.au:https://www.esc.vic.gov.au/sites/default/files/2019-06/190514_EC_05_1009_v2%20young%20woman%202%20portrait_0.jpg
+www.esc.vic.gov.au:https://www.esc.vic.gov.au/sites/default/files/2019-06/190514_EC_05_1011_v2%20young%20woman%202%20portrait.jpg
+10.14.122.172:46003: GET https://www.esc.vic.gov.au/sites/default/files/2019-06/190514_EC_06_1169_v3%20portrait.jpg
+                  << 200 OK 255k
+10.14.122.172:46017: CONNECT fonts.gstatic.com:443
+ << Cannot establish TLS with client (sni: fonts.gstatic.com): TlsException("(-1, 'Unexpected EOF')",)
+10.14.122.172:46017: clientdisconnect
+fonts.gstatic.com:https://fonts.gstatic.com/s/assistant/v3/2sDcZGJYnIjSi6H75xkzaGW5Kb8VZA.woff2
+10.14.122.172:45999: GET https://www.esc.vic.gov.au/sites/default/files/2019-06/190514_EC_06_1171_v2%20portrait.jpg
+                  << 200 OK 246k
+www.youtube.com:https://www.youtube.com/embed/dPWpiHrJru0?autoplay=1&start=0&rel=0
+www.esc.vic.gov.au:https://www.esc.vic.gov.au/sites/default/files/2019-06/190514_EC_01_0074_v2%20older%20man%20portrait.jpg
+fonts.gstatic.com:https://fonts.gstatic.com/s/bowlbyonesc/v10/DtVlJxerQqQm37tzN3wMug9P_g_2oipOnuA.woff2
+10.14.122.172:46006: GET https://www.esc.vic.gov.au/libraries/uikit/fonts/fontawesome-webfont.woff
+                  << 200 OK 95k
+fonts.gstatic.com:https://fonts.gstatic.com/s/assistant/v3/2sDZZGJYnIjSi6H75xk7t0GsBJ0YTivYtg.woff2
+fonts.gstatic.com:https://fonts.gstatic.com/s/assistant/v3/2sDZZGJYnIjSi6H75xk7w0esBJ0YTivYtg.woff2
+fonts.gstatic.com:https://fonts.gstatic.com/s/assistant/v3/2sDZZGJYnIjSi6H75xk700CsBJ0YTivYtg.woff2
+10.14.122.172:46008: GET https://fonts.gstatic.com/s/assistant/v3/2sDcZGJYnIjSi6H75xkzaGW5Kb8VZA.woff2 HTTP/2.0
+                  << 200  10k
+10.14.122.172:46008: GET https://fonts.gstatic.com/s/bowlbyonesc/v10/DtVlJxerQqQm37tzN3wMug9P_g_2oipOnuA.woff2 HTTP/2.0
+                  << 200  19k
+10.14.122.172:46008: GET https://fonts.gstatic.com/s/assistant/v3/2sDZZGJYnIjSi6H75xk7t0GsBJ0YTivYtg.woff2 HTTP/2.0
+                  << 200  10k
+10.14.122.172:46008: GET https://fonts.gstatic.com/s/assistant/v3/2sDZZGJYnIjSi6H75xk700CsBJ0YTivYtg.woff2 HTTP/2.0
+                  << 200  10k
+10.14.122.172:46008: GET https://fonts.gstatic.com/s/assistant/v3/2sDZZGJYnIjSi6H75xk7w0esBJ0YTivYtg.woff2 HTTP/2.0
+                  << 200  10k
+10.14.122.172:46000: GET https://www.esc.vic.gov.au/sites/default/files/2019-06/190514_EC_05_1009_v2%20young%20woman%202%20portrait_0.jpg
+                  << 200 OK 184k
+10.14.122.172:46007: GET https://www.esc.vic.gov.au/sites/default/files/2019-06/190514_EC_05_1011_v2%20young%20woman%202%20portrait.jpg
+                  << 200 OK 163k
+script.crazyegg.com:https://script.crazyegg.com/pages/scripts/0076/2601.js
+www.esc.vic.gov.au:https://www.esc.vic.gov.au/sites/default/files/2019-06/190514_EC_01_0088_v2%20older%20man%20portrait.jpg
+10.14.122.172:46011: GET https://script.crazyegg.com/pages/scripts/0076/2601.js HTTP/2.0
+                  << 200  4k
+10.14.122.172:46013: GET https://www.youtube.com/embed/dPWpiHrJru0?autoplay=1&start=0&rel=0 HTTP/2.0
+                  << 200  19k
+www.esc.vic.gov.au:https://www.esc.vic.gov.au/sites/default/files/2019-06/190514_EC_02_0401_v2%20older%20woman%20landscape%20set%201_3.jpg
+www.esc.vic.gov.au:https://www.esc.vic.gov.au/sites/default/files/2019-06/190514_EC_02_0400_v2%20older%20woman%20landscape%20set%201_4.jpg
+www.google-analytics.com:https://www.google-analytics.com/analytics.js
+www.youtube.com:https://www.youtube.com/yts/cssbin/www-player-sprite-mode-vflY8RB4O.css
+www.youtube.com:https://www.youtube.com/yts/jsbin/www-embed-player-vflu1HT3r/www-embed-player.js
+www.youtube.com:https://www.youtube.com/yts/jsbin/player_ias-vfliSA6ma/en_GB/base.js
+10.14.122.172:46010: GET https://www.google-analytics.com/analytics.js HTTP/2.0
+                  << 200  17k
+drwgdblqzrfiz.cloudfront.net:https://drwgdblqzrfiz.cloudfront.net/message.js
+www.esc.vic.gov.au:https://www.esc.vic.gov.au/sites/default/files/2019-06/190514_EC_04_0803_v2%20young%20man%20set%202_0.jpg
+cdn.rawgit.com:https://cdn.rawgit.com/nnattawat/flip/master/dist/jquery.flip.min.js
+www.esc.vic.gov.au:https://www.esc.vic.gov.au/sites/default/files/2019-06/190514_EC_04_0826_v2%20young%20man%20set%202_1.jpg
+10.14.122.172:46012: GET https://drwgdblqzrfiz.cloudfront.net/message.js HTTP/2.0
+                  << 200  2k
+10.14.122.172:46013: GET https://www.youtube.com/yts/cssbin/www-player-sprite-mode-vflY8RB4O.css HTTP/2.0
+                  << 200  54k
+10.14.122.172:46003: GET https://www.esc.vic.gov.au/sites/default/files/2019-06/190514_EC_01_0088_v2%20older%20man%20portrait.jpg
+                  << 200 OK 366k
+10.14.122.172:46001: GET https://www.esc.vic.gov.au/sites/default/files/2019-06/190514_EC_01_0074_v2%20older%20man%20portrait.jpg
+                  << 200 OK 334k
+10.14.122.172:46006: GET https://www.esc.vic.gov.au/sites/default/files/2019-06/190514_EC_02_0400_v2%20older%20woman%20landscape%20set%201_4.jpg
+                  << 200 OK 163k
+10.14.122.172:46007: GET https://www.esc.vic.gov.au/sites/default/files/2019-06/190514_EC_04_0803_v2%20young%20man%20set%202_0.jpg
+                  << 200 OK 199k
+www.google-analytics.com:https://www.google-analytics.com/r/collect?v=1&_v=j77&aip=1&a=1201770494&t=pageview&_s=1&dl=https%3A%2F%2Fwww.esc.vic.gov.au%2Fits-your-energy&dr=https%3A%2F%2Fbs.serving-sys.com%2FBurstingPipe%2FadServer.bs%3Fcn%3Dbrd%26PluID%3D0%26Pos%3D7344375553064688%26EyeblasterID%3D59230418%26clk%3D1%26sct%3D1%26dg%3D17929608%26dgo%3D11779841%26di%3D0%26pc%3D%26sessionid%3D2400386001758961798%26usercookie%3Du2%3D4e1378da-3407-4325-ada9-fa22fd426557%26OptOut%3D0%26ebReferrer%3Dabout%253Ablank%26ncu%3Dhttps%253A%252F%252Fs-et-rc-w.inmobi.com%252Fc.asm%252Fc.asm%252FC%252Ft%252Fdnxubmu1kr%252Fn4p%252F3%252F2m%252Fgz%252Fu%252F0%252F0%252F0%252Fx%252Fd0352ee1-016b-1000-00e6-41603e2c00e6%252Fa702%252F0%252F-1%252F1%252F0%252Fx%252F-1350224377%252FNW%252F2t%252F0%252Fsdk%252F7.0.2%252Fdir%252FeA~~%252FFoCS9AEWAAA%252F6%252F44ae9fe5&ul=en-gb&de=UTF-8&dt=It%27s%20your%20energy%2C%20Victoria%20%7C%20Essential%20Services%20Commission&sd=24-bit&sr=360x668&vp=360x596&je=0&_u=YEBAAEAB~&jid=1827401361&gjid=1575392237&cid=1368505035.1562566326&tid=UA-78500529-1&_gid=1763367910.1562566326&_r=1&z=1343950384
+10.14.122.172:46013: GET https://www.youtube.com/yts/jsbin/player_ias-vfliSA6ma/en_GB/base.js HTTP/2.0
+                  << 200  376k
+10.14.122.172:46013: GET https://www.youtube.com/yts/jsbin/www-embed-player-vflu1HT3r/www-embed-player.js HTTP/2.0
+                  << 200  38k
+10.14.122.172:46009: GET https://cdn.rawgit.com/nnattawat/flip/master/dist/jquery.flip.min.js HTTP/2.0
+                  << 200  1k
+10.14.122.172:46010: GET https://www.google-analytics.com/r/collect?v=1&_v=j77&aip=1&a=1201770494&t=pageview&_s=1&dl=https%3A%2F%2Fwww.esc.vic.gov.au%2Fits-your-energy&dr=https%3A%2F%2Fbs.serving-sys.com%2FBurstingPipe%2FadServer.bs%3Fcn%3Dbrd%26PluID%3D0%26Pos%3D7344375553064688%26EyeblasterID%3D59230418%26clk%3D1%26sct%3D1%26dg%3D17929608%26dgo%3D11779841%26di%3D0%26pc%3D%26sessionid%3D2400386001758961798%26usercookie%3Du2%3D4e1378da-3407-4325-ada9-fa22fd426557%26OptOut%3D0%26ebReferrer%3Dabout%253Ablank%26ncu%3Dhttps%253A%252F%252Fs-et-rc-w.inmobi.com%252Fc.asm%252Fc.asm%252FC%252Ft%252Fdnxubmu1kr%252Fn4p%252F3%252F2m%252Fgz%252Fu%252F0%252F0%252F0%252Fx%252Fd0352ee1-016b-1000-00e6-41603e2c00e6%252Fa702%252F0%252F-1%252F1%252F0%252Fx%252F-1350224377%252FNW%252F2t%252F0%252Fsdk%252F7.0.2%252Fdir%252FeA~~%252FFoCS9AEWAAA%252F6%252F44ae9fe5&ul=en-gb&de=UTF-8&dt=It%27s%20your%20energy%2C%20Victoria%20%7C%20Essential%20Services%20Commission&sd=24-bit&sr=360x668&vp=360x596&je=0&_u=YEBAAEAB~&jid=1827401361&gjid=1575392237&cid=1368505035.1562566326&tid=UA-78500529-1&_gid=1763367910.1562566326&_r=1&z=1343950384 HTTP/2.0
+                  << 302  420b
+www.esc.vic.gov.au:https://www.esc.vic.gov.au/sites/default/files/2019-06/190514_EC_03_0719_v2%20young%20man%20landscape_5.jpg
+10.14.122.172:46000: GET https://www.esc.vic.gov.au/sites/default/files/2019-06/190514_EC_04_0826_v2%20young%20man%20set%202_1.jpg
+                  << 200 OK 430k
+www.esc.vic.gov.au:https://www.esc.vic.gov.au/sites/default/files/2019-06/190514_EC_06_1171_v2%20landscape_2.jpg
+www.esc.vic.gov.au:https://www.esc.vic.gov.au/sites/default/files/2019-06/190514_EC_03_0745_v2%20young%20man%20landscape_4.jpg
+10.14.122.172:46003: GET https://www.esc.vic.gov.au/sites/default/files/2019-06/190514_EC_03_0719_v2%20young%20man%20landscape_5.jpg
+                  << 200 OK 165k
+10.14.122.172:45999: GET https://www.esc.vic.gov.au/sites/default/files/2019-06/190514_EC_02_0401_v2%20older%20woman%20landscape%20set%201_3.jpg
+                  << 200 OK 146k
+10.14.122.172:46006: GET https://www.esc.vic.gov.au/sites/default/files/2019-06/190514_EC_03_0745_v2%20young%20man%20landscape_4.jpg
+                  << 200 OK 193k
+10.14.122.172:46007: GET https://www.esc.vic.gov.au/sites/default/files/2019-06/190514_EC_06_1171_v2%20landscape_2.jpg
+                  << 200 OK 196k
+10.14.122.172:46018: clientconnect
+www.esc.vic.gov.au:https://www.esc.vic.gov.au/sites/default/files/2019-06/190514_EC_06_1169_v3%20landscape_2.jpg
+www.esc.vic.gov.au:https://www.esc.vic.gov.au/sites/default/files/2019-06/190514_EC_02_0505_v2%20older%20woman%20landscape%20set%202_6.jpg
+www.esc.vic.gov.au:https://www.esc.vic.gov.au/sites/default/files/2019-06/190514_EC_02_0508_v2%20older%20woman%20landscape%20set%202_5.jpg
+10.14.122.172:46019: clientconnect
+10.14.122.172:46020: clientconnect
+10.14.122.172:46021: clientconnect
+10.14.122.172:46022: clientconnect
+10.14.122.172:46023: clientconnect
+10.14.122.172:46024: clientconnect
+www.esc.vic.gov.au:https://www.esc.vic.gov.au/sites/default/files/2019-06/190514_EC_01_0088_v2%20older%20man%20landscape.jpg
+www.esc.vic.gov.au:https://www.esc.vic.gov.au/sites/default/files/2019-06/190514_EC_01_0074_v2%20older%20man%20landscape.jpg
+www.esc.vic.gov.au:https://www.esc.vic.gov.au/sites/default/files/Lightning%20Medium.svg
+10.14.122.172:46003: GET https://www.esc.vic.gov.au/sites/default/files/2019-06/190514_EC_02_0505_v2%20older%20woman%20landscape%20set%202_6.jpg
+                  << 200 OK 149k
+10.14.122.172:46025: clientconnect
+10.14.122.172:46026: clientconnect
+10.14.122.172:46001: GET https://www.esc.vic.gov.au/sites/default/files/2019-06/190514_EC_06_1169_v3%20landscape_2.jpg
+                  << 200 OK 201k
+10.14.122.172:46000: GET https://www.esc.vic.gov.au/sites/default/files/Lightning%20Medium.svg
+                  << 200 OK 930b
+10.14.122.172:46007: GET https://www.esc.vic.gov.au/sites/default/files/2019-06/190514_EC_01_0088_v2%20older%20man%20landscape.jpg
+                  << 200 OK 169k
+www.esc.vic.gov.au:https://www.esc.vic.gov.au/sites/default/files/esc_logo_white.svg
+10.14.122.172:46019: CONNECT drwgdblqzrfiz.cloudfront.net:443
+ << Cannot establish TLS with client (sni: drwgdblqzrfiz.cloudfront.net): TlsException("(-1, 'Unexpected EOF')",)
+10.14.122.172:45986: clientdisconnect
+10.14.122.172:46028: clientconnect
+10.14.122.172:46029: clientconnect
+10.14.122.172:46019: clientdisconnect
+fonts.gstatic.com:https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxPKTU1Kg.ttf
+10.14.122.172:46030: clientconnect
+10.14.122.172:46031: clientconnect
+drwgdblqzrfiz.cloudfront.net:https://drwgdblqzrfiz.cloudfront.net/message.json
+10.14.122.172:46008: GET https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxPKTU1Kg.ttf HTTP/2.0
+                  << 200  14k
+10.14.122.172:46003: GET https://www.esc.vic.gov.au/sites/default/files/esc_logo_white.svg
+                  << 200 OK 7k
+10.14.122.172:46023: GET https://drwgdblqzrfiz.cloudfront.net/message.json HTTP/2.0
+                  << 200  523b
+stats.g.doubleclick.net:https://stats.g.doubleclick.net/r/collect?v=1&aip=1&t=dc&_r=3&tid=UA-78500529-1&cid=1368505035.1562566326&jid=1827401361&_gid=1763367910.1562566326&gjid=1575392237&_v=j77&z=1343950384
+www.esc.vic.gov.au:https://www.esc.vic.gov.au/sites/default/files/css/css_ghiPkiGu-F30JCkJFGmNWfRQOYL_opSSMOrHOwODbyk.css?ptotvt
+10.14.122.172:46018: GET https://stats.g.doubleclick.net/r/collect?v=1&aip=1&t=dc&_r=3&tid=UA-78500529-1&cid=1368505035.1562566326&jid=1827401361&_gid=1763367910.1562566326&gjid=1575392237&_v=j77&z=1343950384 HTTP/2.0
+                  << 200  35b
+10.14.122.172:45999: GET https://www.esc.vic.gov.au/sites/default/files/2019-06/190514_EC_02_0508_v2%20older%20woman%20landscape%20set%202_5.jpg
+                  << 200 OK 166k
+10.14.122.172:46000: GET https://www.esc.vic.gov.au/sites/default/files/css/css_ghiPkiGu-F30JCkJFGmNWfRQOYL_opSSMOrHOwODbyk.css?ptotvt
+                  << 200 OK 1k
+googleads.g.doubleclick.net:https://googleads.g.doubleclick.net/pagead/id
+www.google.com:https://www.google.com/js/bg/y67i03qV591uFa1-ewbQmYty8fjVTgvN--a2jo-qXJY.js
+10.14.122.172:46026: GET https://www.google.com/js/bg/y67i03qV591uFa1-ewbQmYty8fjVTgvN--a2jo-qXJY.js HTTP/2.0
+                  << 200  5k
+10.14.122.172:46025: GET https://googleads.g.doubleclick.net/pagead/id HTTP/2.0
+                  << 302  0b
+googleads.g.doubleclick.net:https://googleads.g.doubleclick.net/pagead/id?slf_rd=1
+browser-update.org:https://browser-update.org/update.min.js
+10.14.122.172:46006: GET https://www.esc.vic.gov.au/sites/default/files/2019-06/190514_EC_01_0074_v2%20older%20man%20landscape.jpg
+                  << 200 OK 147k
+10.14.122.172:46025: GET https://googleads.g.doubleclick.net/pagead/id?slf_rd=1 HTTP/2.0
+                  << 200  120b
+s.ytimg.com:https://s.ytimg.com/yts/imgbin/player-cougar-vflaVO98l.png
+static.doubleclick.net:https://static.doubleclick.net/instream/ad_status.js
+yt3.ggpht.com:https://yt3.ggpht.com/-Rq78c7k5rjM/AAAAAAAAAAI/AAAAAAAAAAA/YZN9m3PXgII/s68-c-k-no-mo-rj-c0xffffff/photo.jpg
+www.youtube.com:https://www.youtube.com/generate_204?_ySbbA
+i.ytimg.com:https://i.ytimg.com/vi/dPWpiHrJru0/maxresdefault.jpg
+10.14.122.172:46028: GET https://static.doubleclick.net/instream/ad_status.js HTTP/2.0
+                  << 200  29b
+user-event-tracker.crazyegg.com:https://user-event-tracker.crazyegg.com/t.js?s=3343900&t=1562566326222
+10.14.122.172:46029: GET https://s.ytimg.com/yts/imgbin/player-cougar-vflaVO98l.png HTTP/2.0
+                  << 200  53k
+s3.amazonaws.com:https://s3.amazonaws.com/trk.cetrk.com/f/t.js
+10.14.122.172:46024: GET https://browser-update.org/update.min.js HTTP/2.0
+                  << 200  3k
+10.14.122.172:46031: GET https://i.ytimg.com/vi/dPWpiHrJru0/maxresdefault.jpg HTTP/2.0
+                  << 200  81k
+10.14.122.172:46022: GET https://user-event-tracker.crazyegg.com/t.js?s=3343900&t=1562566326222
+                  << 200 OK 2b
+10.14.122.172:46021: GET https://s3.amazonaws.com/trk.cetrk.com/f/t.js
+                  << 200 OK 8k
+user-event-tracker.crazyegg.com:https://user-event-tracker.crazyegg.com/s?3343900&1562566328&AABUAgCAVIIcAAAAAGgB9AEAAGRJdCdzIHlvdXIgZW5lcmd5IHZpY3RvcmlhIE5ldyByZWZvcm1zIG5vdyBnaXZlIFZpY3RvcmlhbnMgdGhlIHBvd2VyIHRvIG1ha2UgdGhlIG1vc3Qgb2YgdGhlaXIgZW5lcmd5O2N1c3RvbV9qdW1ib3Ryb24gcGFyYWdyYXBoIHBhcmFncmFwaC0tdHlwZS1jdXN0b20tanVtYm90cm9uAA
+10.14.122.172:46013: GET https://www.youtube.com/generate_204?_ySbbA HTTP/2.0
+                  << 204  0b
+10.14.122.172:46030: GET https://yt3.ggpht.com/-Rq78c7k5rjM/AAAAAAAAAAI/AAAAAAAAAAA/YZN9m3PXgII/s68-c-k-no-mo-rj-c0xffffff/photo.jpg HTTP/2.0
+                  << 200  3k
+10.14.122.172:46022: GET https://user-event-tracker.crazyegg.com/s?3343900&1562566328&AABUAgCAVIIcAAAAAGgB9AEAAGRJdCdzIHlvdXIgZW5lcmd5IHZpY3RvcmlhIE5ldyByZWZvcm1zIG5vdyBnaXZlIFZpY3RvcmlhbnMgdGhlIHBvd2VyIHRvIG1ha2UgdGhlIG1vc3Qgb2YgdGhlaXIgZW5lcmd5O2N1c3RvbV9qdW1ib3Ryb24gcGFyYWdyYXBoIHBhcmFncmFwaC0tdHlwZS1jdXN0b20tanVtYm90cm9uAA
+                  << 200 OK 2b
+10.14.122.172:46033: clientconnect
+10.14.122.172:46020: CONNECT browser-update.org:443
+ << Cannot establish TLS with client (sni: browser-update.org): TlsException("(54, 'ECONNRESET')",)
+10.14.122.172:46020: clientdisconnect
+www.esc.vic.gov.au:https://www.esc.vic.gov.au/sites/default/files/favicons/favicon-16x16.png
+www.esc.vic.gov.au:https://www.esc.vic.gov.au/sites/default/files/favicons/favicon-32x32.png
+10.14.122.172:45999: GET https://www.esc.vic.gov.au/sites/default/files/favicons/favicon-32x32.png
+                  << 200 OK 1k
+10.14.122.172:46006: GET https://www.esc.vic.gov.au/sites/default/files/favicons/favicon-16x16.png
+                  << 200 OK 1k
+js-agent.newrelic.com:https://js-agent.newrelic.com/nr-1123.min.js
+10.14.122.172:46033: GET https://js-agent.newrelic.com/nr-1123.min.js HTTP/2.0
+                  << 200  9k
+10.14.122.172:45983: clientdisconnect
+10.14.122.172:46034: clientconnect
+bam.nr-data.net:https://bam.nr-data.net/1/c002842fb9?a=84609494&v=1123.df1c7f8&to=NQdTZkVSWxJTWxcIVgxNcFFDWloPHUgCBlw9AVBRX1Y%3D&rst=9807&ref=https://www.esc.vic.gov.au/its-your-energy&ap=66&be=1427&fe=8551&dc=5675&perf=%7B%22timing%22:%7B%22of%22:1562566320409,%22n%22:0,%22f%22:5,%22dn%22:5,%22dne%22:5,%22c%22:17,%22s%22:110,%22ce%22:679,%22rq%22:679,%22rp%22:1365,%22rpe%22:1544,%22dl%22:1400,%22di%22:5671,%22ds%22:5674,%22de%22:5815,%22dc%22:8550,%22l%22:8550,%22le%22:8559%7D,%22navigation%22:%7B%7D%7D&at=GUBQEA1ISBw%3D&jsonp=NREUM.setToken
+10.14.122.172:46034: GET https://bam.nr-data.net/1/c002842fb9?a=84609494&v=1123.df1c7f8&to=NQdTZkVSWxJTWxcIVgxNcFFDWloPHUgCBlw9AVBRX1Y%3D&rst=9807&ref=https://www.esc.vic.gov.au/its-your-energy&ap=66&be=1427&fe=8551&dc=5675&perf=%7B%22timing%22:%7B%22of%22:1562566320409,%22n%22:0,%22f%22:5,%22dn%22:5,%22dne%22:5,%22c%22:17,%22s%22:110,%22ce%22:679,%22rq%22:679,%22rp%22:1365,%22rpe%22:1544,%22dl%22:1400,%22di%22:5671,%22ds%22:5674,%22de%22:5815,%22dc%22:8550,%22l%22:8550,%22le%22:8559%7D,%22navigation%22:%7B%7D%7D&at=GUBQEA1ISBw%3D&jsonp=NREUM.setToken
+                  << 200 OK 57b
+www.youtube.com:https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8
+10.14.122.172:46013: POST https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 HTTP/2.0
+                  << 200  48b

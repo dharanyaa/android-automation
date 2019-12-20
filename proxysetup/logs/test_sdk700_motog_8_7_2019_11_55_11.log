@@ -1,0 +1,665 @@
+Loading script: /Users/rmqa/Desktop/git/automation/proxysetup/mitm_script.py
+Proxy server listening at http://0.0.0.0:8080
+10.14.122.172:46274: clientconnect
+sdkm.w.inmobi.com:https://sdkm.w.inmobi.com/metrics/e.asm?v=1&
+10.14.122.172:46274: POST https://sdkm.w.inmobi.com/metrics/e.asm?v=1&
+                  << 200 OK 0b
+10.14.122.172:46282: clientconnect
+config.inmobi.com:http://config.inmobi.com/config-server/v1/config/secure.cfg
+10.14.122.172:46282: POST http://config.inmobi.com/config-server/v1/config/secure.cfg
+                  << 200 OK 3k
+config.inmobi.com:http://config.inmobi.com/config-server/v1/config/secure.cfg
+10.14.122.172:46282: POST http://config.inmobi.com/config-server/v1/config/secure.cfg
+                  << 200 OK 1k
+10.14.122.172:46299: clientconnect
+rc-studio.inmobi.com:http://rc-studio.inmobi.com/automation/studiokeg/showad.asm?c=pso
+10.14.122.172:46299: POST http://rc-studio.inmobi.com/automation/studiokeg/showad.asm?c=pso
+                  << 200 OK 3k
+10.14.122.172:46300: clientconnect
+bs.serving-sys.com:https://bs.serving-sys.com/Serving/adServer.bs?c=28&cn=display&pli=1074467058&w=320&h=480&ord=2e380ecd-3242-4d25-859f-1c6990a87071&ncu=$$https://s-et-rc-w.inmobi.com/c.asm/c.asm/C/t/dnxubmu1kr/n4p/3/2m/gz/u/0/0/0/x/d04228d6-016b-1000-00e6-41603e2c00e6/a702/0/-1/1/0/x/-1350224377/NW/2t/0/sdk/7.0.2/dir/eA~~/FoCS9AEWAAA/6/cdd6e627$$&mb=1&ucm=true
+10.14.122.172:46300: GET https://bs.serving-sys.com/Serving/adServer.bs?c=28&cn=display&pli=1074467058&w=320&h=480&ord=2e380ecd-3242-4d25-859f-1c6990a87071&ncu=$$https://s-et-rc-w.inmobi.com/c.asm/c.asm/C/t/dnxubmu1kr/n4p/3/2m/gz/u/0/0/0/x/d04228d6-016b-1000-00e6-41603e2c00e6/a702/0/-1/1/0/x/-1350224377/NW/2t/0/sdk/7.0.2/dir/eA~~/FoCS9AEWAAA/6/cdd6e627$$&mb=1&ucm=true
+                  << 200  1k
+10.14.122.172:46306: clientconnect
+secure-ds.serving-sys.com:https://secure-ds.serving-sys.com/BurstingScript/ebPreServing.js
+10.14.122.172:46306: GET https://secure-ds.serving-sys.com/BurstingScript/ebPreServing.js HTTP/2.0
+                  << 200  13k
+config.inmobi.com:http://config.inmobi.com/config-server/v1/config/secure.cfg
+bs.serving-sys.com:https://bs.serving-sys.com/Serving?secCall=1&sessionid=7138744721162174535&usercookie=u2=fd4ee6b3-3847-4f4e-b6fe-eaab167ef90d&c=28&cn=display&pli=1074467058&w=320&h=480&ord=2e380ecd-3242-4d25-859f-1c6990a87071&ncu=$$https://s-et-rc-w.inmobi.com/c.asm/c.asm/C/t/dnxubmu1kr/n4p/3/2m/gz/u/0/0/0/x/d04228d6-016b-1000-00e6-41603e2c00e6/a702/0/-1/1/0/x/-1350224377/NW/2t/0/sdk/7.0.2/dir/eA~~/FoCS9AEWAAA/6/cdd6e627$$&mb=1&ucm=true&rand=9100468574014544&secCall=1&vurl=$$about%3Ablank$$&vurlem=2
+10.14.122.172:46300: GET https://bs.serving-sys.com/Serving?secCall=1&sessionid=7138744721162174535&usercookie=u2=fd4ee6b3-3847-4f4e-b6fe-eaab167ef90d&c=28&cn=display&pli=1074467058&w=320&h=480&ord=2e380ecd-3242-4d25-859f-1c6990a87071&ncu=$$https://s-et-rc-w.inmobi.com/c.asm/c.asm/C/t/dnxubmu1kr/n4p/3/2m/gz/u/0/0/0/x/d04228d6-016b-1000-00e6-41603e2c00e6/a702/0/-1/1/0/x/-1350224377/NW/2t/0/sdk/7.0.2/dir/eA~~/FoCS9AEWAAA/6/cdd6e627$$&mb=1&ucm=true&rand=9100468574014544&secCall=1&vurl=$$about%3Ablank$$&vurlem=2
+                  << 200  3k
+secure-ds.serving-sys.com:https://secure-ds.serving-sys.com/BurstingCachedScripts//Ad_2_152_3_0/ebStdBannerEx.js
+10.14.122.172:46306: GET https://secure-ds.serving-sys.com/BurstingCachedScripts//Ad_2_152_3_0/ebStdBannerEx.js HTTP/2.0
+                  << 200  70k
+10.14.122.172:46282: POST http://config.inmobi.com/config-server/v1/config/secure.cfg
+                  << 200 OK 7k
+secure-ds.serving-sys.com:https://secure-ds.serving-sys.com/BurstingCachedScripts/Modules_1_55_0_0/URLUtil.js
+secure-ds.serving-sys.com:https://secure-ds.serving-sys.com/resources/PROD/asset/28995/IMAGE/20190221/No1-Davis-320x480_43549060917914400.gif
+bs.serving-sys.com:https://bs.serving-sys.com/Serving?cn=display&c=40&sessionid=7138744721162174535&ai=1075978595&usercookie=u2=fd4ee6b3-3847-4f4e-b6fe-eaab167ef90d&oo=0&dg=1074168921&sdg=1074229557&ctick=70&ord=0.870877563731725
+10.14.122.172:46306: GET https://secure-ds.serving-sys.com/BurstingCachedScripts/Modules_1_55_0_0/URLUtil.js HTTP/2.0
+                  << 200  921b
+10.14.122.172:46300: GET https://bs.serving-sys.com/Serving?cn=display&c=40&sessionid=7138744721162174535&ai=1075978595&usercookie=u2=fd4ee6b3-3847-4f4e-b6fe-eaab167ef90d&oo=0&dg=1074168921&sdg=1074229557&ctick=70&ord=0.870877563731725
+                  << 200  24b
+10.14.122.172:46306: GET https://secure-ds.serving-sys.com/resources/PROD/asset/28995/IMAGE/20190221/No1-Davis-320x480_43549060917914400.gif HTTP/2.0
+                  << 200  90k
+bs.serving-sys.com:https://bs.serving-sys.com/Serving/adServer.bs?cn=int&iv=2&int=1075978595~~0~~1074168921~~7138744721162174535^VsR~0~0~01020~121^VsRAd~0~0~01020~121^AdStart~0~0~01020~1174&usercookie=u2=fd4ee6b3-3847-4f4e-b6fe-eaab167ef90d&rnd=0.6882299367884726&flv=-1&res=0
+10.14.122.172:46300: GET https://bs.serving-sys.com/Serving/adServer.bs?cn=int&iv=2&int=1075978595~~0~~1074168921~~7138744721162174535^VsR~0~0~01020~121^VsRAd~0~0~01020~121^AdStart~0~0~01020~1174&usercookie=u2=fd4ee6b3-3847-4f4e-b6fe-eaab167ef90d&rnd=0.6882299367884726&flv=-1&res=0
+                  << 200  0b
+bs.serving-sys.com:https://bs.serving-sys.com/Serving/adServer.bs?cn=int&iv=2&interactionsStr=$$1075978595~~0~~1074168921~~7138744721162174535%5EAdParams~ifr%3D0%26loc%3D0x0%26vsbp%3D10%26size%3D320x480%26cb%3D0%26env%3D2%26bi%3D2%26idx%3D1~0~01020~1372$$&usercookie=u2=fd4ee6b3-3847-4f4e-b6fe-eaab167ef90d&rnd=0.29044594081028463&flv=-1&res=0
+10.14.122.172:46312: clientconnect
+au.w.inmobi.com:http://au.w.inmobi.com/?m=120
+10.14.122.172:46300: GET https://bs.serving-sys.com/Serving/adServer.bs?cn=int&iv=2&interactionsStr=$$1075978595~~0~~1074168921~~7138744721162174535%5EAdParams~ifr%3D0%26loc%3D0x0%26vsbp%3D10%26size%3D320x480%26cb%3D0%26env%3D2%26bi%3D2%26idx%3D1~0~01020~1372$$&usercookie=u2=fd4ee6b3-3847-4f4e-b6fe-eaab167ef90d&rnd=0.29044594081028463&flv=-1&res=0
+                  << 200  0b
+10.14.122.172:46312: GET http://au.w.inmobi.com/?m=120
+                  << 200 OK 11k
+au.w.inmobi.com:http://au.w.inmobi.com/?m=120
+10.14.122.172:46312: GET http://au.w.inmobi.com/?m=120
+                  << 200 OK 11k
+au.w.inmobi.com:http://au.w.inmobi.com/?m=120
+10.14.122.172:46312: GET http://au.w.inmobi.com/?m=120
+                  << 200 OK 11k
+10.14.122.172:46317: clientconnect
+lm.serving-sys.com:https://lm.serving-sys.com/lm/int?json={%22sid%22:%227138744721162174535%22,%22dpv%22:%222%22,%22src%22:%22v2%22,%22adid%22:%221075978595%22,%22ctime%22:%221562567128077%22,%22dur%22:5,%22ctick%22:5183,%22mraid%22:%221%22,%22env%22:%222%22,%22wvsb%22:%221%22,%22wvrf%22:%221%22,%22bi%22:%222%22,%22frmt%22:%225%22,%22srvmd%22:%220%22,%22prtcl%22:%22https%3A%2F%2F%22,%22loc%22:%220x0%22,%22size%22:%22320x480%22,%22cb%22:%220%22,%22os%22:%2236%22,%22brsrc%22:%2213%22,%22brsrv%22:%2275%22,%22brsrt%22:%225%22,%22scrl%22:%220%22,%22fh%22:%220%22,%22fw%22:%220%22,%22vsbp%22:%2210%22,%22turl%22:%22about%3Ablank%22,%22rurl%22:%22%22,%22aorg%22:[],%22IntrN%22:%22metrics%22,%22IntrT%22:%222%22,%22pid%22:%221074467058%22,%22Usr%22:%22u2%3Dfd4ee6b3-3847-4f4e-b6fe-eaab167ef90d%22,%22AgencyID%22:%2228995%22,%22cid%22:%221073927819%22,%22ua%22:%22Mozilla%2F5.0%20(Linux%3B%20Android%207.0%3B%20LG-H870DS%20Build%2FNRD90U%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F75.0.3770.101%20Mobile%20Safari%2F537.36%22,%22s_flag%22:%221%22,%22s_nxt%22:%221%22,%22s_bt%22:%221%22,%22s_plt%22:%221%22,%22s_bv%22:%221%22,%22s_ios%22:%220%22,%22s_vv%22:%220%22,%22s_instrm%22:%221%22,%22s_tn%22:%22true%22,%22s_frp%22:%221%22,%22s_av%22:%221%22,%22s_avd%22:%221%22,%22s_mvfd%22:%221%22,%22s_geb%22:%221%22,%22s_gstr%22:%221%22,%22s_ebadcs%22:%221%22,%22s_ebac%22:%221%22,%22s_ope%22:%221%22,%22s_osde%22:%221%22,%22s_rspn%22:%221%22,%22s_adpt%22:%221%22,%22rdi%22:%222%22,%22dbg%22:%221%22,%22cimp%22:%221%22}
+10.14.122.172:46317: GET https://lm.serving-sys.com/lm/int?json={%22sid%22:%227138744721162174535%22,%22dpv%22:%222%22,%22src%22:%22v2%22,%22adid%22:%221075978595%22,%22ctime%22:%221562567128077%22,%22dur%22:5,%22ctick%22:5183,%22mraid%22:%221%22,%22env%22:%222%22,%22wvsb%22:%221%22,%22wvrf%22:%221%22,%22bi%22:%222%22,%22frmt%22:%225%22,%22srvmd%22:%220%22,%22prtcl%22:%22https%3A%2F%2F%22,%22loc%22:%220x0%22,%22size%22:%22320x480%22,%22cb%22:%220%22,%22os%22:%2236%22,%22brsrc%22:%2213%22,%22brsrv%22:%2275%22,%22brsrt%22:%225%22,%22scrl%22:%220%22,%22fh%22:%220%22,%22fw%22:%220%22,%22vsbp%22:%2210%22,%22turl%22:%22about%3Ablank%22,%22rurl%22:%22%22,%22aorg%22:[],%22IntrN%22:%22metrics%22,%22IntrT%22:%222%22,%22pid%22:%221074467058%22,%22Usr%22:%22u2%3Dfd4ee6b3-3847-4f4e-b6fe-eaab167ef90d%22,%22AgencyID%22:%2228995%22,%22cid%22:%221073927819%22,%22ua%22:%22Mozilla%2F5.0%20(Linux%3B%20Android%207.0%3B%20LG-H870DS%20Build%2FNRD90U%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F75.0.3770.101%20Mobile%20Safari%2F537.36%22,%22s_flag%22:%221%22,%22s_nxt%22:%221%22,%22s_bt%22:%221%22,%22s_plt%22:%221%22,%22s_bv%22:%221%22,%22s_ios%22:%220%22,%22s_vv%22:%220%22,%22s_instrm%22:%221%22,%22s_tn%22:%22true%22,%22s_frp%22:%221%22,%22s_av%22:%221%22,%22s_avd%22:%221%22,%22s_mvfd%22:%221%22,%22s_geb%22:%221%22,%22s_gstr%22:%221%22,%22s_ebadcs%22:%221%22,%22s_ebac%22:%221%22,%22s_ope%22:%221%22,%22s_osde%22:%221%22,%22s_rspn%22:%221%22,%22s_adpt%22:%221%22,%22rdi%22:%222%22,%22dbg%22:%221%22,%22cimp%22:%221%22} HTTP/2.0
+                  << 200  0b
+au.w.inmobi.com:http://au.w.inmobi.com/?m=120
+10.14.122.172:46312: GET http://au.w.inmobi.com/?m=120
+                  << 200 OK 11k
+au.w.inmobi.com:http://au.w.inmobi.com/?m=120
+10.14.122.172:46312: GET http://au.w.inmobi.com/?m=120
+                  << 200 OK 11k
+10.14.122.172:46324: clientconnect
+10.14.122.172:46325: clientconnect
+rc-studio.inmobi.com:http://rc-studio.inmobi.com/automation/studiokeg/showad.asm?c=pso
+10.14.122.172:46299: POST http://rc-studio.inmobi.com/automation/studiokeg/showad.asm?c=pso
+                  << 200 OK 3k
+10.14.122.172:46326: clientconnect
+bs.serving-sys.com:https://bs.serving-sys.com/Serving/adServer.bs?c=28&cn=display&pli=1074467058&w=320&h=480&ord=84cea693-afb1-40e3-bcbb-f69b612fd2a7&ncu=$$https://s-et-rc-w.inmobi.com/c.asm/c.asm/C/t/dnxubmu1kr/n4p/3/2m/gz/u/0/0/0/x/d04257c9-016b-1000-00e6-41603e2c00e6/a702/0/-1/1/0/x/-1350224377/NW/2t/0/sdk/7.0.2/dir/eA~~/FoCS9AEWAAA/6/399138b4$$&mb=1&ucm=true
+10.14.122.172:46300: GET https://bs.serving-sys.com/Serving/adServer.bs?c=28&cn=display&pli=1074467058&w=320&h=480&ord=84cea693-afb1-40e3-bcbb-f69b612fd2a7&ncu=$$https://s-et-rc-w.inmobi.com/c.asm/c.asm/C/t/dnxubmu1kr/n4p/3/2m/gz/u/0/0/0/x/d04257c9-016b-1000-00e6-41603e2c00e6/a702/0/-1/1/0/x/-1350224377/NW/2t/0/sdk/7.0.2/dir/eA~~/FoCS9AEWAAA/6/399138b4$$&mb=1&ucm=true
+                  << 200  1k
+secure-ds.serving-sys.com:https://secure-ds.serving-sys.com/BurstingScript/ebPreServing.js
+10.14.122.172:46306: GET https://secure-ds.serving-sys.com/BurstingScript/ebPreServing.js HTTP/2.0
+                  << 200  13k
+bs.serving-sys.com:https://bs.serving-sys.com/Serving?secCall=1&sessionid=6564227736660334895&usercookie=u2=38e46e5a-ec9e-442a-893c-1b6bd14fb381&c=28&cn=display&pli=1074467058&w=320&h=480&ord=84cea693-afb1-40e3-bcbb-f69b612fd2a7&ncu=$$https://s-et-rc-w.inmobi.com/c.asm/c.asm/C/t/dnxubmu1kr/n4p/3/2m/gz/u/0/0/0/x/d04257c9-016b-1000-00e6-41603e2c00e6/a702/0/-1/1/0/x/-1350224377/NW/2t/0/sdk/7.0.2/dir/eA~~/FoCS9AEWAAA/6/399138b4$$&mb=1&ucm=true&rand=8421337254619912&secCall=1&vurl=$$about%3Ablank$$&vurlem=2
+10.14.122.172:46335: clientconnect
+sdktm.w.inmobi.com:https://sdktm.w.inmobi.com/sdkpubreq?event-name=TrueValidAdRequestReceived&d-orientation=1&tz=19800000&request-id=8f366351-daff-47dd-b954-8068e3176747&d-device-screen-size=360X668&im-plid=101&event-id=d9632376-88dd-42a2-af31-d1e1d450134e&d-nettype-raw=1&User-Agent=Mozilla%2F5.0+%28Linux%3B+Android+7.0%3B+LG-H870DS+Build%2FNRD90U%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Version%2F4.0+Chrome%2F75.0.3770.101+Mobile+Safari%2F537.36&mk-version=pr-SAND-HTATC-20171211&ts=1562567136967&u-id-map=%7B%22GPID%22%3A%2291b7f4c3-ed00-4265-a5ce-05a836d055ec%22%7D&d-device-screen-density=4.0&adtype=int&im-accid=12345678901234567890123456789012&d-media-volume=100&d-density-dependent-screen-size=1440x2672&u-id-adt=0&d-localization=en_GB&d-textsize=56.0
+sdktm.w.inmobi.com:https://sdktm.w.inmobi.com/sdkpubreq?event-name=AdRequestFilled&d-orientation=1&tz=19800000&request-id=8f366351-daff-47dd-b954-8068e3176747&d-device-screen-size=360X668&im-plid=101&event-id=f135d74e-6ca2-4f5e-bf68-b218b5652fc4&d-nettype-raw=1&User-Agent=Mozilla%2F5.0+%28Linux%3B+Android+7.0%3B+LG-H870DS+Build%2FNRD90U%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Version%2F4.0+Chrome%2F75.0.3770.101+Mobile+Safari%2F537.36&mk-version=pr-SAND-HTATC-20171211&ts=1562567137440&u-id-map=%7B%22GPID%22%3A%2291b7f4c3-ed00-4265-a5ce-05a836d055ec%22%7D&d-device-screen-density=4.0&adtype=int&im-accid=12345678901234567890123456789012&d-media-volume=100&d-density-dependent-screen-size=1440x2672&u-id-adt=0&d-localization=en_GB&d-textsize=56.0
+10.14.122.172:46300: GET https://bs.serving-sys.com/Serving?secCall=1&sessionid=6564227736660334895&usercookie=u2=38e46e5a-ec9e-442a-893c-1b6bd14fb381&c=28&cn=display&pli=1074467058&w=320&h=480&ord=84cea693-afb1-40e3-bcbb-f69b612fd2a7&ncu=$$https://s-et-rc-w.inmobi.com/c.asm/c.asm/C/t/dnxubmu1kr/n4p/3/2m/gz/u/0/0/0/x/d04257c9-016b-1000-00e6-41603e2c00e6/a702/0/-1/1/0/x/-1350224377/NW/2t/0/sdk/7.0.2/dir/eA~~/FoCS9AEWAAA/6/399138b4$$&mb=1&ucm=true&rand=8421337254619912&secCall=1&vurl=$$about%3Ablank$$&vurlem=2
+                  << 200  3k
+sdktm.w.inmobi.com:https://sdktm.w.inmobi.com/sdkpubreq?event-name=TrueAdRequestReceived&d-orientation=1&tz=19800000&d-device-screen-size=360X668&im-plid=101&event-id=890c74ca-1e43-4186-827d-c123fd4ee6e3&d-nettype-raw=1&User-Agent=Mozilla%2F5.0+%28Linux%3B+Android+7.0%3B+LG-H870DS+Build%2FNRD90U%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Version%2F4.0+Chrome%2F75.0.3770.101+Mobile+Safari%2F537.36&mk-version=pr-SAND-HTATC-20171211&ts=1562567136924&u-id-map=%7B%22GPID%22%3A%2291b7f4c3-ed00-4265-a5ce-05a836d055ec%22%7D&d-device-screen-density=4.0&adtype=int&im-accid=12345678901234567890123456789012&d-media-volume=100&d-density-dependent-screen-size=1440x2672&u-id-adt=0&d-localization=en_GB&d-textsize=56.0
+bs.serving-sys.com:https://bs.serving-sys.com/Serving?cn=display&c=40&sessionid=6564227736660334895&ai=1075978595&usercookie=u2=38e46e5a-ec9e-442a-893c-1b6bd14fb381&oo=0&dg=1074168921&sdg=1074229557&ctick=23&ord=0.3297101199786099
+10.14.122.172:46336: clientconnect
+10.14.122.172:46325: GET https://sdktm.w.inmobi.com/sdkpubreq?event-name=TrueValidAdRequestReceived&d-orientation=1&tz=19800000&request-id=8f366351-daff-47dd-b954-8068e3176747&d-device-screen-size=360X668&im-plid=101&event-id=d9632376-88dd-42a2-af31-d1e1d450134e&d-nettype-raw=1&User-Agent=Mozilla%2F5.0+%28Linux%3B+Android+7.0%3B+LG-H870DS+Build%2FNRD90U%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Version%2F4.0+Chrome%2F75.0.3770.101+Mobile+Safari%2F537.36&mk-version=pr-SAND-HTATC-20171211&ts=1562567136967&u-id-map=%7B%22GPID%22%3A%2291b7f4c3-ed00-4265-a5ce-05a836d055ec%22%7D&d-device-screen-density=4.0&adtype=int&im-accid=12345678901234567890123456789012&d-media-volume=100&d-density-dependent-screen-size=1440x2672&u-id-adt=0&d-localization=en_GB&d-textsize=56.0
+                  << 200 OK 0b
+10.14.122.172:46326: GET https://sdktm.w.inmobi.com/sdkpubreq?event-name=AdRequestFilled&d-orientation=1&tz=19800000&request-id=8f366351-daff-47dd-b954-8068e3176747&d-device-screen-size=360X668&im-plid=101&event-id=f135d74e-6ca2-4f5e-bf68-b218b5652fc4&d-nettype-raw=1&User-Agent=Mozilla%2F5.0+%28Linux%3B+Android+7.0%3B+LG-H870DS+Build%2FNRD90U%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Version%2F4.0+Chrome%2F75.0.3770.101+Mobile+Safari%2F537.36&mk-version=pr-SAND-HTATC-20171211&ts=1562567137440&u-id-map=%7B%22GPID%22%3A%2291b7f4c3-ed00-4265-a5ce-05a836d055ec%22%7D&d-device-screen-density=4.0&adtype=int&im-accid=12345678901234567890123456789012&d-media-volume=100&d-density-dependent-screen-size=1440x2672&u-id-adt=0&d-localization=en_GB&d-textsize=56.0
+                  << 200 OK 0b
+10.14.122.172:46300: GET https://bs.serving-sys.com/Serving?cn=display&c=40&sessionid=6564227736660334895&ai=1075978595&usercookie=u2=38e46e5a-ec9e-442a-893c-1b6bd14fb381&oo=0&dg=1074168921&sdg=1074229557&ctick=23&ord=0.3297101199786099
+                  << 200  24b
+10.14.122.172:46324: GET https://sdktm.w.inmobi.com/sdkpubreq?event-name=TrueAdRequestReceived&d-orientation=1&tz=19800000&d-device-screen-size=360X668&im-plid=101&event-id=890c74ca-1e43-4186-827d-c123fd4ee6e3&d-nettype-raw=1&User-Agent=Mozilla%2F5.0+%28Linux%3B+Android+7.0%3B+LG-H870DS+Build%2FNRD90U%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Version%2F4.0+Chrome%2F75.0.3770.101+Mobile+Safari%2F537.36&mk-version=pr-SAND-HTATC-20171211&ts=1562567136924&u-id-map=%7B%22GPID%22%3A%2291b7f4c3-ed00-4265-a5ce-05a836d055ec%22%7D&d-device-screen-density=4.0&adtype=int&im-accid=12345678901234567890123456789012&d-media-volume=100&d-density-dependent-screen-size=1440x2672&u-id-adt=0&d-localization=en_GB&d-textsize=56.0
+                  << 200 OK 0b
+10.14.122.172:46274: clientdisconnect
+bs.serving-sys.com:https://bs.serving-sys.com/Serving/adServer.bs?cn=int&iv=2&int=1075978595~~0~~1074168921~~6564227736660334895^AdStart~0~0~01020~46&usercookie=u2=38e46e5a-ec9e-442a-893c-1b6bd14fb381&rnd=0.8612506356281102&flv=-1&res=0
+10.14.122.172:46300: GET https://bs.serving-sys.com/Serving/adServer.bs?cn=int&iv=2&int=1075978595~~0~~1074168921~~6564227736660334895^AdStart~0~0~01020~46&usercookie=u2=38e46e5a-ec9e-442a-893c-1b6bd14fb381&rnd=0.8612506356281102&flv=-1&res=0
+                  << 200  0b
+bs.serving-sys.com:https://bs.serving-sys.com/Serving/adServer.bs?cn=int&iv=2&interactionsStr=$$1075978595~~0~~1074168921~~6564227736660334895%5EAdParams~ifr%3D0%26loc%3D0x0%26vsbp%3D10%26size%3D320x480%26cb%3D0%26env%3D2%26bi%3D2%26idx%3D1~0~01020~401$$&usercookie=u2=38e46e5a-ec9e-442a-893c-1b6bd14fb381&rnd=0.3470746058823091&flv=-1&res=0
+bs.serving-sys.com:https://bs.serving-sys.com/Serving/adServer.bs?cn=int&iv=2&int=1075978595~~0~~1074168921~~6564227736660334895^VsR~0~0~01020~54^VsRAd~0~0~01020~54&usercookie=u2=38e46e5a-ec9e-442a-893c-1b6bd14fb381&rnd=0.647847429605664&flv=-1&res=0
+10.14.122.172:46336: GET https://bs.serving-sys.com/Serving/adServer.bs?cn=int&iv=2&int=1075978595~~0~~1074168921~~6564227736660334895^VsR~0~0~01020~54^VsRAd~0~0~01020~54&usercookie=u2=38e46e5a-ec9e-442a-893c-1b6bd14fb381&rnd=0.647847429605664&flv=-1&res=0
+                  << 200  0b
+10.14.122.172:46300: GET https://bs.serving-sys.com/Serving/adServer.bs?cn=int&iv=2&interactionsStr=$$1075978595~~0~~1074168921~~6564227736660334895%5EAdParams~ifr%3D0%26loc%3D0x0%26vsbp%3D10%26size%3D320x480%26cb%3D0%26env%3D2%26bi%3D2%26idx%3D1~0~01020~401$$&usercookie=u2=38e46e5a-ec9e-442a-893c-1b6bd14fb381&rnd=0.3470746058823091&flv=-1&res=0
+                  << 200  0b
+10.14.122.172:46337: clientconnect
+au.w.inmobi.com:http://au.w.inmobi.com/?m=120
+sdktm.w.inmobi.com:https://sdktm.w.inmobi.com/sdkpubreq?event-name=TrueAdReady&d-orientation=1&tz=19800000&request-id=8f366351-daff-47dd-b954-8068e3176747&d-device-screen-size=360X668&im-plid=101&event-id=eee898ea-4951-4d9c-8186-ad61c09225cd&d-nettype-raw=1&User-Agent=Mozilla%2F5.0+%28Linux%3B+Android+7.0%3B+LG-H870DS+Build%2FNRD90U%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Version%2F4.0+Chrome%2F75.0.3770.101+Mobile+Safari%2F537.36&mk-version=pr-SAND-HTATC-20171211&ts=1562567139840&u-id-map=%7B%22GPID%22%3A%2291b7f4c3-ed00-4265-a5ce-05a836d055ec%22%7D&d-device-screen-density=4.0&adtype=int&im-accid=12345678901234567890123456789012&d-media-volume=100&d-density-dependent-screen-size=1440x2672&u-id-adt=0&d-localization=en_GB&d-textsize=56.0
+sdktm.w.inmobi.com:https://sdktm.w.inmobi.com/sdkpubreq?event-name=AdRequestFilled&d-orientation=1&tz=19800000&request-id=8f366351-daff-47dd-b954-8068e3176747&d-device-screen-size=360X668&im-plid=101&event-id=48e6b7b4-acd1-43a7-87dc-771d8c20a818&d-nettype-raw=1&User-Agent=Mozilla%2F5.0+%28Linux%3B+Android+7.0%3B+LG-H870DS+Build%2FNRD90U%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Version%2F4.0+Chrome%2F75.0.3770.101+Mobile+Safari%2F537.36&mk-version=pr-SAND-HTATC-20171211&ts=1562567139838&u-id-map=%7B%22GPID%22%3A%2291b7f4c3-ed00-4265-a5ce-05a836d055ec%22%7D&d-device-screen-density=4.0&adtype=int&im-accid=12345678901234567890123456789012&d-media-volume=100&d-density-dependent-screen-size=1440x2672&u-id-adt=0&d-localization=en_GB&d-textsize=56.0
+sdktm.w.inmobi.com:https://sdktm.w.inmobi.com/sdkpubreq?event-name=TrueValidAdRequestReceived&d-orientation=1&tz=19800000&request-id=8f366351-daff-47dd-b954-8068e3176747&d-device-screen-size=360X668&im-plid=101&event-id=2f3500e5-7dac-42ca-88c9-6766f20ca1c5&d-nettype-raw=1&User-Agent=Mozilla%2F5.0+%28Linux%3B+Android+7.0%3B+LG-H870DS+Build%2FNRD90U%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Version%2F4.0+Chrome%2F75.0.3770.101+Mobile+Safari%2F537.36&mk-version=pr-SAND-HTATC-20171211&ts=1562567139841&u-id-map=%7B%22GPID%22%3A%2291b7f4c3-ed00-4265-a5ce-05a836d055ec%22%7D&d-device-screen-density=4.0&adtype=int&im-accid=12345678901234567890123456789012&d-media-volume=100&d-density-dependent-screen-size=1440x2672&u-id-adt=0&d-localization=en_GB&d-textsize=56.0
+10.14.122.172:46312: GET http://au.w.inmobi.com/?m=120
+                  << 200 OK 11k
+sdktm.w.inmobi.com:https://sdktm.w.inmobi.com/sdkpubreq?event-name=TrueAdRequestReceived&d-orientation=1&tz=19800000&request-id=8f366351-daff-47dd-b954-8068e3176747&d-device-screen-size=360X668&im-plid=101&event-id=eaa8f18a-a6bb-4eec-a515-4e4e55e31d0c&d-nettype-raw=1&User-Agent=Mozilla%2F5.0+%28Linux%3B+Android+7.0%3B+LG-H870DS+Build%2FNRD90U%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Version%2F4.0+Chrome%2F75.0.3770.101+Mobile+Safari%2F537.36&mk-version=pr-SAND-HTATC-20171211&ts=1562567138952&u-id-map=%7B%22GPID%22%3A%2291b7f4c3-ed00-4265-a5ce-05a836d055ec%22%7D&d-device-screen-density=4.0&adtype=int&im-accid=12345678901234567890123456789012&d-media-volume=100&d-density-dependent-screen-size=1440x2672&u-id-adt=0&d-localization=en_GB&d-textsize=56.0
+10.14.122.172:46325: GET https://sdktm.w.inmobi.com/sdkpubreq?event-name=AdRequestFilled&d-orientation=1&tz=19800000&request-id=8f366351-daff-47dd-b954-8068e3176747&d-device-screen-size=360X668&im-plid=101&event-id=48e6b7b4-acd1-43a7-87dc-771d8c20a818&d-nettype-raw=1&User-Agent=Mozilla%2F5.0+%28Linux%3B+Android+7.0%3B+LG-H870DS+Build%2FNRD90U%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Version%2F4.0+Chrome%2F75.0.3770.101+Mobile+Safari%2F537.36&mk-version=pr-SAND-HTATC-20171211&ts=1562567139838&u-id-map=%7B%22GPID%22%3A%2291b7f4c3-ed00-4265-a5ce-05a836d055ec%22%7D&d-device-screen-density=4.0&adtype=int&im-accid=12345678901234567890123456789012&d-media-volume=100&d-density-dependent-screen-size=1440x2672&u-id-adt=0&d-localization=en_GB&d-textsize=56.0
+                  << 200 OK 0b
+10.14.122.172:46326: GET https://sdktm.w.inmobi.com/sdkpubreq?event-name=TrueAdReady&d-orientation=1&tz=19800000&request-id=8f366351-daff-47dd-b954-8068e3176747&d-device-screen-size=360X668&im-plid=101&event-id=eee898ea-4951-4d9c-8186-ad61c09225cd&d-nettype-raw=1&User-Agent=Mozilla%2F5.0+%28Linux%3B+Android+7.0%3B+LG-H870DS+Build%2FNRD90U%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Version%2F4.0+Chrome%2F75.0.3770.101+Mobile+Safari%2F537.36&mk-version=pr-SAND-HTATC-20171211&ts=1562567139840&u-id-map=%7B%22GPID%22%3A%2291b7f4c3-ed00-4265-a5ce-05a836d055ec%22%7D&d-device-screen-density=4.0&adtype=int&im-accid=12345678901234567890123456789012&d-media-volume=100&d-density-dependent-screen-size=1440x2672&u-id-adt=0&d-localization=en_GB&d-textsize=56.0
+                  << 200 OK 0b
+10.14.122.172:46324: GET https://sdktm.w.inmobi.com/sdkpubreq?event-name=TrueValidAdRequestReceived&d-orientation=1&tz=19800000&request-id=8f366351-daff-47dd-b954-8068e3176747&d-device-screen-size=360X668&im-plid=101&event-id=2f3500e5-7dac-42ca-88c9-6766f20ca1c5&d-nettype-raw=1&User-Agent=Mozilla%2F5.0+%28Linux%3B+Android+7.0%3B+LG-H870DS+Build%2FNRD90U%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Version%2F4.0+Chrome%2F75.0.3770.101+Mobile+Safari%2F537.36&mk-version=pr-SAND-HTATC-20171211&ts=1562567139841&u-id-map=%7B%22GPID%22%3A%2291b7f4c3-ed00-4265-a5ce-05a836d055ec%22%7D&d-device-screen-density=4.0&adtype=int&im-accid=12345678901234567890123456789012&d-media-volume=100&d-density-dependent-screen-size=1440x2672&u-id-adt=0&d-localization=en_GB&d-textsize=56.0
+                  << 200 OK 0b
+10.14.122.172:46335: GET https://sdktm.w.inmobi.com/sdkpubreq?event-name=TrueAdRequestReceived&d-orientation=1&tz=19800000&request-id=8f366351-daff-47dd-b954-8068e3176747&d-device-screen-size=360X668&im-plid=101&event-id=eaa8f18a-a6bb-4eec-a515-4e4e55e31d0c&d-nettype-raw=1&User-Agent=Mozilla%2F5.0+%28Linux%3B+Android+7.0%3B+LG-H870DS+Build%2FNRD90U%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Version%2F4.0+Chrome%2F75.0.3770.101+Mobile+Safari%2F537.36&mk-version=pr-SAND-HTATC-20171211&ts=1562567138952&u-id-map=%7B%22GPID%22%3A%2291b7f4c3-ed00-4265-a5ce-05a836d055ec%22%7D&d-device-screen-density=4.0&adtype=int&im-accid=12345678901234567890123456789012&d-media-volume=100&d-density-dependent-screen-size=1440x2672&u-id-adt=0&d-localization=en_GB&d-textsize=56.0
+                  << 200 OK 0b
+au.w.inmobi.com:http://au.w.inmobi.com/?m=120
+10.14.122.172:46282: clientdisconnect
+10.14.122.172:46312: GET http://au.w.inmobi.com/?m=120
+                  << 200 OK 11k
+sdktm.w.inmobi.com:https://sdktm.w.inmobi.com/sdkpubreq?event-name=TrueAdReady&d-orientation=1&tz=19800000&request-id=8f366351-daff-47dd-b954-8068e3176747&d-device-screen-size=360X668&im-plid=101&event-id=60b0fdba-1d9c-4618-9d1b-e2c4fa118c6a&d-nettype-raw=1&User-Agent=Mozilla%2F5.0+%28Linux%3B+Android+7.0%3B+LG-H870DS+Build%2FNRD90U%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Version%2F4.0+Chrome%2F75.0.3770.101+Mobile+Safari%2F537.36&mk-version=pr-SAND-HTATC-20171211&ts=1562567139853&u-id-map=%7B%22GPID%22%3A%2291b7f4c3-ed00-4265-a5ce-05a836d055ec%22%7D&d-device-screen-density=4.0&adtype=int&im-accid=12345678901234567890123456789012&d-media-volume=100&d-density-dependent-screen-size=1440x2672&u-id-adt=0&d-localization=en_GB&d-textsize=56.0
+10.14.122.172:46337: GET https://sdktm.w.inmobi.com/sdkpubreq?event-name=TrueAdReady&d-orientation=1&tz=19800000&request-id=8f366351-daff-47dd-b954-8068e3176747&d-device-screen-size=360X668&im-plid=101&event-id=60b0fdba-1d9c-4618-9d1b-e2c4fa118c6a&d-nettype-raw=1&User-Agent=Mozilla%2F5.0+%28Linux%3B+Android+7.0%3B+LG-H870DS+Build%2FNRD90U%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Version%2F4.0+Chrome%2F75.0.3770.101+Mobile+Safari%2F537.36&mk-version=pr-SAND-HTATC-20171211&ts=1562567139853&u-id-map=%7B%22GPID%22%3A%2291b7f4c3-ed00-4265-a5ce-05a836d055ec%22%7D&d-device-screen-density=4.0&adtype=int&im-accid=12345678901234567890123456789012&d-media-volume=100&d-density-dependent-screen-size=1440x2672&u-id-adt=0&d-localization=en_GB&d-textsize=56.0
+                  << 200 OK 0b
+10.14.122.172:46299: clientdisconnect
+au.w.inmobi.com:http://au.w.inmobi.com/?m=120
+10.14.122.172:46312: GET http://au.w.inmobi.com/?m=120
+                  << 200 OK 11k
+au.w.inmobi.com:http://au.w.inmobi.com/?m=120
+10.14.122.172:46312: GET http://au.w.inmobi.com/?m=120
+                  << 200 OK 11k
+lm.serving-sys.com:https://lm.serving-sys.com/lm/int?json={%22sid%22:%226564227736660334895%22,%22dpv%22:%222%22,%22src%22:%22v2%22,%22adid%22:%221075978595%22,%22ctime%22:%221562567139320%22,%22dur%22:5,%22ctick%22:5017,%22mraid%22:%221%22,%22env%22:%222%22,%22wvsb%22:%221%22,%22wvrf%22:%221%22,%22bi%22:%222%22,%22frmt%22:%225%22,%22srvmd%22:%220%22,%22prtcl%22:%22https%3A%2F%2F%22,%22loc%22:%220x0%22,%22size%22:%22320x480%22,%22cb%22:%220%22,%22os%22:%2236%22,%22brsrc%22:%2213%22,%22brsrv%22:%2275%22,%22brsrt%22:%225%22,%22scrl%22:%220%22,%22fh%22:%220%22,%22fw%22:%220%22,%22vsbp%22:%2210%22,%22turl%22:%22about%3Ablank%22,%22rurl%22:%22%22,%22aorg%22:[],%22IntrN%22:%22metrics%22,%22IntrT%22:%222%22,%22pid%22:%221074467058%22,%22Usr%22:%22u2%3D38e46e5a-ec9e-442a-893c-1b6bd14fb381%22,%22AgencyID%22:%2228995%22,%22cid%22:%221073927819%22,%22ua%22:%22Mozilla%2F5.0%20(Linux%3B%20Android%207.0%3B%20LG-H870DS%20Build%2FNRD90U%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F75.0.3770.101%20Mobile%20Safari%2F537.36%22,%22s_flag%22:%221%22,%22s_nxt%22:%221%22,%22s_bt%22:%221%22,%22s_plt%22:%221%22,%22s_bv%22:%221%22,%22s_ios%22:%220%22,%22s_vv%22:%220%22,%22s_instrm%22:%221%22,%22s_tn%22:%22true%22,%22s_frp%22:%221%22,%22s_av%22:%221%22,%22s_avd%22:%221%22,%22s_mvfd%22:%221%22,%22s_geb%22:%221%22,%22s_gstr%22:%221%22,%22s_ebadcs%22:%221%22,%22s_ebac%22:%221%22,%22s_ope%22:%221%22,%22s_osde%22:%221%22,%22s_rspn%22:%221%22,%22s_adpt%22:%221%22,%22rdi%22:%222%22,%22dbg%22:%221%22,%22cimp%22:%221%22}
+10.14.122.172:46317: GET https://lm.serving-sys.com/lm/int?json={%22sid%22:%226564227736660334895%22,%22dpv%22:%222%22,%22src%22:%22v2%22,%22adid%22:%221075978595%22,%22ctime%22:%221562567139320%22,%22dur%22:5,%22ctick%22:5017,%22mraid%22:%221%22,%22env%22:%222%22,%22wvsb%22:%221%22,%22wvrf%22:%221%22,%22bi%22:%222%22,%22frmt%22:%225%22,%22srvmd%22:%220%22,%22prtcl%22:%22https%3A%2F%2F%22,%22loc%22:%220x0%22,%22size%22:%22320x480%22,%22cb%22:%220%22,%22os%22:%2236%22,%22brsrc%22:%2213%22,%22brsrv%22:%2275%22,%22brsrt%22:%225%22,%22scrl%22:%220%22,%22fh%22:%220%22,%22fw%22:%220%22,%22vsbp%22:%2210%22,%22turl%22:%22about%3Ablank%22,%22rurl%22:%22%22,%22aorg%22:[],%22IntrN%22:%22metrics%22,%22IntrT%22:%222%22,%22pid%22:%221074467058%22,%22Usr%22:%22u2%3D38e46e5a-ec9e-442a-893c-1b6bd14fb381%22,%22AgencyID%22:%2228995%22,%22cid%22:%221073927819%22,%22ua%22:%22Mozilla%2F5.0%20(Linux%3B%20Android%207.0%3B%20LG-H870DS%20Build%2FNRD90U%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F75.0.3770.101%20Mobile%20Safari%2F537.36%22,%22s_flag%22:%221%22,%22s_nxt%22:%221%22,%22s_bt%22:%221%22,%22s_plt%22:%221%22,%22s_bv%22:%221%22,%22s_ios%22:%220%22,%22s_vv%22:%220%22,%22s_instrm%22:%221%22,%22s_tn%22:%22true%22,%22s_frp%22:%221%22,%22s_av%22:%221%22,%22s_avd%22:%221%22,%22s_mvfd%22:%221%22,%22s_geb%22:%221%22,%22s_gstr%22:%221%22,%22s_ebadcs%22:%221%22,%22s_ebac%22:%221%22,%22s_ope%22:%221%22,%22s_osde%22:%221%22,%22s_rspn%22:%221%22,%22s_adpt%22:%221%22,%22rdi%22:%222%22,%22dbg%22:%221%22,%22cimp%22:%221%22} HTTP/2.0
+                  << 200  0b
+au.w.inmobi.com:http://au.w.inmobi.com/?m=120
+10.14.122.172:46312: GET http://au.w.inmobi.com/?m=120
+                  << 200 OK 11k
+sdktm.w.inmobi.com:https://sdktm.w.inmobi.com/sdkpubreq?event-name=TrueAdViewRequested&d-orientation=1&tz=19800000&request-id=8f366351-daff-47dd-b954-8068e3176747&d-device-screen-size=360X668&im-plid=101&event-id=0e21c43b-d0d1-4a24-a64d-3652e243fea4&d-nettype-raw=1&User-Agent=Mozilla%2F5.0+%28Linux%3B+Android+7.0%3B+LG-H870DS+Build%2FNRD90U%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Version%2F4.0+Chrome%2F75.0.3770.101+Mobile+Safari%2F537.36&mk-version=pr-SAND-HTATC-20171211&ts=1562567149162&u-id-map=%7B%22GPID%22%3A%2291b7f4c3-ed00-4265-a5ce-05a836d055ec%22%7D&d-device-screen-density=4.0&adtype=int&im-accid=12345678901234567890123456789012&d-media-volume=100&d-density-dependent-screen-size=1440x2672&u-id-adt=0&d-localization=en_GB&d-textsize=56.0
+sdktm.w.inmobi.com:https://sdktm.w.inmobi.com/sdkpubreq?event-name=TrueAdViewDisplayed&d-orientation=1&tz=19800000&request-id=8f366351-daff-47dd-b954-8068e3176747&d-device-screen-size=360X668&im-plid=101&event-id=515f4513-dbfe-4cf6-a93b-0c7bbca3e1db&d-nettype-raw=1&User-Agent=Mozilla%2F5.0+%28Linux%3B+Android+7.0%3B+LG-H870DS+Build%2FNRD90U%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Version%2F4.0+Chrome%2F75.0.3770.101+Mobile+Safari%2F537.36&mk-version=pr-SAND-HTATC-20171211&ts=1562567149215&u-id-map=%7B%22GPID%22%3A%2291b7f4c3-ed00-4265-a5ce-05a836d055ec%22%7D&d-device-screen-density=4.0&adtype=int&im-accid=12345678901234567890123456789012&d-media-volume=100&d-density-dependent-screen-size=1440x2672&u-id-adt=0&d-localization=en_GB&d-textsize=56.0
+10.14.122.172:46325: GET https://sdktm.w.inmobi.com/sdkpubreq?event-name=TrueAdViewRequested&d-orientation=1&tz=19800000&request-id=8f366351-daff-47dd-b954-8068e3176747&d-device-screen-size=360X668&im-plid=101&event-id=0e21c43b-d0d1-4a24-a64d-3652e243fea4&d-nettype-raw=1&User-Agent=Mozilla%2F5.0+%28Linux%3B+Android+7.0%3B+LG-H870DS+Build%2FNRD90U%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Version%2F4.0+Chrome%2F75.0.3770.101+Mobile+Safari%2F537.36&mk-version=pr-SAND-HTATC-20171211&ts=1562567149162&u-id-map=%7B%22GPID%22%3A%2291b7f4c3-ed00-4265-a5ce-05a836d055ec%22%7D&d-device-screen-density=4.0&adtype=int&im-accid=12345678901234567890123456789012&d-media-volume=100&d-density-dependent-screen-size=1440x2672&u-id-adt=0&d-localization=en_GB&d-textsize=56.0
+                  << 200 OK 0b
+10.14.122.172:46326: GET https://sdktm.w.inmobi.com/sdkpubreq?event-name=TrueAdViewDisplayed&d-orientation=1&tz=19800000&request-id=8f366351-daff-47dd-b954-8068e3176747&d-device-screen-size=360X668&im-plid=101&event-id=515f4513-dbfe-4cf6-a93b-0c7bbca3e1db&d-nettype-raw=1&User-Agent=Mozilla%2F5.0+%28Linux%3B+Android+7.0%3B+LG-H870DS+Build%2FNRD90U%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Version%2F4.0+Chrome%2F75.0.3770.101+Mobile+Safari%2F537.36&mk-version=pr-SAND-HTATC-20171211&ts=1562567149215&u-id-map=%7B%22GPID%22%3A%2291b7f4c3-ed00-4265-a5ce-05a836d055ec%22%7D&d-device-screen-density=4.0&adtype=int&im-accid=12345678901234567890123456789012&d-media-volume=100&d-density-dependent-screen-size=1440x2672&u-id-adt=0&d-localization=en_GB&d-textsize=56.0
+                  << 200 OK 0b
+bs.serving-sys.com:https://bs.serving-sys.com/Serving/adServer.bs?cn=int&iv=2&int=1075978595~~0~~1074168921~~6564227736660334895^VsAdDu~5~0~01020~15033^VsAvSu~100~0~01020~15034&usercookie=u2=38e46e5a-ec9e-442a-893c-1b6bd14fb381&iseq=1&rnd=0.2770171674953419&flv=-1&res=0
+bs.serving-sys.com:https://bs.serving-sys.com/Serving/adServer.bs?cn=int&iv=2&int=1075978595~~0~~1074168921~~6564227736660334895^VsIAB~0~0~01020~10961^VsAd~0~0~01020~10965&usercookie=u2=38e46e5a-ec9e-442a-893c-1b6bd14fb381&rnd=0.44270905843700703&flv=-1&res=0
+10.14.122.172:46336: GET https://bs.serving-sys.com/Serving/adServer.bs?cn=int&iv=2&int=1075978595~~0~~1074168921~~6564227736660334895^VsAdDu~5~0~01020~15033^VsAvSu~100~0~01020~15034&usercookie=u2=38e46e5a-ec9e-442a-893c-1b6bd14fb381&iseq=1&rnd=0.2770171674953419&flv=-1&res=0
+                  << 200  0b
+10.14.122.172:46300: GET https://bs.serving-sys.com/Serving/adServer.bs?cn=int&iv=2&int=1075978595~~0~~1074168921~~6564227736660334895^VsIAB~0~0~01020~10961^VsAd~0~0~01020~10965&usercookie=u2=38e46e5a-ec9e-442a-893c-1b6bd14fb381&rnd=0.44270905843700703&flv=-1&res=0
+                  << 200  0b
+bs.serving-sys.com:https://bs.serving-sys.com/Serving/adServer.bs?cn=int&iv=2&int=1075978595~~0~~1074168921~~6564227736660334895^VsAdDu~25~0~01020~35053^VsAvSu~100~0~01020~35054&usercookie=u2=38e46e5a-ec9e-442a-893c-1b6bd14fb381&iseq=2&rnd=0.3826097690064454&flv=-1&res=0
+10.14.122.172:46300: GET https://bs.serving-sys.com/Serving/adServer.bs?cn=int&iv=2&int=1075978595~~0~~1074168921~~6564227736660334895^VsAdDu~25~0~01020~35053^VsAvSu~100~0~01020~35054&usercookie=u2=38e46e5a-ec9e-442a-893c-1b6bd14fb381&iseq=2&rnd=0.3826097690064454&flv=-1&res=0
+                  << 200  0b
+10.14.122.172:46306: clientdisconnect
+bs.serving-sys.com:https://bs.serving-sys.com/Serving/adServer.bs?cn=brd&PluID=0&Pos=4405871834382662&EyeblasterID=1075978595&clk=1&sct=1&dg=1074168921&dgo=1074168921&pc=&sessionid=6564227736660334895&usercookie=u2=38e46e5a-ec9e-442a-893c-1b6bd14fb381&OptOut=0&ctick=59399&rtu=https%3A%2F%2Fhealth.ucdavis.edu%2Fopen-enrollment%2F%3Futm_source%3DinMobi%26utm_campaign%3DNo1-Sacramento&ebReferrer=about%3Ablank&ncu=https%3A%2F%2Fs-et-rc-w.inmobi.com%2Fc.asm%2Fc.asm%2FC%2Ft%2Fdnxubmu1kr%2Fn4p%2F3%2F2m%2Fgz%2Fu%2F0%2F0%2F0%2Fx%2Fd04257c9-016b-1000-00e6-41603e2c00e6%2Fa702%2F0%2F-1%2F1%2F0%2Fx%2F-1350224377%2FNW%2F2t%2F0%2Fsdk%2F7.0.2%2Fdir%2FeA~~%2FFoCS9AEWAAA%2F6%2F399138b4
+10.14.122.172:46300: GET https://bs.serving-sys.com/Serving/adServer.bs?cn=brd&PluID=0&Pos=4405871834382662&EyeblasterID=1075978595&clk=1&sct=1&dg=1074168921&dgo=1074168921&pc=&sessionid=6564227736660334895&usercookie=u2=38e46e5a-ec9e-442a-893c-1b6bd14fb381&OptOut=0&ctick=59399&rtu=https%3A%2F%2Fhealth.ucdavis.edu%2Fopen-enrollment%2F%3Futm_source%3DinMobi%26utm_campaign%3DNo1-Sacramento&ebReferrer=about%3Ablank&ncu=https%3A%2F%2Fs-et-rc-w.inmobi.com%2Fc.asm%2Fc.asm%2FC%2Ft%2Fdnxubmu1kr%2Fn4p%2F3%2F2m%2Fgz%2Fu%2F0%2F0%2F0%2Fx%2Fd04257c9-016b-1000-00e6-41603e2c00e6%2Fa702%2F0%2F-1%2F1%2F0%2Fx%2F-1350224377%2FNW%2F2t%2F0%2Fsdk%2F7.0.2%2Fdir%2FeA~~%2FFoCS9AEWAAA%2F6%2F399138b4
+                  << 200  1k
+10.14.122.172:46354: clientconnect
+10.14.122.172:46355: clientconnect
+s-et-rc-w.inmobi.com:https://s-et-rc-w.inmobi.com/c.asm/c.asm/C/t/dnxubmu1kr/n4p/3/2m/gz/u/0/0/0/x/d04257c9-016b-1000-00e6-41603e2c00e6/a702/0/-1/1/0/x/-1350224377/NW/2t/0/sdk/7.0.2/dir/eA~~/FoCS9AEWAAA/6/399138b4
+10.14.122.172:46354: GET https://s-et-rc-w.inmobi.com/c.asm/c.asm/C/t/dnxubmu1kr/n4p/3/2m/gz/u/0/0/0/x/d04257c9-016b-1000-00e6-41603e2c00e6/a702/0/-1/1/0/x/-1350224377/NW/2t/0/sdk/7.0.2/dir/eA~~/FoCS9AEWAAA/6/399138b4
+                  << 302 Found 0b
+health.ucdavis.edu:https://health.ucdavis.edu/open-enrollment/?utm_source=inMobi&utm_campaign=No1-Sacramento
+10.14.122.172:46355: GET https://health.ucdavis.edu/open-enrollment/?utm_source=inMobi&utm_campaign=No1-Sacramento
+                  << 200 OK 12k
+10.14.122.172:46356: clientconnect
+10.14.122.172:46357: clientconnect
+10.14.122.172:46358: clientconnect
+10.14.122.172:46359: clientconnect
+10.14.122.172:46360: clientconnect
+10.14.122.172:46361: clientconnect
+10.14.122.172:46362: clientconnect
+health.ucdavis.edu:https://health.ucdavis.edu/global/design/responsive/bootstrap/css/bootstrap.min.css?v=4
+platform.twitter.com:https://platform.twitter.com/oct.js
+10.14.122.172:46362: GET https://platform.twitter.com/oct.js
+                  << 301 Moved Permanently 0b
+10.14.122.172:46364: clientconnect
+www.googletagmanager.com:https://www.googletagmanager.com/gtag/js?id=AW-797979195
+10.14.122.172:46355: GET https://health.ucdavis.edu/global/design/responsive/bootstrap/css/bootstrap.min.css?v=4
+                  << 200 OK 18k
+10.14.122.172:46361: GET https://www.googletagmanager.com/gtag/js?id=AW-797979195 HTTP/2.0
+                  << 200  25k
+health.ucdavis.edu:https://health.ucdavis.edu/global/design/responsive/bootstrap/css/customnavbar.css?v=4
+10.14.122.172:46355: GET https://health.ucdavis.edu/global/design/responsive/bootstrap/css/customnavbar.css?v=4
+                  << 200 OK 4k
+health.ucdavis.edu:https://health.ucdavis.edu/global/design/responsive/global.css?v=4
+10.14.122.172:46355: GET https://health.ucdavis.edu/global/design/responsive/global.css?v=4
+                  << 200 OK 9k
+static.ads-twitter.com:https://static.ads-twitter.com/oct.js
+health.ucdavis.edu:https://health.ucdavis.edu/global/design/responsive/theme/fullwidth-layout/fullwidth-home-styles.css?v=4
+10.14.122.172:46364: GET https://static.ads-twitter.com/oct.js HTTP/2.0
+                  << 200  1k
+health.ucdavis.edu:https://health.ucdavis.edu/global/design/responsive/bootstrap/css/navtoptitle.css?v=4
+health.ucdavis.edu:https://health.ucdavis.edu/global/design/responsive/utility/flexslider/flexslider.css?v=2
+health.ucdavis.edu:https://health.ucdavis.edu/global/design/responsive/bootstrap/css/combonavleft.css?v=2
+health.ucdavis.edu:https://health.ucdavis.edu/global/design/responsive/utility/autocomplete/jquery-ui-1.10.4.custom.css?v=4
+health.ucdavis.edu:https://health.ucdavis.edu/global/design/responsive/theme/pagelayout/landingpage.css?v=2
+10.14.122.172:46355: GET https://health.ucdavis.edu/global/design/responsive/theme/fullwidth-layout/fullwidth-home-styles.css?v=4
+                  << 200 OK 3k
+10.14.122.172:46356: GET https://health.ucdavis.edu/global/design/responsive/bootstrap/css/navtoptitle.css?v=4
+                  << 200 OK 100b
+health.ucdavis.edu:https://health.ucdavis.edu/open-enrollment/themes/custom/custom.css
+health.ucdavis.edu:https://health.ucdavis.edu/global/design/responsive/utility/owlcarousel/owlcarousel.css
+10.14.122.172:46357: GET https://health.ucdavis.edu/global/design/responsive/utility/autocomplete/jquery-ui-1.10.4.custom.css?v=4
+                  << 200 OK 549b
+10.14.122.172:46359: GET https://health.ucdavis.edu/global/design/responsive/utility/flexslider/flexslider.css?v=2
+                  << 200 OK 2k
+10.14.122.172:46358: GET https://health.ucdavis.edu/global/design/responsive/bootstrap/css/combonavleft.css?v=2
+                  << 200 OK 584b
+10.14.122.172:46360: GET https://health.ucdavis.edu/global/design/responsive/theme/pagelayout/landingpage.css?v=2
+                  << 200 OK 1k
+health.ucdavis.edu:https://health.ucdavis.edu/global/design/responsive/theme/maps/maps.css
+health.ucdavis.edu:https://health.ucdavis.edu/global/design/responsive/lib/jquery/jquery-1.11.1.min.js?v=4
+health.ucdavis.edu:https://health.ucdavis.edu/global/design/responsive/bootstrap/js/bootstrap.min.js?v=4
+health.ucdavis.edu:https://health.ucdavis.edu/global/design/responsive/fonts/fonts.css
+10.14.122.172:46356: GET https://health.ucdavis.edu/global/design/responsive/utility/owlcarousel/owlcarousel.css
+                  << 200 OK 1k
+10.14.122.172:46355: GET https://health.ucdavis.edu/open-enrollment/themes/custom/custom.css
+                  << 200 OK 2k
+10.14.122.172:46357: GET https://health.ucdavis.edu/global/design/responsive/theme/maps/maps.css
+                  << 200 OK 526b
+10.14.122.172:46359: GET https://health.ucdavis.edu/global/design/responsive/fonts/fonts.css
+                  << 200 OK 1k
+10.14.122.172:46360: GET https://health.ucdavis.edu/global/design/responsive/bootstrap/js/bootstrap.min.js?v=4
+                  << 200 OK 8k
+health.ucdavis.edu:https://health.ucdavis.edu/global/design/responsive/utility/autocomplete/jquery-ui-1.10.4.custom.js?v=4
+health.ucdavis.edu:https://health.ucdavis.edu/global/design/responsive/global.js?v=4
+health.ucdavis.edu:https://health.ucdavis.edu/global/design/responsive/utility/content-load.js?v=2
+health.ucdavis.edu:https://health.ucdavis.edu/global/design/responsive/utility/flexslider/jquery.flexslider.min.js?v=2
+health.ucdavis.edu:https://health.ucdavis.edu/global/design/responsive/bootstrap/js/bootstrap-hover-dropdown.min.js?v=4
+10.14.122.172:46358: GET https://health.ucdavis.edu/global/design/responsive/lib/jquery/jquery-1.11.1.min.js?v=4
+                  << 200 OK 36k
+health.ucdavis.edu:https://health.ucdavis.edu/global/design/responsive/utility/owlcarousel/owlcarousel.min.js
+10.14.122.172:46359: GET https://health.ucdavis.edu/global/design/responsive/utility/content-load.js?v=2
+                  << 200 OK 509b
+10.14.122.172:46355: GET https://health.ucdavis.edu/global/design/responsive/global.js?v=4
+                  << 200 OK 1k
+10.14.122.172:46356: GET https://health.ucdavis.edu/global/design/responsive/bootstrap/js/bootstrap-hover-dropdown.min.js?v=4
+                  << 200 OK 831b
+10.14.122.172:46357: GET https://health.ucdavis.edu/global/design/responsive/utility/flexslider/jquery.flexslider.min.js?v=2
+                  << 200 OK 6k
+health.ucdavis.edu:https://health.ucdavis.edu/global/design/responsive/utility/autocomplete/autocomplete-solr-search.js
+health.ucdavis.edu:https://health.ucdavis.edu/global/images/wordmarks/UCDavisHealth.svg
+health.ucdavis.edu:https://health.ucdavis.edu/global/design/responsive/utility/owlcarousel/promocarousel.js
+10.14.122.172:46358: GET https://health.ucdavis.edu/global/design/responsive/utility/owlcarousel/owlcarousel.min.js
+                  << 200 OK 12k
+10.14.122.172:46360: GET https://health.ucdavis.edu/global/design/responsive/utility/autocomplete/jquery-ui-1.10.4.custom.js?v=4
+                  << 200 OK 21k
+10.14.122.172:46355: GET https://health.ucdavis.edu/global/design/responsive/utility/autocomplete/autocomplete-solr-search.js
+                  << 200 OK 1k
+10.14.122.172:46359: GET https://health.ucdavis.edu/global/design/responsive/utility/owlcarousel/promocarousel.js
+                  << 200 OK 322b
+10.14.122.172:46357: GET https://health.ucdavis.edu/global/images/wordmarks/UCDavisHealth.svg
+                  << 200 OK 2k
+health.ucdavis.edu:https://health.ucdavis.edu/global/design/responsive/utility/jquery.fitvids.js
+10.14.122.172:46365: clientconnect
+10.14.122.172:46366: clientconnect
+www.googletagmanager.com:https://www.googletagmanager.com/gtag/js?id=UA-1734004-1
+10.14.122.172:46367: clientconnect
+10.14.122.172:46368: clientconnect
+10.14.122.172:46369: clientconnect
+10.14.122.172:46370: clientconnect
+10.14.122.172:46371: clientconnect
+10.14.122.172:46372: clientconnect
+10.14.122.172:46374: clientconnect
+10.14.122.172:46373: clientconnect
+health.ucdavis.edu:https://health.ucdavis.edu/global/images/icons/twitter-32x32.png
+health.ucdavis.edu:https://health.ucdavis.edu/global/images/icons/instagram-32x32.png
+health.ucdavis.edu:https://health.ucdavis.edu/global/images/icons/facebook-32x32.png
+health.ucdavis.edu:https://health.ucdavis.edu/global/images/icons/pinterest-32x32.png
+health.ucdavis.edu:https://health.ucdavis.edu/global/images/icons/youtube-32x32.png
+10.14.122.172:46357: GET https://health.ucdavis.edu/global/design/responsive/utility/jquery.fitvids.js
+                  << 200 OK 1k
+10.14.122.172:46375: clientconnect
+health.ucdavis.edu:https://health.ucdavis.edu/global/design/responsive/bootstrap/fonts/glyphicons-halflings-regular.woff2
+10.14.122.172:46359: GET https://health.ucdavis.edu/global/images/icons/facebook-32x32.png
+                  << 200 OK 1k
+10.14.122.172:46356: GET https://health.ucdavis.edu/global/images/icons/instagram-32x32.png
+                  << 200 OK 1k
+10.14.122.172:46360: GET https://health.ucdavis.edu/global/images/icons/twitter-32x32.png
+                  << 200 OK 1k
+s7.addthis.com:https://s7.addthis.com/js/300/addthis_widget.js
+10.14.122.172:46376: clientconnect
+10.14.122.172:46358: GET https://health.ucdavis.edu/global/images/icons/youtube-32x32.png
+                  << 200 OK 1k
+health.ucdavis.edu:https://health.ucdavis.edu/global/design/responsive/img/bullet_blue.gif
+health.ucdavis.edu:https://health.ucdavis.edu/open-enrollment/images/women-walking.jpg
+platform.twitter.com:https://platform.twitter.com/widgets.js
+health.ucdavis.edu:https://health.ucdavis.edu/open-enrollment/images/clinic-locations-sacramento-region-uc-davis-health-thumb.jpg
+10.14.122.172:46355: GET https://health.ucdavis.edu/global/images/icons/pinterest-32x32.png
+                  << 200 OK 2k
+10.14.122.172:46362: GET https://platform.twitter.com/widgets.js
+                  << 200 OK 92k
+health.ucdavis.edu:https://health.ucdavis.edu/open-enrollment/images/clinic-locations-sacramento-region-uc-davis-health.jpg
+health.ucdavis.edu:https://health.ucdavis.edu/open-enrollment/images/choose-uc-davis-health.jpg
+10.14.122.172:46377: clientconnect
+10.14.122.172:46357: GET https://health.ucdavis.edu/global/design/responsive/bootstrap/fonts/glyphicons-halflings-regular.woff2
+                  << 200 OK 17k
+platform.twitter.com:https://platform.twitter.com/widgets/widget_iframe.d753e00c3e838c1b2558149bd3f6ecb8.html?origin=https%3A%2F%2Fhealth.ucdavis.edu
+10.14.122.172:46365: GET https://s7.addthis.com/js/300/addthis_widget.js HTTP/2.0
+                  << 200  109k
+10.14.122.172:46359: GET https://health.ucdavis.edu/global/design/responsive/img/bullet_blue.gif
+                  << 200 OK 1k
+10.14.122.172:46362: GET https://platform.twitter.com/widgets/widget_iframe.d753e00c3e838c1b2558149bd3f6ecb8.html?origin=https%3A%2F%2Fhealth.ucdavis.edu
+                  << 200 OK 14k
+10.14.122.172:46378: clientconnect
+t.co:https://t.co/i/adsct?p_id=Twitter&p_user_id=0&txn_id=o023k&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0
+health.ucdavis.edu:https://health.ucdavis.edu/open-enrollment/images/EricFernandezYGarcia-home.jpg
+10.14.122.172:46360: GET https://health.ucdavis.edu/open-enrollment/images/clinic-locations-sacramento-region-uc-davis-health-thumb.jpg
+                  << 200 OK 62k
+10.14.122.172:46355: GET https://health.ucdavis.edu/open-enrollment/images/clinic-locations-sacramento-region-uc-davis-health.jpg
+                  << 200 OK 95k
+10.14.122.172:46361: GET https://www.googletagmanager.com/gtag/js?id=UA-1734004-1 HTTP/2.0
+                  << 200  25k
+10.14.122.172:46358: GET https://health.ucdavis.edu/open-enrollment/images/choose-uc-davis-health.jpg
+                  << 200 OK 135k
+10.14.122.172:46368: GET https://t.co/i/adsct?p_id=Twitter&p_user_id=0&txn_id=o023k&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0 HTTP/2.0
+                  << 200  65b
+s.yimg.com:https://s.yimg.com/wi/ytc.js
+connect.facebook.net:https://connect.facebook.net/en_US/fbevents.js
+www.googleadservices.com:https://www.googleadservices.com/pagead/conversion_async.js
+campusfont.ucdavis.edu:https://campusfont.ucdavis.edu/proxima-nova/proximanova_regular_macroman/proximanova-regular-webfont.woff2
+campusfont.ucdavis.edu:https://campusfont.ucdavis.edu/proxima-nova/proximanova_italic_macroman/proximanova-regularit-webfont.woff2
+campusfont.ucdavis.edu:https://campusfont.ucdavis.edu/proxima-nova/proximanova_bold_macroman/proximanova-bold-webfont.woff2
+campusfont.ucdavis.edu:https://campusfont.ucdavis.edu/proxima-nova/proximanova_medium_macroman/proximanova-medium-webfont.woff2
+10.14.122.172:46366: GET https://connect.facebook.net/en_US/fbevents.js HTTP/2.0
+                  << 200  15k
+campusfont.ucdavis.edu:https://campusfont.ucdavis.edu/proxima-nova/proximanova_light_macroman/proximanova-light-webfont.woff2
+campusfont.ucdavis.edu:https://campusfont.ucdavis.edu/proxima-nova/proximanova_semibold_macroman/proximanova-semibold-webfont.woff2
+10.14.122.172:46367: GET https://s.yimg.com/wi/ytc.js HTTP/2.0
+                  << 200  4k
+analytics.twitter.com:https://analytics.twitter.com/i/adsct?p_id=Twitter&p_user_id=0&txn_id=o023k&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Fhealth.ucdavis.edu%2Fopen-enrollment%2F%3Futm_source%3DinMobi%26utm_campaign%3DNo1-Sacramento
+syndication.twitter.com:https://syndication.twitter.com/settings
+health.ucdavis.edu:https://health.ucdavis.edu/open-enrollment/images/Low-specialty-care.jpg
+10.14.122.172:46375: GET https://www.googleadservices.com/pagead/conversion_async.js HTTP/2.0
+                  << 200  8k
+10.14.122.172:46356: GET https://health.ucdavis.edu/open-enrollment/images/women-walking.jpg
+                  << 200 OK 215k
+10.14.122.172:46371: GET https://campusfont.ucdavis.edu/proxima-nova/proximanova_bold_macroman/proximanova-bold-webfont.woff2 HTTP/2.0
+                  << 200  13k
+10.14.122.172:46371: GET https://campusfont.ucdavis.edu/proxima-nova/proximanova_regular_macroman/proximanova-regular-webfont.woff2 HTTP/2.0
+                  << 200  13k
+10.14.122.172:46378: GET https://syndication.twitter.com/settings HTTP/2.0
+                  << 200  79b
+10.14.122.172:46377: GET https://analytics.twitter.com/i/adsct?p_id=Twitter&p_user_id=0&txn_id=o023k&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Fhealth.ucdavis.edu%2Fopen-enrollment%2F%3Futm_source%3DinMobi%26utm_campaign%3DNo1-Sacramento HTTP/2.0
+                  << 200  57b
+connect.facebook.net:https://connect.facebook.net/signals/config/720079384795657?v=2.8.51&r=stable
+10.14.122.172:46379: clientconnect
+10.14.122.172:46371: GET https://campusfont.ucdavis.edu/proxima-nova/proximanova_light_macroman/proximanova-light-webfont.woff2 HTTP/2.0
+                  << 200  13k
+10.14.122.172:46380: clientconnect
+10.14.122.172:46371: GET https://campusfont.ucdavis.edu/proxima-nova/proximanova_semibold_macroman/proximanova-semibold-webfont.woff2 HTTP/2.0
+                  << 200  13k
+www.googleadservices.com:https://www.googleadservices.com/pagead/conversion/967676412/?random=1562567208581&cv=9&fst=1562567208581&num=1&label=16vtCKCZpokBEPyjts0D&bg=ffffff&guid=ON&resp=GooglemKTybQhCsO&eid=376635471&u_h=668&u_w=360&u_ah=668&u_aw=360&u_cd=24&u_his=1&u_tz=330&u_java=false&u_nplug=0&u_nmime=0&gtm=2oa6k2&sendb=1&data=event%3Dconversion&frm=0&url=https%3A%2F%2Fhealth.ucdavis.edu%2Fopen-enrollment%2F%3Futm_source%3DinMobi%26utm_campaign%3DNo1-Sacramento&ref=https%3A%2F%2Fbs.serving-sys.com%2FServing%2FadServer.bs%3Fcn%3Dbrd%26PluID%3D0%26Pos%3D4405871834382662%26EyeblasterID%3D1075978595%26clk%3D1%26sct%3D1%26dg%3D1074168921%26dgo%3D1074168921%26pc%3D%26sessionid%3D6564227736660334895%26usercookie%3Du2%3D38e46e5a-ec9e-442a-893c-1b6bd14fb381%26OptOut%3D0%26ctick%3D59399%26rtu%3Dhttps%253A%252F%252Fhealth.ucdavis.edu%252Fopen-enrollment%252F%253Futm_source%253DinMobi%2526utm_campaign%253DNo1-Sacramento%26ebReferrer%3Dabout%253Ablank%26ncu%3Dhttps%253A%252F%252Fs-et-rc-w.inmobi.com%252Fc.asm%252Fc.asm%252FC%252Ft%252Fdnxubmu1kr%252Fn4p%252F3%252F2m%252Fgz%252Fu%252F0%252F0%252F0%252Fx%252Fd04&tiba=Choose%20Health%20%7C%20UC%20Davis%20Health&async=1&rfmt=3&fmt=4
+platform.twitter.com:https://platform.twitter.com/js/moment~timeline~tweet.a20574004ea824b1c047f200045ffa1e.js
+10.14.122.172:46371: GET https://campusfont.ucdavis.edu/proxima-nova/proximanova_medium_macroman/proximanova-medium-webfont.woff2 HTTP/2.0
+                  << 200  13k
+health.ucdavis.edu:https://health.ucdavis.edu/open-enrollment/images/mychart-small.jpg
+health.ucdavis.edu:https://health.ucdavis.edu/open-enrollment/images/midtown-interior.jpg
+us2.siteimprove.com:https://us2.siteimprove.com/js/siteanalyze_68301.js
+health.ucdavis.edu:https://health.ucdavis.edu/open-enrollment/images/plans-888240908.jpg
+10.14.122.172:46375: GET https://www.googleadservices.com/pagead/conversion/967676412/?random=1562567208581&cv=9&fst=1562567208581&num=1&label=16vtCKCZpokBEPyjts0D&bg=ffffff&guid=ON&resp=GooglemKTybQhCsO&eid=376635471&u_h=668&u_w=360&u_ah=668&u_aw=360&u_cd=24&u_his=1&u_tz=330&u_java=false&u_nplug=0&u_nmime=0&gtm=2oa6k2&sendb=1&data=event%3Dconversion&frm=0&url=https%3A%2F%2Fhealth.ucdavis.edu%2Fopen-enrollment%2F%3Futm_source%3DinMobi%26utm_campaign%3DNo1-Sacramento&ref=https%3A%2F%2Fbs.serving-sys.com%2FServing%2FadServer.bs%3Fcn%3Dbrd%26PluID%3D0%26Pos%3D4405871834382662%26EyeblasterID%3D1075978595%26clk%3D1%26sct%3D1%26dg%3D1074168921%26dgo%3D1074168921%26pc%3D%26sessionid%3D6564227736660334895%26usercookie%3Du2%3D38e46e5a-ec9e-442a-893c-1b6bd14fb381%26OptOut%3D0%26ctick%3D59399%26rtu%3Dhttps%253A%252F%252Fhealth.ucdavis.edu%252Fopen-enrollment%252F%253Futm_source%253DinMobi%2526utm_campaign%253DNo1-Sacramento%26ebReferrer%3Dabout%253Ablank%26ncu%3Dhttps%253A%252F%252Fs-et-rc-w.inmobi.com%252Fc.asm%252Fc.asm%252FC%252Ft%252Fdnxubmu1kr%252Fn4p%252F3%252F2m%252Fgz%252Fu%252F0%252F0%252F0%252Fx%252Fd04&tiba=Choose%20Health%20%7C%20UC%20Davis%20Health&async=1&rfmt=3&fmt=4 HTTP/2.0
+                  << 200  1k
+10.14.122.172:46362: GET https://platform.twitter.com/js/moment~timeline~tweet.a20574004ea824b1c047f200045ffa1e.js
+                  << 200 OK 24k
+health.ucdavis.edu:https://health.ucdavis.edu/open-enrollment/images/research-939447574.jpg
+10.14.122.172:46366: GET https://connect.facebook.net/signals/config/720079384795657?v=2.8.51&r=stable HTTP/2.0
+                  << 200  59k
+10.14.122.172:46382: clientconnect
+platform.twitter.com:https://platform.twitter.com/js/timeline.49693ebcd57b08708ebca7502c7c343d.js
+10.14.122.172:46362: GET https://platform.twitter.com/js/timeline.49693ebcd57b08708ebca7502c7c343d.js
+                  << 200 OK 22k
+10.14.122.172:46357: GET https://health.ucdavis.edu/open-enrollment/images/Low-specialty-care.jpg
+                  << 200 OK 136k
+10.14.122.172:46376: GET https://us2.siteimprove.com/js/siteanalyze_68301.js
+                  << 200 OK 9k
+syndication.twitter.com:https://syndication.twitter.com/i/jot/syndication?l=%7B%22_category_%22%3A%22syndicated_impression%22%2C%22triggered_on%22%3A1562567209113%2C%22dnt%22%3Afalse%2C%22event_namespace%22%3A%7B%22client%22%3A%22tfw%22%2C%22page%22%3A%22timeline%22%2C%22action%22%3A%22impression%22%7D%7D
+10.14.122.172:46360: GET https://health.ucdavis.edu/open-enrollment/images/mychart-small.jpg
+                  << 200 OK 37k
+10.14.122.172:46359: GET https://health.ucdavis.edu/open-enrollment/images/EricFernandezYGarcia-home.jpg
+                  << 200 OK 374k
+10.14.122.172:46356: GET https://health.ucdavis.edu/open-enrollment/images/plans-888240908.jpg
+                  << 200 OK 57k
+10.14.122.172:46371: GET https://campusfont.ucdavis.edu/proxima-nova/proximanova_italic_macroman/proximanova-regularit-webfont.woff2 HTTP/2.0
+                  << 200  14k
+10.14.122.172:46383: clientconnect
+10.14.122.172:46312: clientdisconnect
+10.14.122.172:46384: clientconnect
+googleads.g.doubleclick.net:https://googleads.g.doubleclick.net/pagead/viewthroughconversion/797979195/?random=1562567208571&cv=9&fst=1562567208571&num=1&bg=ffffff&guid=ON&resp=GooglemKTybQhCsO&eid=376635471&u_h=668&u_w=360&u_ah=668&u_aw=360&u_cd=24&u_his=1&u_tz=330&u_java=false&u_nplug=0&u_nmime=0&gtm=2oa6k2&sendb=1&data=event%3Dgtag.config&frm=0&url=https%3A%2F%2Fhealth.ucdavis.edu%2Fopen-enrollment%2F%3Futm_source%3DinMobi%26utm_campaign%3DNo1-Sacramento&ref=https%3A%2F%2Fbs.serving-sys.com%2FServing%2FadServer.bs%3Fcn%3Dbrd%26PluID%3D0%26Pos%3D4405871834382662%26EyeblasterID%3D1075978595%26clk%3D1%26sct%3D1%26dg%3D1074168921%26dgo%3D1074168921%26pc%3D%26sessionid%3D6564227736660334895%26usercookie%3Du2%3D38e46e5a-ec9e-442a-893c-1b6bd14fb381%26OptOut%3D0%26ctick%3D59399%26rtu%3Dhttps%253A%252F%252Fhealth.ucdavis.edu%252Fopen-enrollment%252F%253Futm_source%253DinMobi%2526utm_campaign%253DNo1-Sacramento%26ebReferrer%3Dabout%253Ablank%26ncu%3Dhttps%253A%252F%252Fs-et-rc-w.inmobi.com%252Fc.asm%252Fc.asm%252FC%252Ft%252Fdnxubmu1kr%252Fn4p%252F3%252F2m%252Fgz%252Fu%252F0%252F0%252F0%252Fx%252Fd04&tiba=Choose%20Health%20%7C%20UC%20Davis%20Health&async=1&rfmt=3&fmt=4
+googleads.g.doubleclick.net:https://googleads.g.doubleclick.net/pagead/viewthroughconversion/967676412/?random=1546894374&cv=9&fst=*&num=1&label=16vtCKCZpokBEPyjts0D&bg=ffffff&guid=ON&resp=GooglemKTybQhCsO&eid=376635471&u_h=668&u_w=360&u_ah=668&u_aw=360&u_cd=24&u_his=1&u_tz=330&u_java=false&u_nplug=0&u_nmime=0&gtm=2oa6k2&sendb=1&data=event%3Dconversion&frm=0&url=https://health.ucdavis.edu/open-enrollment/%3Futm_source%3DinMobi%26utm_campaign%3DNo1-Sacramento&ref=https://bs.serving-sys.com/Serving/adServer.bs%3Fcn%3Dbrd%26PluID%3D0%26Pos%3D4405871834382662%26EyeblasterID%3D1075978595%26clk%3D1%26sct%3D1%26dg%3D1074168921%26dgo%3D1074168921%26pc%3D%26sessionid%3D6564227736660334895%26usercookie%3Du2%3D38e46e5a-ec9e-442a-893c-1b6bd14fb381%26OptOut%3D0%26ctick%3D59399%26rtu%3Dhttps%253A%252F%252Fhealth.ucdavis.edu%252Fopen-enrollment%252F%253Futm_source%253DinMobi%2526utm_campaign%253DNo1-Sacramento%26ebReferrer%3Dabout%253Ablank%26ncu%3Dhttps%253A%252F%252Fs-et-rc-w.inmobi.com%252Fc.asm%252Fc.asm%252FC%252Ft%252Fdnxubmu1kr%252Fn4p%252F3%252F2m%252Fgz%252Fu%252F0%252F0%252F0%252Fx%252Fd04&tiba=Choose%20Health%20%7C%20UC%20Davis%20Health&async=1&fmt=3&ctc_id=CAIVAgAAAB0CAAAA&ct_cookie_present=false&ocp_id=KOIiXfnbNMjmuQSR7YHICw&crd=&gtd=
+www.google-analytics.com:https://www.google-analytics.com/r/collect?v=1&_v=j77&a=1169290345&t=pageview&_s=1&dl=https%3A%2F%2Fhealth.ucdavis.edu%2Fopen-enrollment%2F%3Futm_source%3DinMobi%26utm_campaign%3DNo1-Sacramento&dr=https%3A%2F%2Fbs.serving-sys.com%2FServing%2FadServer.bs%3Fcn%3Dbrd%26PluID%3D0%26Pos%3D4405871834382662%26EyeblasterID%3D1075978595%26clk%3D1%26sct%3D1%26dg%3D1074168921%26dgo%3D1074168921%26pc%3D%26sessionid%3D6564227736660334895%26usercookie%3Du2%3D38e46e5a-ec9e-442a-893c-1b6bd14fb381%26OptOut%3D0%26ctick%3D59399%26rtu%3Dhttps%253A%252F%252Fhealth.ucdavis.edu%252Fopen-enrollment%252F%253Futm_source%253DinMobi%2526utm_campaign%253DNo1-Sacramento%26ebReferrer%3Dabout%253Ablank%26ncu%3Dhttps%253A%252F%252Fs-et-rc-w.inmobi.com%252Fc.asm%252Fc.asm%252FC%252Ft%252Fdnxubmu1kr%252Fn4p%252F3%252F2m%252Fgz%252Fu%252F0%252F0%252F0%252Fx%252Fd04257c9-016b-1000-00e6-41603e2c00e6%252Fa702%252F0%252F-1%252F1%252F0%252Fx%252F-1350224377%252FNW%252F2t%252F0%252Fsdk%252F7.0.2%252Fdir%252FeA~~%252FFoCS9AEWAAA%252F6%252F399138b4&ul=en-gb&de=UTF-8&dt=Choose%20Health%20%7C%20UC%20Davis%20Health&sd=24-bit&sr=360x668&vp=360x596&je=0&_u=IEBAAUAB~&jid=1520942358&gjid=553698172&cid=1872705354.1562567208&tid=UA-1734004-1&_gid=513240564.1562567208&_r=1&gtm=2oa6k2&z=2140011697
+health.ucdavis.edu:https://health.ucdavis.edu/common/includes/shared/buttons/USNews/National/ranked-specialties.jpg
+connect.facebook.net:https://connect.facebook.net/signals/plugins/inferredEvents.js?v=2.8.51
+health.ucdavis.edu:https://health.ucdavis.edu/common/includes/shared/buttons/USNews/children/best-childrens-hospitals-5specs-122W.jpg
+10.14.122.172:46378: GET https://syndication.twitter.com/i/jot/syndication?l=%7B%22_category_%22%3A%22syndicated_impression%22%2C%22triggered_on%22%3A1562567209113%2C%22dnt%22%3Afalse%2C%22event_namespace%22%3A%7B%22client%22%3A%22tfw%22%2C%22page%22%3A%22timeline%22%2C%22action%22%3A%22impression%22%7D%7D HTTP/2.0
+                  << 200  65b
+health.ucdavis.edu:https://health.ucdavis.edu/common/includes/shared/buttons/USNews/Regional/recognized-types-of-care.jpg
+10.14.122.172:46366: GET https://connect.facebook.net/signals/plugins/inferredEvents.js?v=2.8.51 HTTP/2.0
+                  << 200  772b
+10.14.122.172:46382: GET https://googleads.g.doubleclick.net/pagead/viewthroughconversion/967676412/?random=1546894374&cv=9&fst=*&num=1&label=16vtCKCZpokBEPyjts0D&bg=ffffff&guid=ON&resp=GooglemKTybQhCsO&eid=376635471&u_h=668&u_w=360&u_ah=668&u_aw=360&u_cd=24&u_his=1&u_tz=330&u_java=false&u_nplug=0&u_nmime=0&gtm=2oa6k2&sendb=1&data=event%3Dconversion&frm=0&url=https://health.ucdavis.edu/open-enrollment/%3Futm_source%3DinMobi%26utm_campaign%3DNo1-Sacramento&ref=https://bs.serving-sys.com/Serving/adServer.bs%3Fcn%3Dbrd%26PluID%3D0%26Pos%3D4405871834382662%26EyeblasterID%3D1075978595%26clk%3D1%26sct%3D1%26dg%3D1074168921%26dgo%3D1074168921%26pc%3D%26sessionid%3D6564227736660334895%26usercookie%3Du2%3D38e46e5a-ec9e-442a-893c-1b6bd14fb381%26OptOut%3D0%26ctick%3D59399%26rtu%3Dhttps%253A%252F%252Fhealth.ucdavis.edu%252Fopen-enrollment%252F%253Futm_source%253DinMobi%2526utm_campaign%253DNo1-Sacramento%26ebReferrer%3Dabout%253Ablank%26ncu%3Dhttps%253A%252F%252Fs-et-rc-w.inmobi.com%252Fc.asm%252Fc.asm%252FC%252Ft%252Fdnxubmu1kr%252Fn4p%252F3%252F2m%252Fgz%252Fu%252F0%252F0%252F0%252Fx%252Fd04&tiba=Choose%20Health%20%7C%20UC%20Davis%20Health&async=1&fmt=3&ctc_id=CAIVAgAAAB0CAAAA&ct_cookie_present=false&ocp_id=KOIiXfnbNMjmuQSR7YHICw&crd=&gtd= HTTP/2.0
+                  << 302  42b
+10.14.122.172:46380: GET https://www.google-analytics.com/r/collect?v=1&_v=j77&a=1169290345&t=pageview&_s=1&dl=https%3A%2F%2Fhealth.ucdavis.edu%2Fopen-enrollment%2F%3Futm_source%3DinMobi%26utm_campaign%3DNo1-Sacramento&dr=https%3A%2F%2Fbs.serving-sys.com%2FServing%2FadServer.bs%3Fcn%3Dbrd%26PluID%3D0%26Pos%3D4405871834382662%26EyeblasterID%3D1075978595%26clk%3D1%26sct%3D1%26dg%3D1074168921%26dgo%3D1074168921%26pc%3D%26sessionid%3D6564227736660334895%26usercookie%3Du2%3D38e46e5a-ec9e-442a-893c-1b6bd14fb381%26OptOut%3D0%26ctick%3D59399%26rtu%3Dhttps%253A%252F%252Fhealth.ucdavis.edu%252Fopen-enrollment%252F%253Futm_source%253DinMobi%2526utm_campaign%253DNo1-Sacramento%26ebReferrer%3Dabout%253Ablank%26ncu%3Dhttps%253A%252F%252Fs-et-rc-w.inmobi.com%252Fc.asm%252Fc.asm%252FC%252Ft%252Fdnxubmu1kr%252Fn4p%252F3%252F2m%252Fgz%252Fu%252F0%252F0%252F0%252Fx%252Fd04257c9-016b-1000-00e6-41603e2c00e6%252Fa702%252F0%252F-1%252F1%252F0%252Fx%252F-1350224377%252FNW%252F2t%252F0%252Fsdk%252F7.0.2%252Fdir%252FeA~~%252FFoCS9AEWAAA%252F6%252F399138b4&ul=en-gb&de=UTF-8&dt=Choose%20Health%20%7C%20UC%20Davis%20Health&sd=24-bit&sr=360x668&vp=360x596&je=0&_u=IEBAAUAB~&jid=1520942358&gjid=553698172&cid=1872705354.1562567208&tid=UA-1734004-1&_gid=513240564.1562567208&_r=1&gtm=2oa6k2&z=2140011697 HTTP/2.0
+                  << 200  35b
+10.14.122.172:46382: GET https://googleads.g.doubleclick.net/pagead/viewthroughconversion/797979195/?random=1562567208571&cv=9&fst=1562567208571&num=1&bg=ffffff&guid=ON&resp=GooglemKTybQhCsO&eid=376635471&u_h=668&u_w=360&u_ah=668&u_aw=360&u_cd=24&u_his=1&u_tz=330&u_java=false&u_nplug=0&u_nmime=0&gtm=2oa6k2&sendb=1&data=event%3Dgtag.config&frm=0&url=https%3A%2F%2Fhealth.ucdavis.edu%2Fopen-enrollment%2F%3Futm_source%3DinMobi%26utm_campaign%3DNo1-Sacramento&ref=https%3A%2F%2Fbs.serving-sys.com%2FServing%2FadServer.bs%3Fcn%3Dbrd%26PluID%3D0%26Pos%3D4405871834382662%26EyeblasterID%3D1075978595%26clk%3D1%26sct%3D1%26dg%3D1074168921%26dgo%3D1074168921%26pc%3D%26sessionid%3D6564227736660334895%26usercookie%3Du2%3D38e46e5a-ec9e-442a-893c-1b6bd14fb381%26OptOut%3D0%26ctick%3D59399%26rtu%3Dhttps%253A%252F%252Fhealth.ucdavis.edu%252Fopen-enrollment%252F%253Futm_source%253DinMobi%2526utm_campaign%253DNo1-Sacramento%26ebReferrer%3Dabout%253Ablank%26ncu%3Dhttps%253A%252F%252Fs-et-rc-w.inmobi.com%252Fc.asm%252Fc.asm%252FC%252Ft%252Fdnxubmu1kr%252Fn4p%252F3%252F2m%252Fgz%252Fu%252F0%252F0%252F0%252Fx%252Fd04&tiba=Choose%20Health%20%7C%20UC%20Davis%20Health&async=1&rfmt=3&fmt=4 HTTP/2.0
+                  << 200  1k
+10.14.122.172:46383: CONNECT googleads.g.doubleclick.net:443
+ << Cannot establish TLS with client (sni: googleads.g.doubleclick.net): TlsException("SSL handshake error: SysCallError(-1, 'Unexpected EOF')",)
+10.14.122.172:46383: clientdisconnect
+10.14.122.172:46355: GET https://health.ucdavis.edu/open-enrollment/images/midtown-interior.jpg
+                  << 200 OK 210k
+10.14.122.172:46385: clientconnect
+10.14.122.172:46336: clientdisconnect
+10.14.122.172:46357: GET https://health.ucdavis.edu/common/includes/shared/buttons/USNews/children/best-childrens-hospitals-5specs-122W.jpg
+                  << 200 OK 26k
+10.14.122.172:46356: GET https://health.ucdavis.edu/common/includes/shared/buttons/USNews/National/ranked-specialties.jpg
+                  << 200 OK 26k
+10.14.122.172:46358: GET https://health.ucdavis.edu/open-enrollment/images/research-939447574.jpg
+                  << 200 OK 205k
+10.14.122.172:46360: GET https://health.ucdavis.edu/common/includes/shared/buttons/USNews/Regional/recognized-types-of-care.jpg
+                  << 200 OK 30k
+10.14.122.172:46300: clientdisconnect
+10.14.122.172:46386: clientconnect
+cdn.syndication.twimg.com:https://cdn.syndication.twimg.com/timeline/profile?callback=__twttr.callbacks.tl_i0_profile_UCDavisHealth_old&dnt=false&domain=health.ucdavis.edu&lang=en&screen_name=UCDavisHealth&suppress_response_codes=true&t=1736185&tz=GMT%2B0530&with_replies=false
+health.ucdavis.edu:https://health.ucdavis.edu/common/includes/shared/buttons/USNews/medschool/BestGradSchools-medschool-research-122w.jpg
+health.ucdavis.edu:https://health.ucdavis.edu/common/includes/shared/buttons/USNews/medschool/BestGradSchools-medschool-primary-122w.jpg
+10.14.122.172:46387: clientconnect
+10.14.122.172:46384: GET https://cdn.syndication.twimg.com/timeline/profile?callback=__twttr.callbacks.tl_i0_profile_UCDavisHealth_old&dnt=false&domain=health.ucdavis.edu&lang=en&screen_name=UCDavisHealth&suppress_response_codes=true&t=1736185&tz=GMT%2B0530&with_replies=false HTTP/2.0
+                  << 200  13k
+10.14.122.172:46357: GET https://health.ucdavis.edu/common/includes/shared/buttons/USNews/medschool/BestGradSchools-medschool-research-122w.jpg
+                  << 200 OK 10k
+10.14.122.172:46356: GET https://health.ucdavis.edu/common/includes/shared/buttons/USNews/medschool/BestGradSchools-medschool-primary-122w.jpg
+                  << 200 OK 10k
+health.ucdavis.edu:https://health.ucdavis.edu/common/includes/shared/buttons/USNews/nursing/BestGradSchools-nursing-masters-122w.jpg
+10.14.122.172:46372: CONNECT campusfont.ucdavis.edu:443
+ << Cannot establish TLS with client (sni: campusfont.ucdavis.edu): TlsException("(54, 'ECONNRESET')",)
+10.14.122.172:46372: clientdisconnect
+www.google.com:https://www.google.com/pagead/1p-conversion/967676412/?random=1546894374&cv=9&fst=*&num=1&label=16vtCKCZpokBEPyjts0D&bg=ffffff&guid=ON&resp=GooglemKTybQhCsO&eid=376635471&u_h=668&u_w=360&u_ah=668&u_aw=360&u_cd=24&u_his=1&u_tz=330&u_java=false&u_nplug=0&u_nmime=0&gtm=2oa6k2&sendb=1&data=event%3Dconversion&frm=0&url=https://health.ucdavis.edu/open-enrollment/%3Futm_source%3DinMobi%26utm_campaign%3DNo1-Sacramento&ref=https://bs.serving-sys.com/Serving/adServer.bs%3Fcn%3Dbrd%26PluID%3D0%26Pos%3D4405871834382662%26EyeblasterID%3D1075978595%26clk%3D1%26sct%3D1%26dg%3D1074168921%26dgo%3D1074168921%26pc%3D%26sessionid%3D6564227736660334895%26usercookie%3Du2%3D38e46e5a-ec9e-442a-893c-1b6bd14fb381%26OptOut%3D0%26ctick%3D59399%26rtu%3Dhttps%253A%252F%252Fhealth.ucdavis.edu%252Fopen-enrollment%252F%253Futm_source%253DinMobi%2526utm_campaign%253DNo1-Sacramento%26ebReferrer%3Dabout%253Ablank%26ncu%3Dhttps%253A%252F%252Fs-et-rc-w.inmobi.com%252Fc.asm%252Fc.asm%252FC%252Ft%252Fdnxubmu1kr%252Fn4p%252F3%252F2m%252Fgz%252Fu%252F0%252F0%252F0%252Fx%252Fd04&tiba=Choose%20Health%20%7C%20UC%20Davis%20Health&async=1&fmt=3&ctc_id=CAIVAgAAAB0CAAAA&ct_cookie_present=false&crd=&gtd=&cdct=2&is_vtc=1&ocp_id=KOIiXfnbNMjmuQSR7YHICw&random=2630606758&resp=GooglemKTybQhCsO
+www.google.com:https://www.google.com/pagead/1p-user-list/797979195/?random=1562567208571&cv=9&fst=1562565600000&num=1&bg=ffffff&guid=ON&eid=376635471&u_h=668&u_w=360&u_ah=668&u_aw=360&u_cd=24&u_his=1&u_tz=330&u_java=false&u_nplug=0&u_nmime=0&gtm=2oa6k2&sendb=1&data=event%3Dgtag.config&frm=0&url=https%3A%2F%2Fhealth.ucdavis.edu%2Fopen-enrollment%2F%3Futm_source%3DinMobi%26utm_campaign%3DNo1-Sacramento&ref=https%3A%2F%2Fbs.serving-sys.com%2FServing%2FadServer.bs%3Fcn%3Dbrd%26PluID%3D0%26Pos%3D4405871834382662%26EyeblasterID%3D1075978595%26clk%3D1%26sct%3D1%26dg%3D1074168921%26dgo%3D1074168921%26pc%3D%26sessionid%3D6564227736660334895%26usercookie%3Du2%3D38e46e5a-ec9e-442a-893c-1b6bd14fb381%26OptOut%3D0%26ctick%3D59399%26rtu%3Dhttps%253A%252F%252Fhealth.ucdavis.edu%252Fopen-enrollment%252F%253Futm_source%253DinMobi%2526utm_campaign%253DNo1-Sacramento%26ebReferrer%3Dabout%253Ablank%26ncu%3Dhttps%253A%252F%252Fs-et-rc-w.inmobi.com%252Fc.asm%252Fc.asm%252FC%252Ft%252Fdnxubmu1kr%252Fn4p%252F3%252F2m%252Fgz%252Fu%252F0%252F0%252F0%252Fx%252Fd04&tiba=Choose%20Health%20%7C%20UC%20Davis%20Health&async=1&fmt=3&cdct=2&is_vtc=1&random=599534506&resp=GooglemKTybQhCsO&rmt_tld=0&ipr=y
+health.ucdavis.edu:https://health.ucdavis.edu/common/includes/shared/buttons/AMP-Medicare-Advantage/AMP-Medicare-Advantage.png
+10.14.122.172:46388: clientconnect
+health.ucdavis.edu:https://health.ucdavis.edu/medicalcenter/images/badges/Magnet-Recognition-Logo115.jpg
+health.ucdavis.edu:https://health.ucdavis.edu/cancer/images/home/NCI-designation.gif
+platform.twitter.com:https://platform.twitter.com/css/timeline.70d178496d6952c2c1b84d8c00695473.light.ltr.css
+10.14.122.172:46362: GET https://platform.twitter.com/css/timeline.70d178496d6952c2c1b84d8c00695473.light.ltr.css
+                  << 200 OK 53k
+10.14.122.172:46385: GET https://www.google.com/pagead/1p-conversion/967676412/?random=1546894374&cv=9&fst=*&num=1&label=16vtCKCZpokBEPyjts0D&bg=ffffff&guid=ON&resp=GooglemKTybQhCsO&eid=376635471&u_h=668&u_w=360&u_ah=668&u_aw=360&u_cd=24&u_his=1&u_tz=330&u_java=false&u_nplug=0&u_nmime=0&gtm=2oa6k2&sendb=1&data=event%3Dconversion&frm=0&url=https://health.ucdavis.edu/open-enrollment/%3Futm_source%3DinMobi%26utm_campaign%3DNo1-Sacramento&ref=https://bs.serving-sys.com/Serving/adServer.bs%3Fcn%3Dbrd%26PluID%3D0%26Pos%3D4405871834382662%26EyeblasterID%3D1075978595%26clk%3D1%26sct%3D1%26dg%3D1074168921%26dgo%3D1074168921%26pc%3D%26sessionid%3D6564227736660334895%26usercookie%3Du2%3D38e46e5a-ec9e-442a-893c-1b6bd14fb381%26OptOut%3D0%26ctick%3D59399%26rtu%3Dhttps%253A%252F%252Fhealth.ucdavis.edu%252Fopen-enrollment%252F%253Futm_source%253DinMobi%2526utm_campaign%253DNo1-Sacramento%26ebReferrer%3Dabout%253Ablank%26ncu%3Dhttps%253A%252F%252Fs-et-rc-w.inmobi.com%252Fc.asm%252Fc.asm%252FC%252Ft%252Fdnxubmu1kr%252Fn4p%252F3%252F2m%252Fgz%252Fu%252F0%252F0%252F0%252Fx%252Fd04&tiba=Choose%20Health%20%7C%20UC%20Davis%20Health&async=1&fmt=3&ctc_id=CAIVAgAAAB0CAAAA&ct_cookie_present=false&crd=&gtd=&cdct=2&is_vtc=1&ocp_id=KOIiXfnbNMjmuQSR7YHICw&random=2630606758&resp=GooglemKTybQhCsO HTTP/2.0
+                  << 302  42b
+10.14.122.172:46385: GET https://www.google.com/pagead/1p-user-list/797979195/?random=1562567208571&cv=9&fst=1562565600000&num=1&bg=ffffff&guid=ON&eid=376635471&u_h=668&u_w=360&u_ah=668&u_aw=360&u_cd=24&u_his=1&u_tz=330&u_java=false&u_nplug=0&u_nmime=0&gtm=2oa6k2&sendb=1&data=event%3Dgtag.config&frm=0&url=https%3A%2F%2Fhealth.ucdavis.edu%2Fopen-enrollment%2F%3Futm_source%3DinMobi%26utm_campaign%3DNo1-Sacramento&ref=https%3A%2F%2Fbs.serving-sys.com%2FServing%2FadServer.bs%3Fcn%3Dbrd%26PluID%3D0%26Pos%3D4405871834382662%26EyeblasterID%3D1075978595%26clk%3D1%26sct%3D1%26dg%3D1074168921%26dgo%3D1074168921%26pc%3D%26sessionid%3D6564227736660334895%26usercookie%3Du2%3D38e46e5a-ec9e-442a-893c-1b6bd14fb381%26OptOut%3D0%26ctick%3D59399%26rtu%3Dhttps%253A%252F%252Fhealth.ucdavis.edu%252Fopen-enrollment%252F%253Futm_source%253DinMobi%2526utm_campaign%253DNo1-Sacramento%26ebReferrer%3Dabout%253Ablank%26ncu%3Dhttps%253A%252F%252Fs-et-rc-w.inmobi.com%252Fc.asm%252Fc.asm%252FC%252Ft%252Fdnxubmu1kr%252Fn4p%252F3%252F2m%252Fgz%252Fu%252F0%252F0%252F0%252Fx%252Fd04&tiba=Choose%20Health%20%7C%20UC%20Davis%20Health&async=1&fmt=3&cdct=2&is_vtc=1&random=599534506&resp=GooglemKTybQhCsO&rmt_tld=0&ipr=y HTTP/2.0
+                  << 200  42b
+10.14.122.172:46360: GET https://health.ucdavis.edu/common/includes/shared/buttons/USNews/nursing/BestGradSchools-nursing-masters-122w.jpg
+                  << 200 OK 11k
+10.14.122.172:46369: CONNECT campusfont.ucdavis.edu:443
+ << Cannot establish TLS with client (sni: campusfont.ucdavis.edu): TlsException("(54, 'ECONNRESET')",)
+10.14.122.172:46369: clientdisconnect
+10.14.122.172:46389: clientconnect
+10.14.122.172:46357: GET https://health.ucdavis.edu/medicalcenter/images/badges/Magnet-Recognition-Logo115.jpg
+                  << 200 OK 6k
+10.14.122.172:46355: GET https://health.ucdavis.edu/common/includes/shared/buttons/AMP-Medicare-Advantage/AMP-Medicare-Advantage.png
+                  << 200 OK 20k
+10.14.122.172:46356: GET https://health.ucdavis.edu/cancer/images/home/NCI-designation.gif
+                  << 200 OK 7k
+10.14.122.172:46370: CONNECT campusfont.ucdavis.edu:443
+ << Cannot establish TLS with client (sni: campusfont.ucdavis.edu): TlsException("(54, 'ECONNRESET')",)
+10.14.122.172:46390: clientconnect
+health.ucdavis.edu:https://health.ucdavis.edu/common/includes/shared/aboutus/images/leader-lgbt-healthcare-equality.jpg
+10.14.122.172:46370: clientdisconnect
+health.ucdavis.edu:https://health.ucdavis.edu/global/images/icons/Twitter-48x48.svg
+health.ucdavis.edu:https://health.ucdavis.edu/global/images/icons/Facebook-48x48.svg
+health.ucdavis.edu:https://health.ucdavis.edu/global/images/icons/Pinterest-48x48.svg
+health.ucdavis.edu:https://health.ucdavis.edu/global/images/icons/YouTube-48x48.svg
+health.ucdavis.edu:https://health.ucdavis.edu/global/images/icons/RSS-48x48.svg
+10.14.122.172:46357: GET https://health.ucdavis.edu/global/images/icons/Twitter-48x48.svg
+                  << 200 OK 2k
+www.facebook.com:https://www.facebook.com/tr/?id=720079384795657&ev=PageView&dl=https%3A%2F%2Fhealth.ucdavis.edu%2Fopen-enrollment%2F%3Futm_source%3DinMobi%26utm_campaign%3DNo1-Sacramento&rl=https%3A%2F%2Fbs.serving-sys.com%2FServing%2FadServer.bs%3Fcn%3Dbrd%26PluID%3D0%26Pos%3D4405871834382662%26EyeblasterID%3D1075978595%26clk%3D1%26sct%3D1%26dg%3D1074168921%26dgo%3D1074168921%26pc%3D%26sessionid%3D6564227736660334895%26usercookie%3Du2%3D38e46e5a-ec9e-442a-893c-1b6bd14fb381%26OptOut%3D0%26ctick%3D59399%26rtu%3Dhttps%253A%252F%252Fhealth.ucdavis.edu%252Fopen-enrollment%252F%253Futm_source%253DinMobi%2526utm_campaign%253DNo1-Sacramento%26ebReferrer%3Dabout%253Ablank%26ncu%3Dhttps%253A%252F%252Fs-et-rc-w.inmobi.com%252Fc.asm%252Fc.asm%252FC%252Ft%252Fdnxubmu1kr%252Fn4p%252F3%252F2m%252Fgz%252Fu%252F0%252F0%252F0%252Fx%252Fd04257c9-016b-1000-00e6-41603e2c00e6%252Fa702%252F0%252F-1%252F1%252F0%252Fx%252F-1350224377%252FNW%252F2t%252F0%252Fsdk%252F7.0.2%252Fdir%252FeA~~%252FFoCS9AEWAAA%252F6%252F399138b4&if=false&ts=1562567209685&sw=360&sh=668&v=2.8.51&r=stable&ec=0&o=30&fbp=fb.1.1562567209680.21376188&it=1562567208530&coo=false&rqm=GET
+ton.twimg.com:https://ton.twimg.com/tfw/css/syndication_bundle_v1_73385286cca9d2256f6bf3993470820d4827b058.css
+www.google.co.in:https://www.google.co.in/pagead/1p-user-list/797979195/?random=1562567208571&cv=9&fst=1562565600000&num=1&bg=ffffff&guid=ON&eid=376635471&u_h=668&u_w=360&u_ah=668&u_aw=360&u_cd=24&u_his=1&u_tz=330&u_java=false&u_nplug=0&u_nmime=0&gtm=2oa6k2&sendb=1&data=event%3Dgtag.config&frm=0&url=https%3A%2F%2Fhealth.ucdavis.edu%2Fopen-enrollment%2F%3Futm_source%3DinMobi%26utm_campaign%3DNo1-Sacramento&ref=https%3A%2F%2Fbs.serving-sys.com%2FServing%2FadServer.bs%3Fcn%3Dbrd%26PluID%3D0%26Pos%3D4405871834382662%26EyeblasterID%3D1075978595%26clk%3D1%26sct%3D1%26dg%3D1074168921%26dgo%3D1074168921%26pc%3D%26sessionid%3D6564227736660334895%26usercookie%3Du2%3D38e46e5a-ec9e-442a-893c-1b6bd14fb381%26OptOut%3D0%26ctick%3D59399%26rtu%3Dhttps%253A%252F%252Fhealth.ucdavis.edu%252Fopen-enrollment%252F%253Futm_source%253DinMobi%2526utm_campaign%253DNo1-Sacramento%26ebReferrer%3Dabout%253Ablank%26ncu%3Dhttps%253A%252F%252Fs-et-rc-w.inmobi.com%252Fc.asm%252Fc.asm%252FC%252Ft%252Fdnxubmu1kr%252Fn4p%252F3%252F2m%252Fgz%252Fu%252F0%252F0%252F0%252Fx%252Fd04&tiba=Choose%20Health%20%7C%20UC%20Davis%20Health&async=1&fmt=3&cdct=2&is_vtc=1&random=599534506&resp=GooglemKTybQhCsO&rmt_tld=1&ipr=y
+www.google.co.in:https://www.google.co.in/pagead/1p-conversion/967676412/?random=1546894374&cv=9&fst=*&num=1&label=16vtCKCZpokBEPyjts0D&bg=ffffff&guid=ON&resp=GooglemKTybQhCsO&eid=376635471&u_h=668&u_w=360&u_ah=668&u_aw=360&u_cd=24&u_his=1&u_tz=330&u_java=false&u_nplug=0&u_nmime=0&gtm=2oa6k2&sendb=1&data=event%3Dconversion&frm=0&url=https://health.ucdavis.edu/open-enrollment/%3Futm_source%3DinMobi%26utm_campaign%3DNo1-Sacramento&ref=https://bs.serving-sys.com/Serving/adServer.bs%3Fcn%3Dbrd%26PluID%3D0%26Pos%3D4405871834382662%26EyeblasterID%3D1075978595%26clk%3D1%26sct%3D1%26dg%3D1074168921%26dgo%3D1074168921%26pc%3D%26sessionid%3D6564227736660334895%26usercookie%3Du2%3D38e46e5a-ec9e-442a-893c-1b6bd14fb381%26OptOut%3D0%26ctick%3D59399%26rtu%3Dhttps%253A%252F%252Fhealth.ucdavis.edu%252Fopen-enrollment%252F%253Futm_source%253DinMobi%2526utm_campaign%253DNo1-Sacramento%26ebReferrer%3Dabout%253Ablank%26ncu%3Dhttps%253A%252F%252Fs-et-rc-w.inmobi.com%252Fc.asm%252Fc.asm%252FC%252Ft%252Fdnxubmu1kr%252Fn4p%252F3%252F2m%252Fgz%252Fu%252F0%252F0%252F0%252Fx%252Fd04&tiba=Choose%20Health%20%7C%20UC%20Davis%20Health&async=1&fmt=3&ctc_id=CAIVAgAAAB0CAAAA&ct_cookie_present=false&crd=&gtd=&cdct=2&is_vtc=1&ocp_id=KOIiXfnbNMjmuQSR7YHICw&random=2630606758&resp=GooglemKTybQhCsO&ipr=y
+10.14.122.172:46389: GET https://ton.twimg.com/tfw/css/syndication_bundle_v1_73385286cca9d2256f6bf3993470820d4827b058.css HTTP/2.0
+                  << 200  6k
+10.14.122.172:46358: GET https://health.ucdavis.edu/global/images/icons/Facebook-48x48.svg
+                  << 200 OK 1k
+10.14.122.172:46360: GET https://health.ucdavis.edu/common/includes/shared/aboutus/images/leader-lgbt-healthcare-equality.jpg
+                  << 200 OK 35k
+10.14.122.172:46359: GET https://health.ucdavis.edu/global/images/icons/RSS-48x48.svg
+                  << 200 OK 1k
+10.14.122.172:46356: GET https://health.ucdavis.edu/global/images/icons/YouTube-48x48.svg
+                  << 200 OK 6k
+10.14.122.172:46387: GET https://www.facebook.com/tr/?id=720079384795657&ev=PageView&dl=https%3A%2F%2Fhealth.ucdavis.edu%2Fopen-enrollment%2F%3Futm_source%3DinMobi%26utm_campaign%3DNo1-Sacramento&rl=https%3A%2F%2Fbs.serving-sys.com%2FServing%2FadServer.bs%3Fcn%3Dbrd%26PluID%3D0%26Pos%3D4405871834382662%26EyeblasterID%3D1075978595%26clk%3D1%26sct%3D1%26dg%3D1074168921%26dgo%3D1074168921%26pc%3D%26sessionid%3D6564227736660334895%26usercookie%3Du2%3D38e46e5a-ec9e-442a-893c-1b6bd14fb381%26OptOut%3D0%26ctick%3D59399%26rtu%3Dhttps%253A%252F%252Fhealth.ucdavis.edu%252Fopen-enrollment%252F%253Futm_source%253DinMobi%2526utm_campaign%253DNo1-Sacramento%26ebReferrer%3Dabout%253Ablank%26ncu%3Dhttps%253A%252F%252Fs-et-rc-w.inmobi.com%252Fc.asm%252Fc.asm%252FC%252Ft%252Fdnxubmu1kr%252Fn4p%252F3%252F2m%252Fgz%252Fu%252F0%252F0%252F0%252Fx%252Fd04257c9-016b-1000-00e6-41603e2c00e6%252Fa702%252F0%252F-1%252F1%252F0%252Fx%252F-1350224377%252FNW%252F2t%252F0%252Fsdk%252F7.0.2%252Fdir%252FeA~~%252FFoCS9AEWAAA%252F6%252F399138b4&if=false&ts=1562567209685&sw=360&sh=668&v=2.8.51&r=stable&ec=0&o=30&fbp=fb.1.1562567209680.21376188&it=1562567208530&coo=false&rqm=GET HTTP/2.0
+                  << 200  44b
+10.14.122.172:46355: GET https://health.ucdavis.edu/global/images/icons/Pinterest-48x48.svg
+                  << 200 OK 2k
+10.14.122.172:46390: CONNECT www.google.co.in:443
+ << Cannot establish TLS with client (sni: www.google.co.in): TlsException("SSL handshake error: SysCallError(-1, 'Unexpected EOF')",)
+health.ucdavis.edu:https://health.ucdavis.edu/global/images/icons/Instagram-48x48.svg
+10.14.122.172:46390: clientdisconnect
+10.14.122.172:46388: GET https://www.google.co.in/pagead/1p-conversion/967676412/?random=1546894374&cv=9&fst=*&num=1&label=16vtCKCZpokBEPyjts0D&bg=ffffff&guid=ON&resp=GooglemKTybQhCsO&eid=376635471&u_h=668&u_w=360&u_ah=668&u_aw=360&u_cd=24&u_his=1&u_tz=330&u_java=false&u_nplug=0&u_nmime=0&gtm=2oa6k2&sendb=1&data=event%3Dconversion&frm=0&url=https://health.ucdavis.edu/open-enrollment/%3Futm_source%3DinMobi%26utm_campaign%3DNo1-Sacramento&ref=https://bs.serving-sys.com/Serving/adServer.bs%3Fcn%3Dbrd%26PluID%3D0%26Pos%3D4405871834382662%26EyeblasterID%3D1075978595%26clk%3D1%26sct%3D1%26dg%3D1074168921%26dgo%3D1074168921%26pc%3D%26sessionid%3D6564227736660334895%26usercookie%3Du2%3D38e46e5a-ec9e-442a-893c-1b6bd14fb381%26OptOut%3D0%26ctick%3D59399%26rtu%3Dhttps%253A%252F%252Fhealth.ucdavis.edu%252Fopen-enrollment%252F%253Futm_source%253DinMobi%2526utm_campaign%253DNo1-Sacramento%26ebReferrer%3Dabout%253Ablank%26ncu%3Dhttps%253A%252F%252Fs-et-rc-w.inmobi.com%252Fc.asm%252Fc.asm%252FC%252Ft%252Fdnxubmu1kr%252Fn4p%252F3%252F2m%252Fgz%252Fu%252F0%252F0%252F0%252Fx%252Fd04&tiba=Choose%20Health%20%7C%20UC%20Davis%20Health&async=1&fmt=3&ctc_id=CAIVAgAAAB0CAAAA&ct_cookie_present=false&crd=&gtd=&cdct=2&is_vtc=1&ocp_id=KOIiXfnbNMjmuQSR7YHICw&random=2630606758&resp=GooglemKTybQhCsO&ipr=y HTTP/2.0
+                  << 200  42b
+10.14.122.172:46388: GET https://www.google.co.in/pagead/1p-user-list/797979195/?random=1562567208571&cv=9&fst=1562565600000&num=1&bg=ffffff&guid=ON&eid=376635471&u_h=668&u_w=360&u_ah=668&u_aw=360&u_cd=24&u_his=1&u_tz=330&u_java=false&u_nplug=0&u_nmime=0&gtm=2oa6k2&sendb=1&data=event%3Dgtag.config&frm=0&url=https%3A%2F%2Fhealth.ucdavis.edu%2Fopen-enrollment%2F%3Futm_source%3DinMobi%26utm_campaign%3DNo1-Sacramento&ref=https%3A%2F%2Fbs.serving-sys.com%2FServing%2FadServer.bs%3Fcn%3Dbrd%26PluID%3D0%26Pos%3D4405871834382662%26EyeblasterID%3D1075978595%26clk%3D1%26sct%3D1%26dg%3D1074168921%26dgo%3D1074168921%26pc%3D%26sessionid%3D6564227736660334895%26usercookie%3Du2%3D38e46e5a-ec9e-442a-893c-1b6bd14fb381%26OptOut%3D0%26ctick%3D59399%26rtu%3Dhttps%253A%252F%252Fhealth.ucdavis.edu%252Fopen-enrollment%252F%253Futm_source%253DinMobi%2526utm_campaign%253DNo1-Sacramento%26ebReferrer%3Dabout%253Ablank%26ncu%3Dhttps%253A%252F%252Fs-et-rc-w.inmobi.com%252Fc.asm%252Fc.asm%252FC%252Ft%252Fdnxubmu1kr%252Fn4p%252F3%252F2m%252Fgz%252Fu%252F0%252F0%252F0%252Fx%252Fd04&tiba=Choose%20Health%20%7C%20UC%20Davis%20Health&async=1&fmt=3&cdct=2&is_vtc=1&random=599534506&resp=GooglemKTybQhCsO&rmt_tld=1&ipr=y HTTP/2.0
+                  << 200  42b
+10.14.122.172:46391: clientconnect
+10.14.122.172:46392: clientconnect
+10.14.122.172:46373: CONNECT campusfont.ucdavis.edu:443
+ << Cannot establish TLS with client (sni: campusfont.ucdavis.edu): TlsException("(54, 'ECONNRESET')",)
+10.14.122.172:46373: clientdisconnect
+10.14.122.172:46374: CONNECT campusfont.ucdavis.edu:443
+ << Cannot establish TLS with client (sni: campusfont.ucdavis.edu): TlsException("(54, 'ECONNRESET')",)
+10.14.122.172:46374: clientdisconnect
+10.14.122.172:46393: clientconnect
+health.ucdavis.edu:https://health.ucdavis.edu/global/images/icons/LinkedIn-48x48.svg
+health.ucdavis.edu:https://health.ucdavis.edu/global/images/icons/play-icon.png
+health.ucdavis.edu:https://health.ucdavis.edu/global/images/buttons/giving/make-a-gift.svg
+68301.global.siteimproveanalytics.io:https://68301.global.siteimproveanalytics.io/image.aspx?url=https%3A%2F%2Fhealth.ucdavis.edu%2Fopen-enrollment%2F%3Futm_source%3DinMobi%26utm_campaign%3DNo1-Sacramento&ref=https%3A%2F%2Fbs.serving-sys.com%2FServing%2FadServer.bs%3Fcn%3Dbrd%26PluID%3D0%26Pos%3D4405871834382662%26EyeblasterID%3D1075978595%26clk%3D1%26sct%3D1%26dg%3D1074168921%26dgo%3D1074168921%26pc%3D%26sessionid%3D6564227736660334895%26usercookie%3Du2%3D38e46e5a-ec9e-442a-893c-1b6bd14fb381%26OptOut%3D0%26ctick%3D59399%26rtu%3Dhttps%253A%252F%252Fhealth.ucdavis.edu%252Fopen-enrollment%252F%253Futm_source%253DinMobi%2526utm_campaign%253DNo1-Sacramento%26ebReferrer%3Dabout%253Ablank%26ncu%3Dhttps%253A%252F%252Fs-et-rc-w.inmobi.com%252Fc.asm%252Fc.asm%252FC%252Ft%252Fdnxubmu1kr%252Fn4p%252F3%252F2m%252Fgz%252Fu%252F0%252F0%252F0%252Fx%252Fd04257c9-016b-1000-00e6-41603e2c00e6%252Fa702%252F0%252F-1%252F1%252F0%252Fx%252F-1350224377%252FNW%252F2t%252F0%252Fsdk%252F7.0.2%252Fdir%252FeA~~%252FFoCS9AEWAAA%252F6%252F399138b4&title=Choose%20Health%20%7C%20UC%20Davis%20Health&res=360x668&accountid=68301&rt=9415&prev=1562567244196&luid=d6223ace-98c1-10da-ec74-351e6ff89c94&rnd=75025
+10.14.122.172:46394: clientconnect
+10.14.122.172:46356: clientdisconnect
+10.14.122.172:46360: clientdisconnect
+10.14.122.172:46395: clientconnect
+10.14.122.172:46396: clientconnect
+10.14.122.172:46379: CONNECT platform.twitter.com:443
+ << Cannot establish TLS with client (sni: platform.twitter.com): TlsException("(54, 'ECONNRESET')",)
+10.14.122.172:46379: clientdisconnect
+www.facebook.com:https://www.facebook.com/tr/
+10.14.122.172:46357: GET https://health.ucdavis.edu/global/images/icons/Instagram-48x48.svg
+                  << 200 OK 2k
+10.14.122.172:46387: POST https://www.facebook.com/tr/ HTTP/2.0
+                  << 200  0b
+10.14.122.172:46386: GET https://68301.global.siteimproveanalytics.io/image.aspx?url=https%3A%2F%2Fhealth.ucdavis.edu%2Fopen-enrollment%2F%3Futm_source%3DinMobi%26utm_campaign%3DNo1-Sacramento&ref=https%3A%2F%2Fbs.serving-sys.com%2FServing%2FadServer.bs%3Fcn%3Dbrd%26PluID%3D0%26Pos%3D4405871834382662%26EyeblasterID%3D1075978595%26clk%3D1%26sct%3D1%26dg%3D1074168921%26dgo%3D1074168921%26pc%3D%26sessionid%3D6564227736660334895%26usercookie%3Du2%3D38e46e5a-ec9e-442a-893c-1b6bd14fb381%26OptOut%3D0%26ctick%3D59399%26rtu%3Dhttps%253A%252F%252Fhealth.ucdavis.edu%252Fopen-enrollment%252F%253Futm_source%253DinMobi%2526utm_campaign%253DNo1-Sacramento%26ebReferrer%3Dabout%253Ablank%26ncu%3Dhttps%253A%252F%252Fs-et-rc-w.inmobi.com%252Fc.asm%252Fc.asm%252FC%252Ft%252Fdnxubmu1kr%252Fn4p%252F3%252F2m%252Fgz%252Fu%252F0%252F0%252F0%252Fx%252Fd04257c9-016b-1000-00e6-41603e2c00e6%252Fa702%252F0%252F-1%252F1%252F0%252Fx%252F-1350224377%252FNW%252F2t%252F0%252Fsdk%252F7.0.2%252Fdir%252FeA~~%252FFoCS9AEWAAA%252F6%252F399138b4&title=Choose%20Health%20%7C%20UC%20Davis%20Health&res=360x668&accountid=68301&rt=9415&prev=1562567244196&luid=d6223ace-98c1-10da-ec74-351e6ff89c94&rnd=75025
+                  << 200 OK 34b
+10.14.122.172:46358: GET https://health.ucdavis.edu/global/images/icons/LinkedIn-48x48.svg
+                  << 200 OK 2k
+10.14.122.172:46359: GET https://health.ucdavis.edu/global/images/buttons/giving/make-a-gift.svg
+                  << 200 OK 2k
+10.14.122.172:46355: GET https://health.ucdavis.edu/global/images/icons/play-icon.png
+                  << 200 OK 3k
+pbs.twimg.com:https://pbs.twimg.com/profile_images/1044296770300272642/tBA038Rt_bigger.jpg
+pbs.twimg.com:https://pbs.twimg.com/profile_images/1134851965744078848/LyhYiCIb_normal.png
+10.14.122.172:46393: CONNECT pbs.twimg.com:443
+ << Cannot establish TLS with client (sni: pbs.twimg.com): TlsException("(-1, 'Unexpected EOF')",)
+pbs.twimg.com:https://pbs.twimg.com/card_img/1147188660799967235/5qbYCBLj?format=jpg&name=280x280
+pbs.twimg.com:https://pbs.twimg.com/card_img/1146855494021263361/St-pWjBZ?format=jpg&name=600x314
+10.14.122.172:46393: clientdisconnect
+pbs.twimg.com:https://pbs.twimg.com/card_img/1145759645950255104/A4NyojDk?format=jpg&name=144x144_2
+pbs.twimg.com:https://pbs.twimg.com/card_img/1146199432838504450/96YK028s?format=jpg&name=600x314
+10.14.122.172:46391: CONNECT pbs.twimg.com:443
+ << Cannot establish TLS with client (sni: pbs.twimg.com): TlsException("(-1, 'Unexpected EOF')",)
+10.14.122.172:46391: clientdisconnect
+10.14.122.172:46392: GET https://pbs.twimg.com/profile_images/1134851965744078848/LyhYiCIb_normal.png HTTP/2.0
+                  << 200  3k
+10.14.122.172:46392: GET https://pbs.twimg.com/card_img/1145759645950255104/A4NyojDk?format=jpg&name=144x144_2 HTTP/2.0
+                  << 200  4k
+10.14.122.172:46392: GET https://pbs.twimg.com/profile_images/1044296770300272642/tBA038Rt_bigger.jpg HTTP/2.0
+                  << 200  2k
+10.14.122.172:46392: GET https://pbs.twimg.com/card_img/1146855494021263361/St-pWjBZ?format=jpg&name=600x314 HTTP/2.0
+                  << 200  28k
+10.14.122.172:46392: GET https://pbs.twimg.com/card_img/1146199432838504450/96YK028s?format=jpg&name=600x314 HTTP/2.0
+                  << 200  36k
+syndication.twitter.com:https://syndication.twitter.com/i/jot
+pbs.twimg.com:https://pbs.twimg.com/card_img/1146835916654338048/MxxKaj6h?format=jpg&name=144x144_2
+10.14.122.172:46392: GET https://pbs.twimg.com/card_img/1147188660799967235/5qbYCBLj?format=jpg&name=280x280 HTTP/2.0
+                  << 200  8k
+10.14.122.172:46392: GET https://pbs.twimg.com/card_img/1146835916654338048/MxxKaj6h?format=jpg&name=144x144_2 HTTP/2.0
+                  << 200  5k
+pbs.twimg.com:https://pbs.twimg.com/card_img/1146476513232973824/I6rGzh2D?format=jpg&name=400x400
+pbs.twimg.com:https://pbs.twimg.com/card_img/1146562016292810752/0tjshwox?format=jpg&name=144x144_2
+syndication.twitter.com:https://syndication.twitter.com/i/jot
+pbs.twimg.com:https://pbs.twimg.com/card_img/1146116475620642827/qc1gRB-0?format=jpg&name=144x144_2
+pbs.twimg.com:https://pbs.twimg.com/profile_images/591265761752002561/Ro2JgHoq_bigger.jpg
+pbs.twimg.com:https://pbs.twimg.com/profile_images/793542140345192448/uE6u-0Vc_bigger.jpg
+pbs.twimg.com:https://pbs.twimg.com/profile_images/793807936363433984/t1nwO0GG_normal.jpg
+pbs.twimg.com:https://pbs.twimg.com/profile_images/1107701070002679808/vqYFBVEO_bigger.png
+pbs.twimg.com:https://pbs.twimg.com/media/D-ps63vW4AAfYWz?format=jpg&name=small
+pbs.twimg.com:https://pbs.twimg.com/media/D-kPF4UXkAEEnZC?format=jpg&name=small
+10.14.122.172:46392: GET https://pbs.twimg.com/card_img/1146562016292810752/0tjshwox?format=jpg&name=144x144_2 HTTP/2.0
+                  << 200  7k
+pbs.twimg.com:https://pbs.twimg.com/media/D-fd5D7UYAEmUBC?format=jpg&name=900x900
+pbs.twimg.com:https://pbs.twimg.com/media/D-g5xOwXkAQHfgX?format=jpg&name=small
+10.14.122.172:46392: GET https://pbs.twimg.com/profile_images/591265761752002561/Ro2JgHoq_bigger.jpg HTTP/2.0
+                  << 200  2k
+pbs.twimg.com:https://pbs.twimg.com/media/D-MFr2lW4AEXn53?format=jpg&name=small
+pbs.twimg.com:https://pbs.twimg.com/media/D-GmYZkWsAU9RWK?format=jpg&name=900x900
+10.14.122.172:46392: GET https://pbs.twimg.com/card_img/1146116475620642827/qc1gRB-0?format=jpg&name=144x144_2 HTTP/2.0
+                  << 200  7k
+pbs.twimg.com:https://pbs.twimg.com/media/D92ktAPUcAAjzKC?format=jpg&name=small
+pbs.twimg.com:https://pbs.twimg.com/media/D-CN9plW4AcoQD5?format=jpg&name=small
+pbs.twimg.com:https://pbs.twimg.com/media/D98Nde7W4Asx6ld?format=jpg&name=small
+10.14.122.172:46392: GET https://pbs.twimg.com/profile_images/793807936363433984/t1nwO0GG_normal.jpg HTTP/2.0
+                  << 200  1k
+pbs.twimg.com:https://pbs.twimg.com/media/D924oOvU4AA7sWc?format=jpg&name=360x360
+pbs.twimg.com:https://pbs.twimg.com/media/D924oM5UEAASahV?format=jpg&name=360x360
+pbs.twimg.com:https://pbs.twimg.com/media/D924oOHUwAAG_-N?format=jpg&name=360x360
+pbs.twimg.com:https://pbs.twimg.com/media/D924oPPU0AAuBpe?format=jpg&name=360x360
+pbs.twimg.com:https://pbs.twimg.com/media/D93KuUBXoAAAwfN?format=jpg&name=360x360
+pbs.twimg.com:https://pbs.twimg.com/media/D93KuU4XoAAI__K?format=jpg&name=360x360
+10.14.122.172:46392: GET https://pbs.twimg.com/card_img/1146476513232973824/I6rGzh2D?format=jpg&name=400x400 HTTP/2.0
+                  << 200  38k
+10.14.122.172:46392: GET https://pbs.twimg.com/profile_images/793542140345192448/uE6u-0Vc_bigger.jpg HTTP/2.0
+                  << 200  2k
+10.14.122.172:46392: GET https://pbs.twimg.com/media/D-kPF4UXkAEEnZC?format=jpg&name=small HTTP/2.0
+                  << 200  10k
+10.14.122.172:46392: GET https://pbs.twimg.com/media/D-ps63vW4AAfYWz?format=jpg&name=small HTTP/2.0
+                  << 200  66k
+10.14.122.172:46392: GET https://pbs.twimg.com/media/D924oOvU4AA7sWc?format=jpg&name=360x360 HTTP/2.0
+                  << 200  37k
+10.14.122.172:46392: GET https://pbs.twimg.com/media/D-g5xOwXkAQHfgX?format=jpg&name=small HTTP/2.0
+                  << 200  28k
+10.14.122.172:46392: GET https://pbs.twimg.com/media/D924oOHUwAAG_-N?format=jpg&name=360x360 HTTP/2.0
+                  << 200  32k
+10.14.122.172:46392: GET https://pbs.twimg.com/media/D-MFr2lW4AEXn53?format=jpg&name=small HTTP/2.0
+                  << 200  49k
+10.14.122.172:46392: GET https://pbs.twimg.com/media/D-fd5D7UYAEmUBC?format=jpg&name=900x900 HTTP/2.0
+                  << 200  138k
+10.14.122.172:46392: GET https://pbs.twimg.com/media/D93KuU4XoAAI__K?format=jpg&name=360x360 HTTP/2.0
+                  << 200  15k
+10.14.122.172:46392: GET https://pbs.twimg.com/media/D-GmYZkWsAU9RWK?format=jpg&name=900x900 HTTP/2.0
+                  << 200  114k
+10.14.122.172:46392: GET https://pbs.twimg.com/media/D-CN9plW4AcoQD5?format=jpg&name=small HTTP/2.0
+                  << 200  49k
+10.14.122.172:46392: GET https://pbs.twimg.com/media/D98Nde7W4Asx6ld?format=jpg&name=small HTTP/2.0
+                  << 200  35k
+10.14.122.172:46392: GET https://pbs.twimg.com/media/D924oM5UEAASahV?format=jpg&name=360x360 HTTP/2.0
+                  << 200  28k
+10.14.122.172:46392: GET https://pbs.twimg.com/media/D92ktAPUcAAjzKC?format=jpg&name=small HTTP/2.0
+                  << 200  20k
+10.14.122.172:46392: GET https://pbs.twimg.com/profile_images/1107701070002679808/vqYFBVEO_bigger.png HTTP/2.0
+                  << 200  14k
+10.14.122.172:46378: POST https://syndication.twitter.com/i/jot HTTP/2.0
+                  << 302  0b
+10.14.122.172:46392: GET https://pbs.twimg.com/media/D93KuUBXoAAAwfN?format=jpg&name=360x360 HTTP/2.0
+                  << 200  19k
+platform.twitter.com:https://platform.twitter.com/jot.html
+10.14.122.172:46378: POST https://syndication.twitter.com/i/jot HTTP/2.0
+                  << 302  0b
+10.14.122.172:46392: GET https://pbs.twimg.com/media/D924oPPU0AAuBpe?format=jpg&name=360x360 HTTP/2.0
+                  << 200  33k
+10.14.122.172:46362: GET https://platform.twitter.com/jot.html
+                  << 200 OK 80b
+platform.twitter.com:https://platform.twitter.com/jot.html
+10.14.122.172:46397: clientconnect
+10.14.122.172:46362: GET https://platform.twitter.com/jot.html
+                  << 304 Not Modified 0b
+10.14.122.172:46398: clientconnect
+10.14.122.172:46386: clientdisconnect
+10.14.122.172:46399: clientconnect
+10.14.122.172:46357: clientdisconnect
+v1.addthisedge.com:https://v1.addthisedge.com/live/boost/ra-54541547604c1f34/_ate.track.config_resp
+10.14.122.172:46400: clientconnect
+bid.g.doubleclick.net:https://bid.g.doubleclick.net/xbbe/pixel?d=KAE
+10.14.122.172:46399: GET https://bid.g.doubleclick.net/xbbe/pixel?d=KAE HTTP/2.0
+                  << 200  0b
+10.14.122.172:46398: GET https://v1.addthisedge.com/live/boost/ra-54541547604c1f34/_ate.track.config_resp HTTP/2.0
+                  << 200  592b
+s7.addthis.com:https://s7.addthis.com/static/layers.3a6529022ac1821e9e0a.js
+bs.serving-sys.com:https://bs.serving-sys.com/Serving/adServer.bs?cn=int&iv=2&int=1075978595~~0~~1074168921~~6564227736660334895^VsAdDu~65~0~01020~75071^VsAvSu~100~0~01020~75072&usercookie=u2=38e46e5a-ec9e-442a-893c-1b6bd14fb381&iseq=3&rnd=0.20525636378538303&flv=-1&res=0
+10.14.122.172:46400: GET https://bs.serving-sys.com/Serving/adServer.bs?cn=int&iv=2&int=1075978595~~0~~1074168921~~6564227736660334895^VsAdDu~65~0~01020~75071^VsAvSu~100~0~01020~75072&usercookie=u2=38e46e5a-ec9e-442a-893c-1b6bd14fb381&iseq=3&rnd=0.20525636378538303&flv=-1&res=0
+                  << 200  0b
+10.14.122.172:46365: GET https://s7.addthis.com/static/layers.3a6529022ac1821e9e0a.js HTTP/2.0
+                  << 200  73k
+health.ucdavis.edu:https://health.ucdavis.edu/favicon.ico
+10.14.122.172:46355: GET https://health.ucdavis.edu/favicon.ico
+                  << 404 Page Not Found 9k

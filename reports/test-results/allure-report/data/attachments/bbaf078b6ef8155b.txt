@@ -1,0 +1,16 @@
+RC_URL
+http://rc-studio.inmobi.com/automation/studiokeg/api/host?appid=101&c=inmobi&overwrite=true&addtrueview=false&env=studio.inmobi.com
+<appium.webdriver.webelement.WebElement (session="9ecd9927-3090-45ca-85b7-19bd3eb6742c", element="d24dc4c7-e75c-4388-8b65-c4f3f418d068")>
+<appium.webdriver.webelement.WebElement (session="9ecd9927-3090-45ca-85b7-19bd3eb6742c", element="7aa0f0f0-fd9f-4484-ba78-cabcf58cd863")>
+<appium.webdriver.webelement.WebElement (session="9ecd9927-3090-45ca-85b7-19bd3eb6742c", element="1889786a-693d-4e9e-a658-05f5f5b92532")>
+<appium.webdriver.webelement.WebElement (session="9ecd9927-3090-45ca-85b7-19bd3eb6742c", element="6f2da938-2381-4717-bf8c-66e68a76a6a9")>
+<appium.webdriver.webelement.WebElement (session="9ecd9927-3090-45ca-85b7-19bd3eb6742c", element="a800099b-f9d1-46d8-893c-bbca11f65cef")>
+<appium.webdriver.webelement.WebElement (session="9ecd9927-3090-45ca-85b7-19bd3eb6742c", element="cf947825-87ce-4f06-9c80-99317b9b0fa5")>
+<appium.webdriver.webelement.WebElement (session="9ecd9927-3090-45ca-85b7-19bd3eb6742c", element="9085cc7c-a19a-4c05-b047-913ba64cbb68")>
+<appium.webdriver.webelement.WebElement (session="9ecd9927-3090-45ca-85b7-19bd3eb6742c", element="6b0ba07e-ccfc-4b8d-9f0b-2aa7b4a5b421")>
+clicking on the button
+/Users/rmqa/Desktop/git/automation/reports/screenshots/creative_b1de1ca2-5c6a-405a-b7a0-5b1160f4950a.png
+True
+None
+<appium.webdriver.webelement.WebElement (session="9ecd9927-3090-45ca-85b7-19bd3eb6742c", element="076e14ba-2da5-4be0-8d47-f6ba08ca128f")>
+{u'deviceName': u'ZF622466FM', u'takesScreenshot': True, u'networkConnectionEnabled': True, u'platformVersion': u'9', u'webStorageEnabled': False, u'deviceManufacturer': u'motorola', u'deviceScreenSize': u'1080x2246', u'deviceModel': u'motorola one power', u'viewportRect': {u'width': 1080, u'top': 86, u'height': 1930, u'left': 0}, u'locationContextEnabled': False, u'platform': u'LINUX', u'deviceApiLevel': 28, u'platformName': u'android', u'pixelRatio': 3, u'deviceScreenDensity': 480, u'warnings': {}, u'javascriptEnabled': True, u'automationName': u'UiAutomator2', u'autoDismissAlerts': True, u'databaseEnabled': False, u'desired': {u'deviceName': u'LG G6', u'udid': u'ZF622466FM', u'automationName': u'UiAutomator2', u'autoDismissAlerts': True, u'server:CONFIG_UUID': u'bf3eb811-ae58-4200-b6ef-015499a3ed2c', u'platformVersion': u'7.0', u'appPackage': u'com.inmobi.app.kitchensink10520170508', u'platformName': u'android', u'appActivity': u'com.inmobi.app.kitchensink.MainActivity'}, u'server:CONFIG_UUID': u'bf3eb811-ae58-4200-b6ef-015499a3ed2c', u'deviceUDID': u'ZF622466FM', u'appPackage': u'com.inmobi.app.kitchensink10520170508', u'appActivity': u'com.inmobi.app.kitchensink.MainActivity', u'udid': u'ZF622466FM', u'statBarHeight': 86}

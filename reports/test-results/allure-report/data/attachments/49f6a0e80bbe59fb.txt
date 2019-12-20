@@ -1,0 +1,16 @@
+RC_URL
+http://rc-studio.inmobi.com/automation/studiokeg/api/host?appid=102&c=inmobi&overwrite=true&addtrueview=false&env=studio.inmobi.com
+<appium.webdriver.webelement.WebElement (session="5b1728cd-4ee6-45da-9ac2-404175052c3f", element="5127de81-c3e3-4e59-b588-dcffbb6df38e")>
+<appium.webdriver.webelement.WebElement (session="5b1728cd-4ee6-45da-9ac2-404175052c3f", element="ffea469d-4c5c-444a-93c1-c69c69fd9dd3")>
+<appium.webdriver.webelement.WebElement (session="5b1728cd-4ee6-45da-9ac2-404175052c3f", element="aaf3f153-6abc-43ef-9480-d6f44763cb92")>
+<appium.webdriver.webelement.WebElement (session="5b1728cd-4ee6-45da-9ac2-404175052c3f", element="1c5f8395-436f-4c9d-b29a-dfc3e4f5d7d8")>
+<appium.webdriver.webelement.WebElement (session="5b1728cd-4ee6-45da-9ac2-404175052c3f", element="08d4123e-cb7c-4950-8b55-c69e468276b4")>
+<appium.webdriver.webelement.WebElement (session="5b1728cd-4ee6-45da-9ac2-404175052c3f", element="8c46fea6-524d-40be-85ec-c48efc5f8c62")>
+<appium.webdriver.webelement.WebElement (session="5b1728cd-4ee6-45da-9ac2-404175052c3f", element="ebf6a7c2-fafc-44a0-b7ef-1b0573c2c959")>
+<appium.webdriver.webelement.WebElement (session="5b1728cd-4ee6-45da-9ac2-404175052c3f", element="7632500c-3d4b-4017-8b02-412e3c2b1e8a")>
+clicking on the button
+/Users/rmqa/Desktop/git/automation/reports/screenshots/creative_c57efefb-1c69-417a-8bef-1fb6c2c260f2.png
+True
+None
+<appium.webdriver.webelement.WebElement (session="5b1728cd-4ee6-45da-9ac2-404175052c3f", element="8d969d7b-a9af-4148-806f-5a68adb51f61")>
+{u'deviceName': u'21dbae18030c7ece', u'takesScreenshot': True, u'networkConnectionEnabled': True, u'platformVersion': u'9', u'webStorageEnabled': False, u'deviceManufacturer': u'samsung', u'deviceScreenSize': u'1080x2220', u'deviceModel': u'SM-G960F', u'viewportRect': {u'width': 1080, u'top': 72, u'height': 2004, u'left': 0}, u'locationContextEnabled': False, u'platform': u'LINUX', u'deviceApiLevel': 28, u'platformName': u'android', u'pixelRatio': 3, u'deviceScreenDensity': 480, u'warnings': {}, u'javascriptEnabled': True, u'automationName': u'UiAutomator2', u'autoDismissAlerts': True, u'databaseEnabled': False, u'desired': {u'deviceName': u'Motorolo one power', u'udid': u'21dbae18030c7ece', u'automationName': u'UiAutomator2', u'autoDismissAlerts': True, u'server:CONFIG_UUID': u'4d40d152-d0e2-4de0-a9e8-979ebb099393', u'platformVersion': u'9', u'appPackage': u'com.inmobi.app.kitchensink10520170508', u'platformName': u'android', u'appActivity': u'com.inmobi.app.kitchensink.MainActivity'}, u'server:CONFIG_UUID': u'4d40d152-d0e2-4de0-a9e8-979ebb099393', u'deviceUDID': u'21dbae18030c7ece', u'appPackage': u'com.inmobi.app.kitchensink10520170508', u'appActivity': u'com.inmobi.app.kitchensink.MainActivity', u'udid': u'21dbae18030c7ece', u'statBarHeight': 72}

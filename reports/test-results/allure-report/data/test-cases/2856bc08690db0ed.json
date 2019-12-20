@@ -1,0 +1,179 @@
+{
+  "uid" : "2856bc08690db0ed",
+  "name" : "test_SamsungAndroid7.TestCase1.test_sdk700_samsung_1__u_Banner___u__script_src__https___bs_serving_sys_com_BurstingPipe_adServer_bs_cn_rsb_c_28_pli_29274534_PluID_0_w_300_h_250_ord__IMP_CB_ncu___https_____md_domain_____md_port___event_CLICK___auction_id___r_type___r_type_____md_dc_params___rurl____ucm_true____script__n_noscript__n_a_href__https_____md_domain_____md_port___event_CLICK___auction_id___r_type___r_type_____md_dc_params___rurl_https___bs_serving_sys_com_BurstingPipe_adServer_bs_cn_brd_FlightID_29274534_Page__PluID_0_Pos_1988304519__target___blank___img_src__https___bs_serving_sys_com_BurstingPipe_adServer_bs_cn_bsr_FlightID_29274534_Page__PluID_0_Pos_1988304519__border_0_width_300_height_250___a__n__noscript____u_Android___u_on___u_shashank___u_shashank_dwivedi21_gmail_com___u_render___u_a0f7884c_9092_4091_8401_9dd1c40c0387___u_inline___u_cpc___u_300_X_250___u_Android__",
+  "fullName" : "testScripts.test_SamsungAndroid7.TestCase1.test_sdk700_samsung_1__u_Banner___u__script_src__https___bs_serving_sys_com_BurstingPipe_adServer_bs_cn_rsb_c_28_pli_29274534_PluID_0_w_300_h_250_ord__IMP_CB_ncu___https_____md_domain_____md_port___event_CLICK___auction_id___r_type___r_type_____md_dc_params___rurl____ucm_true____script__n_noscript__n_a_href__https_____md_domain_____md_port___event_CLICK___auction_id___r_type___r_type_____md_dc_params___rurl_https___bs_serving_sys_com_BurstingPipe_adServer_bs_cn_brd_FlightID_29274534_Page__PluID_0_Pos_1988304519__target___blank___img_src__https___bs_serving_sys_com_BurstingPipe_adServer_bs_cn_bsr_FlightID_29274534_Page__PluID_0_Pos_1988304519__border_0_width_300_height_250___a__n__noscript____u_Android___u_on___u_shashank___u_shashank_dwivedi21_gmail_com___u_render___u_a0f7884c_9092_4091_8401_9dd1c40c0387___u_inline___u_cpc___u_300_X_250___u_Android__",
+  "historyId" : "b8d4d29ba92592df318ae4a97a3005a5",
+  "time" : {
+    "start" : 1574853346784,
+    "stop" : 1574853444435,
+    "duration" : 97651
+  },
+  "description" : "list() -> new empty list\nlist(iterable) -> new list initialized from iterable's items",
+  "descriptionHtml" : "<p>list() -&gt; new empty list\nlist(iterable) -&gt; new list initialized from iterable's items</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "ad3a38b7feeee9af",
+      "name" : "tags_is_not_null",
+      "source" : "ad3a38b7feeee9af.txt",
+      "type" : "text/plain",
+      "size" : 727
+    }, {
+      "uid" : "60a57035b955f205",
+      "name" : "scripts",
+      "source" : "60a57035b955f205.txt",
+      "type" : "text/plain",
+      "size" : 727
+    }, {
+      "uid" : "71eac1229351f459",
+      "name" : "Adloadsrenders_ba379b55-4522-4710-9773-9fae771ed294",
+      "source" : "71eac1229351f459.png",
+      "type" : "image/png",
+      "size" : 328963
+    }, {
+      "uid" : "16fb59a423ea5f9a",
+      "name" : "AdInterval-1renders_fdc87dd7-23e7-42dc-8e3a-d57f3770bbe1",
+      "source" : "16fb59a423ea5f9a.png",
+      "type" : "image/png",
+      "size" : 245185
+    }, {
+      "uid" : "ebc407b4b0fa52e1",
+      "name" : "AdInterval-2renders_8e8689b3-8662-4f75-9464-c05c7377f079",
+      "source" : "ebc407b4b0fa52e1.png",
+      "type" : "image/png",
+      "size" : 558030
+    }, {
+      "uid" : "a01cff5a243f5b45",
+      "name" : "Detected_creative",
+      "source" : "a01cff5a243f5b45.txt",
+      "type" : "text/plain",
+      "size" : 14
+    }, {
+      "uid" : "b56d07a9d61fe6fd",
+      "name" : "render_fail_try",
+      "source" : "b56d07a9d61fe6fd.txt",
+      "type" : "text/plain",
+      "size" : 15
+    }, {
+      "uid" : "616c78c4be00ee23",
+      "name" : "BeforeCheck_Activity",
+      "source" : "616c78c4be00ee23.txt",
+      "type" : "text/plain",
+      "size" : 53
+    }, {
+      "uid" : "299d08bfe04f0247",
+      "name" : "Banner_CurrentActivity",
+      "source" : "299d08bfe04f0247.txt",
+      "type" : "text/plain",
+      "size" : 53
+    }, {
+      "uid" : "f1158b22401640c1",
+      "name" : "Ad_click_CurrentActivity",
+      "source" : "f1158b22401640c1.txt",
+      "type" : "text/plain",
+      "size" : 53
+    }, {
+      "uid" : "ea822720a023d85c",
+      "name" : "exitlinkOnexit_c99a8889-6001-44ba-af09-33ad17459ab6",
+      "source" : "ea822720a023d85c.png",
+      "type" : "image/png",
+      "size" : 902233
+    }, {
+      "uid" : "ea74bfe5312d04b",
+      "name" : "Exitlink_Activity",
+      "source" : "ea74bfe5312d04b.txt",
+      "type" : "text/plain",
+      "size" : 37
+    }, {
+      "uid" : "6e4fa9351335d5cb",
+      "name" : "platform version",
+      "source" : "6e4fa9351335d5cb.txt",
+      "type" : "text/plain",
+      "size" : 1
+    }, {
+      "uid" : "fea641723418e7db",
+      "name" : "platformName",
+      "source" : "fea641723418e7db.txt",
+      "type" : "text/plain",
+      "size" : 7
+    }, {
+      "uid" : "73eea425db47b78c",
+      "name" : "ManufacturerName",
+      "source" : "73eea425db47b78c.txt",
+      "type" : "text/plain",
+      "size" : 7
+    }, {
+      "uid" : "d556fd14c455c50b",
+      "name" : "Job_Id",
+      "source" : "d556fd14c455c50b.txt",
+      "type" : "text/plain",
+      "size" : 36
+    }, {
+      "uid" : "6710413dedd5c629",
+      "name" : "Captured stdout setup",
+      "source" : "6710413dedd5c629.txt",
+      "type" : "text/plain",
+      "size" : 23
+    }, {
+      "uid" : "49f6a0e80bbe59fb",
+      "name" : "Captured stdout call",
+      "source" : "49f6a0e80bbe59fb.txt",
+      "type" : "text/plain",
+      "size" : 2790
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 18,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "IM2973-W0.corp.inmobi.com"
+  }, {
+    "name" : "language",
+    "value" : "cpython2"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "3511-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "testScripts"
+  }, {
+    "name" : "testClass",
+    "value" : "testScripts"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_SamsungAndroid7.TestCase1.test_sdk700_samsung_1__u_Banner___u__script_src__https___bs_serving_sys_com_BurstingPipe_adServer_bs_cn_rsb_c_28_pli_29274534_PluID_0_w_300_h_250_ord__IMP_CB_ncu___https_____md_domain_____md_port___event_CLICK___auction_id___r_type___r_type_____md_dc_params___rurl____ucm_true____script__n_noscript__n_a_href__https_____md_domain_____md_port___event_CLICK___auction_id___r_type___r_type_____md_dc_params___rurl_https___bs_serving_sys_com_BurstingPipe_adServer_bs_cn_brd_FlightID_29274534_Page__PluID_0_Pos_1988304519__target___blank___img_src__https___bs_serving_sys_com_BurstingPipe_adServer_bs_cn_bsr_FlightID_29274534_Page__PluID_0_Pos_1988304519__border_0_width_300_height_250___a__n__noscript____u_Android___u_on___u_shashank___u_shashank_dwivedi21_gmail_com___u_render___u_a0f7884c_9092_4091_8401_9dd1c40c0387___u_inline___u_cpc___u_300_X_250___u_Android__"
+  }, {
+    "name" : "package",
+    "value" : "testScripts"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2856bc08690db0ed.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,26 @@
+{
+  "capabilities":
+      [
+        {
+         "deviceName": "Galaxy S9",
+          "version":"9",
+          "maxInstances": 3,
+          "platform":"Android",
+          "udid":"21dbae18030c7ece"
+        }
+      ],
+  "configuration":
+  {
+    "cleanUpCycle":3000,
+    "timeout":30000,
+    "proxy": "org.openqa.grid.selenium.proxy.DefaultRemoteProxy",
+    "url":"http://10.14.124.125:4625/wd/hub",
+    "host": "10.14.124.125",
+    "port": 4625,
+    "maxSession": 4,
+    "register": true,
+    "registerCycle": 5000,
+    "hubPort": 4444,
+    "hubHost": "10.14.124.125"
+  }
+}

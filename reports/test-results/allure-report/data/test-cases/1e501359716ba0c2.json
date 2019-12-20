@@ -1,0 +1,179 @@
+{
+  "uid" : "1e501359716ba0c2",
+  "name" : "test_MotoGAndroid6.TestCase2.test_sdk610_motog_1__u_Banner___u__script_src__https___bs_serving_sys_com_BurstingPipe_adServer_bs_cn_rsb_c_28_pli_29274534_PluID_0_w_300_h_250_ord__IMP_CB_ncu___https_____md_domain_____md_port___event_CLICK___auction_id___r_type___r_type_____md_dc_params___rurl____ucm_true____script__n_noscript__n_a_href__https_____md_domain_____md_port___event_CLICK___auction_id___r_type___r_type_____md_dc_params___rurl_https___bs_serving_sys_com_BurstingPipe_adServer_bs_cn_brd_FlightID_29274534_Page__PluID_0_Pos_1988304519__target___blank___img_src__https___bs_serving_sys_com_BurstingPipe_adServer_bs_cn_bsr_FlightID_29274534_Page__PluID_0_Pos_1988304519__border_0_width_300_height_250___a__n__noscript____u_Android___u_on___u_shashank___u_shashank_dwivedi21_gmail_com___u_render___u_a0f7884c_9092_4091_8401_9dd1c40c0387___u_inline___u_cpc___u_300_X_250___u_Android__",
+  "fullName" : "testScripts.test_MotoGAndroid6.TestCase2.test_sdk610_motog_1__u_Banner___u__script_src__https___bs_serving_sys_com_BurstingPipe_adServer_bs_cn_rsb_c_28_pli_29274534_PluID_0_w_300_h_250_ord__IMP_CB_ncu___https_____md_domain_____md_port___event_CLICK___auction_id___r_type___r_type_____md_dc_params___rurl____ucm_true____script__n_noscript__n_a_href__https_____md_domain_____md_port___event_CLICK___auction_id___r_type___r_type_____md_dc_params___rurl_https___bs_serving_sys_com_BurstingPipe_adServer_bs_cn_brd_FlightID_29274534_Page__PluID_0_Pos_1988304519__target___blank___img_src__https___bs_serving_sys_com_BurstingPipe_adServer_bs_cn_bsr_FlightID_29274534_Page__PluID_0_Pos_1988304519__border_0_width_300_height_250___a__n__noscript____u_Android___u_on___u_shashank___u_shashank_dwivedi21_gmail_com___u_render___u_a0f7884c_9092_4091_8401_9dd1c40c0387___u_inline___u_cpc___u_300_X_250___u_Android__",
+  "historyId" : "af09d15c85982ab8eb4cb82260214e35",
+  "time" : {
+    "start" : 1574853249841,
+    "stop" : 1574853346347,
+    "duration" : 96506
+  },
+  "description" : "list() -> new empty list\nlist(iterable) -> new list initialized from iterable's items",
+  "descriptionHtml" : "<p>list() -&gt; new empty list\nlist(iterable) -&gt; new list initialized from iterable's items</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a55c7eb38400c87d",
+      "name" : "tags_is_not_null",
+      "source" : "a55c7eb38400c87d.txt",
+      "type" : "text/plain",
+      "size" : 727
+    }, {
+      "uid" : "29d6b507101e1aec",
+      "name" : "scripts",
+      "source" : "29d6b507101e1aec.txt",
+      "type" : "text/plain",
+      "size" : 727
+    }, {
+      "uid" : "60a43a11de0b1462",
+      "name" : "Adloadsrenders_3372f91e-3299-4d5a-b2e5-ce08e7b44b70",
+      "source" : "60a43a11de0b1462.png",
+      "type" : "image/png",
+      "size" : 326492
+    }, {
+      "uid" : "b234611f7e5e1e4f",
+      "name" : "AdInterval-1renders_02b00526-ce12-4840-af47-0cfdf50a0728",
+      "source" : "b234611f7e5e1e4f.png",
+      "type" : "image/png",
+      "size" : 452601
+    }, {
+      "uid" : "118820573cbc10",
+      "name" : "AdInterval-2renders_bc9bde50-fef3-4143-8384-2e424420cd47",
+      "source" : "118820573cbc10.png",
+      "type" : "image/png",
+      "size" : 520614
+    }, {
+      "uid" : "2ca45e240b04754d",
+      "name" : "Detected_creative",
+      "source" : "2ca45e240b04754d.txt",
+      "type" : "text/plain",
+      "size" : 14
+    }, {
+      "uid" : "ed2fc9006e501c51",
+      "name" : "render_fail_try",
+      "source" : "ed2fc9006e501c51.txt",
+      "type" : "text/plain",
+      "size" : 15
+    }, {
+      "uid" : "b61827abfbcbe8b2",
+      "name" : "BeforeCheck_Activity",
+      "source" : "b61827abfbcbe8b2.txt",
+      "type" : "text/plain",
+      "size" : 53
+    }, {
+      "uid" : "262106b111c5d73a",
+      "name" : "Banner_CurrentActivity",
+      "source" : "262106b111c5d73a.txt",
+      "type" : "text/plain",
+      "size" : 53
+    }, {
+      "uid" : "b939c917c1fc6cdc",
+      "name" : "Ad_click_CurrentActivity",
+      "source" : "b939c917c1fc6cdc.txt",
+      "type" : "text/plain",
+      "size" : 53
+    }, {
+      "uid" : "e077d734827315fa",
+      "name" : "exitlinkOnexit_68567adf-1cee-4d67-80be-f58e215089cd",
+      "source" : "e077d734827315fa.png",
+      "type" : "image/png",
+      "size" : 903222
+    }, {
+      "uid" : "f173f810eb43c25",
+      "name" : "Exitlink_Activity",
+      "source" : "f173f810eb43c25.txt",
+      "type" : "text/plain",
+      "size" : 37
+    }, {
+      "uid" : "84fc19ae0a96150d",
+      "name" : "platform version",
+      "source" : "84fc19ae0a96150d.txt",
+      "type" : "text/plain",
+      "size" : 1
+    }, {
+      "uid" : "9ef0cc1a6dc8f846",
+      "name" : "platformName",
+      "source" : "9ef0cc1a6dc8f846.txt",
+      "type" : "text/plain",
+      "size" : 7
+    }, {
+      "uid" : "57b228be729193bc",
+      "name" : "ManufacturerName",
+      "source" : "57b228be729193bc.txt",
+      "type" : "text/plain",
+      "size" : 8
+    }, {
+      "uid" : "227fd8115bb5ce1b",
+      "name" : "Job_Id",
+      "source" : "227fd8115bb5ce1b.txt",
+      "type" : "text/plain",
+      "size" : 36
+    }, {
+      "uid" : "1c263f3dadd3c929",
+      "name" : "Captured stdout setup",
+      "source" : "1c263f3dadd3c929.txt",
+      "type" : "text/plain",
+      "size" : 23
+    }, {
+      "uid" : "bbaf078b6ef8155b",
+      "name" : "Captured stdout call",
+      "source" : "bbaf078b6ef8155b.txt",
+      "type" : "text/plain",
+      "size" : 2766
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 18,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "IM2973-W0.corp.inmobi.com"
+  }, {
+    "name" : "language",
+    "value" : "cpython2"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "3511-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "testScripts"
+  }, {
+    "name" : "testClass",
+    "value" : "testScripts"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_MotoGAndroid6.TestCase2.test_sdk610_motog_1__u_Banner___u__script_src__https___bs_serving_sys_com_BurstingPipe_adServer_bs_cn_rsb_c_28_pli_29274534_PluID_0_w_300_h_250_ord__IMP_CB_ncu___https_____md_domain_____md_port___event_CLICK___auction_id___r_type___r_type_____md_dc_params___rurl____ucm_true____script__n_noscript__n_a_href__https_____md_domain_____md_port___event_CLICK___auction_id___r_type___r_type_____md_dc_params___rurl_https___bs_serving_sys_com_BurstingPipe_adServer_bs_cn_brd_FlightID_29274534_Page__PluID_0_Pos_1988304519__target___blank___img_src__https___bs_serving_sys_com_BurstingPipe_adServer_bs_cn_bsr_FlightID_29274534_Page__PluID_0_Pos_1988304519__border_0_width_300_height_250___a__n__noscript____u_Android___u_on___u_shashank___u_shashank_dwivedi21_gmail_com___u_render___u_a0f7884c_9092_4091_8401_9dd1c40c0387___u_inline___u_cpc___u_300_X_250___u_Android__"
+  }, {
+    "name" : "package",
+    "value" : "testScripts"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1e501359716ba0c2.json",
+  "parameterValues" : [ ]
+}

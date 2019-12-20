@@ -1,0 +1,10 @@
+Loading script: /Users/rmqa/Desktop/git/automation/proxysetup/mitm_script.py
+Proxy server listening at http://0.0.0.0:8080
+10.14.122.172:43528: clientconnect
+cmdts.ksmobile.com:https://cmdts.ksmobile.com/c/
+10.14.122.172:43528: POST https://cmdts.ksmobile.com/c/
+                  << 200 OK 36b
+10.14.122.172:43529: clientconnect
+10.14.122.172:43529: CONNECT www.googleadservices.com:443
+ << Cannot establish TLS with client (sni: www.googleadservices.com): TlsException("SSL handshake error: Error([('SSL routines', 'ssl3_read_bytes', 'sslv3 alert certificate unknown')],)",)
+10.14.122.172:43529: clientdisconnect

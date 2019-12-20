@@ -1,0 +1,35 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "testScripts",
+    "children" : [ {
+      "name" : "test_MotoGAndroid6.TestCase2.test_sdk610_motog_1__u_Banner___u__script_src__https___bs_serving_sys_com_BurstingPipe_adServer_bs_cn_rsb_c_28_pli_29274534_PluID_0_w_300_h_250_ord__IMP_CB_ncu___https_____md_domain_____md_port___event_CLICK___auction_id___r_type___r_type_____md_dc_params___rurl____ucm_true____script__n_noscript__n_a_href__https_____md_domain_____md_port___event_CLICK___auction_id___r_type___r_type_____md_dc_params___rurl_https___bs_serving_sys_com_BurstingPipe_adServer_bs_cn_brd_FlightID_29274534_Page__PluID_0_Pos_1988304519__target___blank___img_src__https___bs_serving_sys_com_BurstingPipe_adServer_bs_cn_bsr_FlightID_29274534_Page__PluID_0_Pos_1988304519__border_0_width_300_height_250___a__n__noscript____u_Android___u_on___u_shashank___u_shashank_dwivedi21_gmail_com___u_render___u_a0f7884c_9092_4091_8401_9dd1c40c0387___u_inline___u_cpc___u_300_X_250___u_Android__",
+      "uid" : "1e501359716ba0c2",
+      "parentUid" : "0623833e7d58b99b0655590317ac7676",
+      "status" : "passed",
+      "time" : {
+        "start" : 1574853249841,
+        "stop" : 1574853346347,
+        "duration" : 96506
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_SamsungAndroid7.TestCase1.test_sdk700_samsung_1__u_Banner___u__script_src__https___bs_serving_sys_com_BurstingPipe_adServer_bs_cn_rsb_c_28_pli_29274534_PluID_0_w_300_h_250_ord__IMP_CB_ncu___https_____md_domain_____md_port___event_CLICK___auction_id___r_type___r_type_____md_dc_params___rurl____ucm_true____script__n_noscript__n_a_href__https_____md_domain_____md_port___event_CLICK___auction_id___r_type___r_type_____md_dc_params___rurl_https___bs_serving_sys_com_BurstingPipe_adServer_bs_cn_brd_FlightID_29274534_Page__PluID_0_Pos_1988304519__target___blank___img_src__https___bs_serving_sys_com_BurstingPipe_adServer_bs_cn_bsr_FlightID_29274534_Page__PluID_0_Pos_1988304519__border_0_width_300_height_250___a__n__noscript____u_Android___u_on___u_shashank___u_shashank_dwivedi21_gmail_com___u_render___u_a0f7884c_9092_4091_8401_9dd1c40c0387___u_inline___u_cpc___u_300_X_250___u_Android__",
+      "uid" : "2856bc08690db0ed",
+      "parentUid" : "0623833e7d58b99b0655590317ac7676",
+      "status" : "passed",
+      "time" : {
+        "start" : 1574853346784,
+        "stop" : 1574853444435,
+        "duration" : 97651
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "0623833e7d58b99b0655590317ac7676"
+  } ]
+}

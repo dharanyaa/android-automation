@@ -1,0 +1,25 @@
+{
+  "capabilities":
+      [
+        {
+         "deviceName": "iPhone XR",
+          "version":"12.1",
+          "maxInstances": 3,
+          "platform":"ios"
+        }
+      ],
+  "configuration":
+  {
+    "cleanUpCycle":3000,
+    "timeout":30000,
+    "proxy": "org.openqa.grid.selenium.proxy.DefaultRemoteProxy",
+    "url":"http://10.14.120.116:4629/wd/hub",
+    "host": "10.14.120.116",
+    "port": 4629,
+    "maxSession": 4,
+    "register": true,
+    "registerCycle": 5000,
+    "hubPort": 4444,
+    "hubHost": "10.14.120.116"
+  }
+}
