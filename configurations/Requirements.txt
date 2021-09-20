@@ -14,5 +14,5 @@ multiprocessing==2.6.2.1
 pytest-html==1.19.0
 pytest-allure-adaptor==1.7.10
 ddt==1.2.0
-mitmproxy==0.18.2
+mitmproxy==7.0.3
 
